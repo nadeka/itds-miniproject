@@ -12,12 +12,12 @@ def CleanUp(fileName, fileNameCleanUp, columnNames):
         df.drop(df.columns[4], axis=1, inplace=True)
         print 'After droping the votes column, shape is', df.shape
         df.columns = columnNames
-        df.to_csv('CleanUp/'+fileNameCleanUp, sep='\t', index=False, header=None)
+        df.to_csv('CleanUp/'+fileNameCleanUp, sep='\t', index=False, header =columnNames)
     elif(fileName=='movie_characters_metadata.tsv'):
         df = df.ix[:, 0:4]
         print 'After removing last column credit, shape is', df.shape
         df.columns = columnNames
-        df.to_csv('CleanUp/'+fileNameCleanUp, sep='\t', index=False, header=None)
+        df.to_csv('CleanUp/'+fileNameCleanUp, sep='\t', index=False, header =columnNames)
     else:
         df.columns = columnNames
         print df.head()
