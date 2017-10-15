@@ -1238,15 +1238,15 @@ u1236	LOOMIS	m81	halloween: the curse of michael myers	m	1
 u1237	TIM	m81	halloween: the curse of michael myers	?	?
 u1238	TOMMY	m81	halloween: the curse of michael myers	?	?
 u1239	WYNN	m81	halloween: the curse of michael myers	m	4
-u1240	HAROLD	m82	happy birthday wanda june	m	1
-u1241	LOOSELEAF	m82	happy birthday wanda june	m	5
-u1242	MILDRED	m82	happy birthday wanda june	?	?
-u1243	PAUL	m82	happy birthday wanda june	m	6
-u1244	PENELOPE	m82	happy birthday wanda june	f	2
-u1245	SHUTTLE	m82	happy birthday wanda june	m	4
-u1246	VON KONIGSWALD	m82	happy birthday wanda june	?	?
-u1247	WANDA JUNE	m82	happy birthday wanda june	?	?
-u1248	WOODLY	m82	happy birthday wanda june	M	?
+u1240	HAROLD	m82	happy birthday, wanda june	m	1
+u1241	LOOSELEAF	m82	happy birthday, wanda june	m	5
+u1242	MILDRED	m82	happy birthday, wanda june	?	?
+u1243	PAUL	m82	happy birthday, wanda june	m	6
+u1244	PENELOPE	m82	happy birthday, wanda june	f	2
+u1245	SHUTTLE	m82	happy birthday, wanda june	m	4
+u1246	VON KONIGSWALD	m82	happy birthday, wanda june	?	?
+u1247	WANDA JUNE	m82	happy birthday, wanda june	?	?
+u1248	WOODLY	m82	happy birthday, wanda june	M	?
 u1249	BEATRICE	m83	hardcore	?	?
 u1250	BLACK STUD	m83	hardcore	?	?
 u1251	BURROWS	m83	hardcore	?	?
@@ -1600,7 +1600,7 @@ u1598	ORDELL	m105	jackie brown	m	2
 u1599	PUBLIC DEFENDER	m105	jackie brown	?	?
 u1600	SHERONDA	m105	jackie brown	?	?
 u1601	WINSTON	m105	jackie brown	?	?
-"u1602	""DOCTOR""	m106	jacob's ladder	?	?"
+u1602	"DOCTOR"	m106	jacob's ladder	?	?
 u1603	DELLA	m106	jacob's ladder	?	?
 u1604	DOORMAN	m106	jacob's ladder	?	?
 u1605	DOUG	m106	jacob's ladder	?	?
@@ -1724,16 +1724,16 @@ u1722	VELLA	m113	krull	?	?
 u1723	VOICE OF THE BEAST	m113	krull	?	?
 u1724	WIDOW	m113	krull	f	4
 u1725	YNYR	m113	krull	m	3
-u1726	COP	m114	l√©on	?	?
-u1727	JENNY	m114	l√©on	?	?
-u1728	LEON	m114	l√©on	m	22
-u1729	MAN	m114	l√©on	?	?
-u1730	MATHILDA	m114	l√©on	f	3
-u1731	RECEPTIONIST	m114	l√©on	?	?
-u1732	RINALDI	m114	l√©on	?	?
-u1733	STANSFIELD	m114	l√©on	?	?
-u1734	THE BOSS	m114	l√©on	?	?
-u1735	TONY	m114	l√©on	?	?
+u1726	COP	m114	lÈon	?	?
+u1727	JENNY	m114	lÈon	?	?
+u1728	LEON	m114	lÈon	m	22
+u1729	MAN	m114	lÈon	?	?
+u1730	MATHILDA	m114	lÈon	f	3
+u1731	RECEPTIONIST	m114	lÈon	?	?
+u1732	RINALDI	m114	lÈon	?	?
+u1733	STANSFIELD	m114	lÈon	?	?
+u1734	THE BOSS	m114	lÈon	?	?
+u1735	TONY	m114	lÈon	?	?
 u1736	ADELLE	m115	labor of love	f	?
 u1737	DALLY	m115	labor of love	?	?
 u1738	DENNY	m115	labor of love	?	?
@@ -1864,7 +1864,7 @@ u1862	OLD MAN	m122	logan's run	m	7
 u1863	RECEPTIONIST	m122	logan's run	?	?
 u1864	VOICE	m122	logan's run	?	?
 u1865	WOMAN	m122	logan's run	?	?
-"u1866	""V""	m123	lost highway	?	?"
+u1866	"V"	m123	lost highway	?	?
 u1867	AL	m123	lost highway	?	?
 u1868	ALICE	m123	lost highway	f	2
 u1869	ANDY	m123	lost highway	?	?
@@ -2315,7 +2315,7 @@ u2313	MANAGER	m149	ninotchka	?	?
 u2314	NINOTCHKA	m149	ninotchka	f	1
 u2315	OFFICIAL	m149	ninotchka	m	1000
 u2316	PORTER	m149	ninotchka	?	?
-u2317	PƒåRE MATHIEU	m149	ninotchka	?	?
+u2317	P»RE MATHIEU	m149	ninotchka	?	?
 u2318	RAKONIN	m149	ninotchka	?	?
 u2319	RAZININ	m149	ninotchka	m	4
 u2320	SWANA	m149	ninotchka	f	3
@@ -2388,21 +2388,21 @@ u2386	ROSA	m152	nurse betty	f	6
 u2387	ROY	m152	nurse betty	m	7
 u2388	SUE ANN	m152	nurse betty	f	10
 u2389	WESLEY	m152	nurse betty	m	3
-u2390	BIG DAN	m153	o brother where art thou?	?	?
-u2391	COOLEY	m153	o brother where art thou?	?	?
-u2392	DELMAR	m153	o brother where art thou?	m	3
-u2393	ECKARD	m153	o brother where art thou?	?	?
-u2394	EVERETT	m153	o brother where art thou?	m	1
-u2395	FRENCH	m153	o brother where art thou?	?	?
-u2396	JUNIOR	m153	o brother where art thou?	?	?
-u2397	MAN	m153	o brother where art thou?	?	?
-u2398	MIDDLE	m153	o brother where art thou?	?	?
-u2399	PAPPY	m153	o brother where art thou?	?	?
-u2400	PENNY	m153	o brother where art thou?	f	5
-u2401	PETE	m153	o brother where art thou?	m	2
-u2402	PROPRIETOR	m153	o brother where art thou?	?	?
-u2403	SPIVEY	m153	o brother where art thou?	?	?
-u2404	YOUNGEST	m153	o brother where art thou?	?	?
+u2390	BIG DAN	m153	o brother, where art thou?	?	?
+u2391	COOLEY	m153	o brother, where art thou?	?	?
+u2392	DELMAR	m153	o brother, where art thou?	m	3
+u2393	ECKARD	m153	o brother, where art thou?	?	?
+u2394	EVERETT	m153	o brother, where art thou?	m	1
+u2395	FRENCH	m153	o brother, where art thou?	?	?
+u2396	JUNIOR	m153	o brother, where art thou?	?	?
+u2397	MAN	m153	o brother, where art thou?	?	?
+u2398	MIDDLE	m153	o brother, where art thou?	?	?
+u2399	PAPPY	m153	o brother, where art thou?	?	?
+u2400	PENNY	m153	o brother, where art thou?	f	5
+u2401	PETE	m153	o brother, where art thou?	m	2
+u2402	PROPRIETOR	m153	o brother, where art thou?	?	?
+u2403	SPIVEY	m153	o brother, where art thou?	?	?
+u2404	YOUNGEST	m153	o brother, where art thou?	?	?
 u2405	BYRON	m154	an officer and a gentleman	m	4
 u2406	CASEY	m154	an officer and a gentleman	?	?
 u2407	ESTHER	m154	an officer and a gentleman	?	?
@@ -2531,7 +2531,7 @@ u2529	ABBE DU MAUPAS	m164	quills	?	?
 u2530	CHARLOTTE	m164	quills	?	?
 u2531	CLEANTE	m164	quills	?	?
 u2532	COULMIER	m164	quills	m	3
-u2533	DELBENƒå	m164	quills	?	?
+u2533	DELBEN»	m164	quills	?	?
 u2534	HORSEMAN	m164	quills	?	?
 u2535	INGENUE	m164	quills	?	?
 u2536	LIBERTINE	m164	quills	?	?
@@ -2685,15 +2685,15 @@ u2683	MRS. ROMARI	m174	the seventh victim	?	?
 u2684	NANCY	m174	the seventh victim	?	?
 u2685	RADEAU	m174	the seventh victim	?	?
 u2686	ROMARI	m174	the seventh victim	?	?
-u2687	ANN	m175	sex lies and videotape	f	2
-u2688	CYNTHIA	m175	sex lies and videotape	f	4
-u2689	CYTNHIA	m175	sex lies and videotape	?	?
-u2690	DOCTOR	m175	sex lies and videotape	M	?
-u2691	GRAHAM	m175	sex lies and videotape	m	1
-u2692	JOHN	m175	sex lies and videotape	m	3
-u2693	MR. MILLER	m175	sex lies and videotape	?	?
-u2694	SECRETARY	m175	sex lies and videotape	?	?
-u2695	VOICE ON PHONE	m175	sex lies and videotape	?	?
+u2687	ANN	m175	sex, lies, and videotape	f	2
+u2688	CYNTHIA	m175	sex, lies, and videotape	f	4
+u2689	CYTNHIA	m175	sex, lies, and videotape	?	?
+u2690	DOCTOR	m175	sex, lies, and videotape	M	?
+u2691	GRAHAM	m175	sex, lies, and videotape	m	1
+u2692	JOHN	m175	sex, lies, and videotape	m	3
+u2693	MR. MILLER	m175	sex, lies, and videotape	?	?
+u2694	SECRETARY	m175	sex, lies, and videotape	?	?
+u2695	VOICE ON PHONE	m175	sex, lies, and videotape	?	?
 u2696	BETTS	m176	shivers	?	?
 u2697	BOY	m176	shivers	?	?
 u2698	DETECTIVE	m176	shivers	?	?
@@ -3850,7 +3850,7 @@ u3848	BILLY	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
 u3849	BUCKAROO BANZAI	m255	the adventures of buckaroo banzai across the 8th dimension	m	1
 u3850	BUCKAROO BANZAI ON TV	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
 u3851	CASPER LINDLEY	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
-u3852	JOHN BIGBOOT√â	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
+u3852	JOHN BIGBOOT…	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
 u3853	JOHN O'CONNOR	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
 u3854	JOHN PARKER	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
 u3855	NATIONAL SECURITY MAN	m255	the adventures of buckaroo banzai across the 8th dimension	?	?
@@ -4414,7 +4414,7 @@ u4412	BARTHOLOMEW	m293	charade	m	1000
 u4413	BARTHOLOMEW'S VOICE	m293	charade	?	?
 u4414	CRUIKSHANK	m293	charade	?	?
 u4415	DYLE	m293	charade	M	?
-u4416	F√âLIX	m293	charade	?	?
+u4416	F…LIX	m293	charade	?	?
 u4417	GIDEON	m293	charade	?	?
 u4418	GRANDPIERRE	m293	charade	m	8
 u4419	JEAN-LOUIS	m293	charade	?	?
@@ -4658,11 +4658,11 @@ u4656	BOBBY BEANS	m309	crime spree	?	?
 u4657	BONANNO	m309	crime spree	?	?
 u4658	DANIEL	m309	crime spree	m	1
 u4659	HECTOR	m309	crime spree	?	?
-"u4660	JOEY ""TWO TONS""	m309	crime spree	?	?"
+u4660	JOEY "TWO TONS"	m309	crime spree	?	?
 u4661	JULIEN	m309	crime spree	?	?
 u4662	LAMAR	m309	crime spree	m	16
 u4663	MARCEL	m309	crime spree	m	3
-"u4664	NICKY ""THE RAKE""	m309	crime spree	?	?"
+u4664	NICKY "THE RAKE"	m309	crime spree	?	?
 u4665	RAPHAEL	m309	crime spree	?	?
 u4666	RAYMOND	m309	crime spree	?	?
 u4667	SAMI	m309	crime spree	m	5
@@ -4672,21 +4672,21 @@ u4670	VINNY	m309	crime spree	?	?
 u4671	WAYNE	m309	crime spree	?	?
 u4672	ZAMMITO	m309	crime spree	?	?
 u4673	ZERO	m309	crime spree	?	?
-u4674	AUNT WU	m310	crouching tiger hidden dragon	?	?
-u4675	BO	m310	crouching tiger hidden dragon	?	?
-u4676	FIGURE	m310	crouching tiger hidden dragon	?	?
-u4677	FIGURE IN BLACK	m310	crouching tiger hidden dragon	?	?
-u4678	FOX	m310	crouching tiger hidden dragon	?	?
-u4679	GANGSTER A	m310	crouching tiger hidden dragon	?	?
-u4680	GOVERNESS	m310	crouching tiger hidden dragon	?	?
-u4681	JEN	m310	crouching tiger hidden dragon	F	?
-u4682	LI	m310	crouching tiger hidden dragon	m	1
-u4683	LO	m310	crouching tiger hidden dragon	?	?
-u4684	MADAM YU	m310	crouching tiger hidden dragon	?	?
-u4685	MAY	m310	crouching tiger hidden dragon	?	?
-u4686	SIR TE	m310	crouching tiger hidden dragon	?	?
-u4687	TSAI	m310	crouching tiger hidden dragon	?	?
-u4688	YU	m310	crouching tiger hidden dragon	f	2
+u4674	AUNT WU	m310	crouching tiger, hidden dragon	?	?
+u4675	BO	m310	crouching tiger, hidden dragon	?	?
+u4676	FIGURE	m310	crouching tiger, hidden dragon	?	?
+u4677	FIGURE IN BLACK	m310	crouching tiger, hidden dragon	?	?
+u4678	FOX	m310	crouching tiger, hidden dragon	?	?
+u4679	GANGSTER A	m310	crouching tiger, hidden dragon	?	?
+u4680	GOVERNESS	m310	crouching tiger, hidden dragon	?	?
+u4681	JEN	m310	crouching tiger, hidden dragon	F	?
+u4682	LI	m310	crouching tiger, hidden dragon	m	1
+u4683	LO	m310	crouching tiger, hidden dragon	?	?
+u4684	MADAM YU	m310	crouching tiger, hidden dragon	?	?
+u4685	MAY	m310	crouching tiger, hidden dragon	?	?
+u4686	SIR TE	m310	crouching tiger, hidden dragon	?	?
+u4687	TSAI	m310	crouching tiger, hidden dragon	?	?
+u4688	YU	m310	crouching tiger, hidden dragon	f	2
 u4689	ALBRECHT	m311	the crow	m	3
 u4690	ANNABELLA	m311	the crow	?	?
 u4691	DARLA	m311	the crow	?	?
@@ -4892,7 +4892,7 @@ u4890	DA MAYOR	m326	do the right thing	?	?
 u4891	EDDIE	m326	do the right thing	?	?
 u4892	JADE	m326	do the right thing	f	12
 u4893	KOREAN CLERK	m326	do the right thing	?	?
-u4894	MISTER SE≈ÉOR LOVE DADDY	m326	do the right thing	?	?
+u4894	MISTER SE—OR LOVE DADDY	m326	do the right thing	?	?
 u4895	ML	m326	do the right thing	m	9
 u4896	MOOKIE	m326	do the right thing	m	6
 u4897	MOTHER SISTER	m326	do the right thing	?	?
@@ -5009,7 +5009,7 @@ u5007	STENSLAND	m332	l.a. confidential	?	?
 u5008	STOMPANATO	m332	l.a. confidential	?	?
 u5009	VICE CAPTAIN	m332	l.a. confidential	?	?
 u5010	YOUNG OFFICER	m332	l.a. confidential	?	?
-"u5011	""BRILL""	m333	enemy of the state	?	?"
+u5011	"BRILL"	m333	enemy of the state	?	?
 u5012	ALBERT	m333	enemy of the state	?	?
 u5013	ALFONSO	m333	enemy of the state	?	?
 u5014	BLAKE	m333	enemy of the state	?	?
@@ -5044,7 +5044,7 @@ u5042	SILVERBERG	m333	enemy of the state	?	?
 u5043	STACY	m333	enemy of the state	?	?
 u5044	WAITER	m333	enemy of the state	?	?
 u5045	ZAVITZ	m333	enemy of the state	?	?
-u5046	ALM√ÅSY	m334	the english patient	M	?
+u5046	ALM¡SY	m334	the english patient	M	?
 u5047	BOY	m334	the english patient	?	?
 u5048	CARAVAGGIO	m334	the english patient	m	3
 u5049	CLIFTON	m334	the english patient	?	?
@@ -5056,7 +5056,7 @@ u5054	KATHARINE	m334	the english patient	f	4
 u5055	KIP	m334	the english patient	m	5
 u5056	LADY HAMPTON	m334	the english patient	?	?
 u5057	MADOX	m334	the english patient	m	7
-u5058	M√úLLER	m334	the english patient	?	?
+u5058	M‹LLER	m334	the english patient	?	?
 u5059	OFFICER	m334	the english patient	?	?
 u5060	OLIVER	m334	the english patient	?	?
 u5061	STUART	m334	the english patient	?	?
@@ -6297,29 +6297,29 @@ u6295	MARTIN	m421	leviathan	?	?
 u6296	SIXPACK	m421	leviathan	?	?
 u6297	WILLIE	m421	leviathan	f	3
 u6298	WILLIE'S VOICE	m421	leviathan	?	?
-u6299	BACON	m422	lock stock and two smoking barrels	?	?
-u6300	BARRY	m422	lock stock and two smoking barrels	?	?
-u6301	BIG CHRIS	m422	lock stock and two smoking barrels	?	?
-u6302	DEAN	m422	lock stock and two smoking barrels	?	?
-u6303	DOG	m422	lock stock and two smoking barrels	?	?
-u6304	DOORMAN	m422	lock stock and two smoking barrels	?	?
-u6305	EDDY	m422	lock stock and two smoking barrels	m	3
-u6306	GARY	m422	lock stock and two smoking barrels	?	?
-u6307	HATCHET	m422	lock stock and two smoking barrels	?	?
-u6308	J	m422	lock stock and two smoking barrels	?	?
-u6309	JD	m422	lock stock and two smoking barrels	?	?
-u6310	JOHN	m422	lock stock and two smoking barrels	?	?
-u6311	JOHN O'DRISCOLL	m422	lock stock and two smoking barrels	?	?
-u6312	LITTLE CHRIS	m422	lock stock and two smoking barrels	?	?
-u6313	NICK	m422	lock stock and two smoking barrels	?	?
-u6314	PAUL	m422	lock stock and two smoking barrels	?	?
-u6315	PLANK	m422	lock stock and two smoking barrels	?	?
-u6316	SAMOAN JO	m422	lock stock and two smoking barrels	?	?
-u6317	SOAP	m422	lock stock and two smoking barrels	m	2
-u6318	TOM	m422	lock stock and two smoking barrels	m	1
-u6319	TRAFFIC WARDEN	m422	lock stock and two smoking barrels	?	?
-u6320	WILLY	m422	lock stock and two smoking barrels	?	?
-u6321	WINSTON	m422	lock stock and two smoking barrels	?	?
+u6299	BACON	m422	lock, stock and two smoking barrels	?	?
+u6300	BARRY	m422	lock, stock and two smoking barrels	?	?
+u6301	BIG CHRIS	m422	lock, stock and two smoking barrels	?	?
+u6302	DEAN	m422	lock, stock and two smoking barrels	?	?
+u6303	DOG	m422	lock, stock and two smoking barrels	?	?
+u6304	DOORMAN	m422	lock, stock and two smoking barrels	?	?
+u6305	EDDY	m422	lock, stock and two smoking barrels	m	3
+u6306	GARY	m422	lock, stock and two smoking barrels	?	?
+u6307	HATCHET	m422	lock, stock and two smoking barrels	?	?
+u6308	J	m422	lock, stock and two smoking barrels	?	?
+u6309	JD	m422	lock, stock and two smoking barrels	?	?
+u6310	JOHN	m422	lock, stock and two smoking barrels	?	?
+u6311	JOHN O'DRISCOLL	m422	lock, stock and two smoking barrels	?	?
+u6312	LITTLE CHRIS	m422	lock, stock and two smoking barrels	?	?
+u6313	NICK	m422	lock, stock and two smoking barrels	?	?
+u6314	PAUL	m422	lock, stock and two smoking barrels	?	?
+u6315	PLANK	m422	lock, stock and two smoking barrels	?	?
+u6316	SAMOAN JO	m422	lock, stock and two smoking barrels	?	?
+u6317	SOAP	m422	lock, stock and two smoking barrels	m	2
+u6318	TOM	m422	lock, stock and two smoking barrels	m	1
+u6319	TRAFFIC WARDEN	m422	lock, stock and two smoking barrels	?	?
+u6320	WILLY	m422	lock, stock and two smoking barrels	?	?
+u6321	WINSTON	m422	lock, stock and two smoking barrels	?	?
 u6322	AMADO	m423	lone star	m	8
 u6323	ATHENA	m423	lone star	f	20
 u6324	BEN	m423	lone star	m	30
@@ -6575,7 +6575,7 @@ u6573	EL TIBURON	m437	miami vice	?	?
 u6574	FUJIMA	m437	miami vice	m	5
 u6575	GINA	m437	miami vice	?	?
 u6576	ISABELLA	m437	miami vice	f	3
-u6577	JOS√â YERO	m437	miami vice	?	?
+u6577	JOS… YERO	m437	miami vice	?	?
 u6578	MONTOYA	m437	miami vice	?	?
 u6579	STEVENS	m437	miami vice	?	?
 u6580	TRUDY	m437	miami vice	?	?
@@ -6734,14 +6734,14 @@ u6732	RAY	m448	mulholland dr.	?	?
 u6733	RITA	m448	mulholland dr.	f	2
 u6734	SERGEANT BAXTER	m448	mulholland dr.	?	?
 u6735	WALLY	m448	mulholland dr.	?	?
-"u6736	ANNOUNCER	m449	""murderland""	?	?"
-"u6737	BRUCE	m449	""murderland""	M	?"
-"u6738	FRED THOMISON	m449	""murderland""	?	?"
-"u6739	JOHN C. MCCAY	m449	""murderland""	M	?"
-"u6740	JOHNNY	m449	""murderland""	M	?"
-"u6741	MATTHEW	m449	""murderland""	M	?"
-"u6742	SAUNDRA	m449	""murderland""	F	?"
-"u6743	ZACH	m449	""murderland""	M	?"
+u6736	ANNOUNCER	m449	"murderland"	?	?
+u6737	BRUCE	m449	"murderland"	M	?
+u6738	FRED THOMISON	m449	"murderland"	?	?
+u6739	JOHN C. MCCAY	m449	"murderland"	M	?
+u6740	JOHNNY	m449	"murderland"	M	?
+u6741	MATTHEW	m449	"murderland"	M	?
+u6742	SAUNDRA	m449	"murderland"	F	?
+u6743	ZACH	m449	"murderland"	M	?
 u6744	ALFRED	m450	my girl 2	?	?
 u6745	BOY	m450	my girl 2	?	?
 u6746	DARYL	m450	my girl 2	?	?
@@ -7193,7 +7193,7 @@ u7191	MAXWELL	m483	maniac	?	?
 u7192	MRS. BUCKLEY	m483	maniac	?	?
 u7193	WOMAN	m483	maniac	?	?
 u7194	DOCTOR	m484	vampyr	?	?
-u7195	L√âONE	m484	vampyr	?	?
+u7195	L…ONE	m484	vampyr	?	?
 u7196	MARC	m484	vampyr	?	?
 u7197	NIKOLAS	m484	vampyr	?	?
 u7198	NURSE	m484	vampyr	?	?
@@ -7228,7 +7228,7 @@ u7226	MOTHER	m487	rambling rose	f	3
 u7227	ROSE	m487	rambling rose	f	1
 u7228	WASKI	m487	rambling rose	?	?
 u7229	WILLCOX HILLYER	m487	rambling rose	m	5
-"u7230	""SCHOOL-MARM""	m488	red white black & blue	?	?"
+u7230	"SCHOOL-MARM"	m488	red white black & blue	?	?
 u7231	ADAM	m488	red white black & blue	?	?
 u7232	ARCHIE	m488	red white black & blue	?	?
 u7233	BENNY	m488	red white black & blue	?	?
@@ -7397,7 +7397,7 @@ u7395	ESTELLA	m500	salt of the earth	?	?
 u7396	FRANK	m500	salt of the earth	?	?
 u7397	HARTWELL	m500	salt of the earth	?	?
 u7398	LUIS	m500	salt of the earth	?	?
-u7399	RAM√ìN	m500	salt of the earth	?	?
+u7399	RAM”N	m500	salt of the earth	?	?
 u7400	RUTH	m500	salt of the earth	?	?
 u7401	SAL	m500	salt of the earth	?	?
 u7402	SEBASTIAN	m500	salt of the earth	?	?
@@ -7843,7 +7843,7 @@ u7841	RODGER YOUNG	m530	starship troopers	?	?
 u7842	SUGAR WATKINS	m530	starship troopers	?	?
 u7843	ZANDER	m530	starship troopers	m	8
 u7844	ZIM	m530	starship troopers	?	?
-"u7845	""ILIA""	m531	star trek: the motion picture	?	?"
+u7845	"ILIA"	m531	star trek: the motion picture	?	?
 u7846	CHEKOV	m531	star trek: the motion picture	?	?
 u7847	DECKER	m531	star trek: the motion picture	m	10
 u7848	ILIA	m531	star trek: the motion picture	?	?
@@ -7912,10 +7912,10 @@ u7910	SMITTY	m535	stranglehold	?	?
 u7911	STOCKTON	m535	stranglehold	?	?
 u7912	WHITE	m535	stranglehold	?	?
 u7913	AMBASSADOR DE SADE	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?
-"u7914	COLONEL ""BAT"" GUANO	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?"
+u7914	COLONEL "BAT" GUANO	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?
 u7915	COLONEL GUANO	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?
 u7916	COLONEL PUNTRICH	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?
-"u7917	GENERAL ""BUCK"" SCHMUCK	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?"
+u7917	GENERAL "BUCK" SCHMUCK	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?
 u7918	GENERAL FACEMAN	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	?	?
 u7919	GENERAL JACK D. RIPPER	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	m	?
 u7920	GENERAL RIPPER	m536	dr. strangelove or: how i learned to stop worrying and love the bomb	M	?
@@ -8082,7 +8082,7 @@ u8080	VIDEO SILBERMAN	m547	terminator 2: judgment day	?	?
 u8081	DAVID	m548	taking sides	m	3
 u8082	DYMSHITZ	m548	taking sides	?	?
 u8083	EMMI	m548	taking sides	f	4
-u8084	FURTW√ÑNGLER	m548	taking sides	M	?
+u8084	FURTWƒNGLER	m548	taking sides	M	?
 u8085	MARTIN	m548	taking sides	?	?
 u8086	RODE	m548	taking sides	m	5
 u8087	SCHLEE	m548	taking sides	?	?
@@ -8301,7 +8301,7 @@ u8299	JANE	m564	the lost son	f	?
 u8300	LOMBARD	m564	the lost son	m	1
 u8301	MAN ON DAIS	m564	the lost son	?	?
 u8302	MAN WITH ITALIAN ACCENT	m564	the lost son	?	?
-u8303	MAN¬íS VOICE	m564	the lost son	?	?
+u8303	MANíS VOICE	m564	the lost son	?	?
 u8304	MARTIN	m564	the lost son	m	13
 u8305	MOREAU	m564	the lost son	?	?
 u8306	MRS SPITZ	m564	the lost son	f	?
@@ -8434,7 +8434,7 @@ u8432	WINTERS	m572	ticker	?	?
 u8433	BOLSHEVIK	m573	trouble in paradise	?	?
 u8434	BUTLER	m573	trouble in paradise	?	?
 u8435	CLOSE SHOT  GASTON	m573	trouble in paradise	?	?
-u8436	FRAN√áOIS	m573	trouble in paradise	?	?
+u8436	FRAN«OIS	m573	trouble in paradise	?	?
 u8437	GASTON	m573	trouble in paradise	m	3
 u8438	GASTON'S VOICE	m573	trouble in paradise	?	?
 u8439	GIRON	m573	trouble in paradise	m	6
