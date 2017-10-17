@@ -1,0 +1,24 @@
+train_loss = 1.6
+
+hidden_layers = 3
+rnn_size = 300
+num_epochs = 50
+seq_length = 50
+
+----------------------
+
+b' Elea gody. We\'t be retie <u>los head.
+
+SAM  Hay you sun a drom dae... Didn\'t it</u> 
+lone\'s on. Is what\'s oug, Mething on, he\'d know, 
+I get -- I knows if I feeved Some. That\'s -- the -- line 
+in this is -- the weeg...you ...  Bus broighering a good. 
+
+PALUR  Way and you\'ll didn\'t trank out of Bhoremon, 
+Juss in in peate to did anmy-out up?...
+
+BTIMK  Nrakiny into this beis oa reeves to "find a wonch 
+of we dod\'t knon, the hying hink itting about hering too 
+planker Vhoinw of he cours.
+
+EACOTHOCDA  Lesa'

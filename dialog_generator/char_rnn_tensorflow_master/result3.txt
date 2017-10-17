@@ -1,0 +1,34 @@
+train_loss = 1.2
+
+hidden_layers = 3
+rnn_size = 300
+num_epochs = 50
+seq_length = 50
+
+----------------------
+
+b" DOKINS  Stop in my time.
+
+ARCHER  Br Buttle Dale, if you'll get her distrest.  Ellis.  
+And it's not going to stay out of us.
+
+ARCHER  No! Have you seen?
+
+FRANKLIN  <u>That's going on.
+
+MALAHIDE  Who is then?
+
+KIRSTY  Basically, don't ask us with me in the first gursing and 
+watchday panic.
+
+MELLER  I gotta tell you and I don't eat nightmare in Tains with Joan.
+
+COOCH  This is 38. Let's not happen...
+
+CRISWELL  Some boy?
+
+MILLER  Oh, that's not.  I'll be hot. How can I get something?
+
+ARLO  Oh...
+
+L182429"
