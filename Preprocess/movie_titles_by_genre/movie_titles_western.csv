@@ -1,0 +1,13 @@
+mId,movieTitle,movieYear,rating,geners
+m19,american outlaws,2001,5.7,"['action', 'western']"
+m56,even cowgirls get the blues,1993,4.0,"['comedy', 'drama', 'romance', 'western']"
+m151,no country for old men,2007,8.3,"['crime', 'drama', 'mystery', 'thriller', 'western']"
+m171,roughshod,1949,6.9,"['action', 'drama', 'romance', 'western']"
+m180,silverado,1985,7.0,"['action', 'western']"
+m219,thunderheart,1992,6.6,"['crime', 'mystery', 'thriller', 'western']"
+m376,the horse whisperer,1998,6.4,"['drama', 'romance', 'western']"
+m423,lone star,1996,7.6,"['drama', 'mystery', 'romance', 'western']"
+m509,the searchers,1956,8.1,"['adventure', 'drama', 'western']"
+m576,tombstone,1993,7.7,"['action', 'drama', 'history', 'romance', 'western']"
+m591,unforgiven,1992,8.3,"['drama', 'western']"
+m607,wild wild west,1999,4.3,"['action', 'western', 'comedy', 'sci-fi']"

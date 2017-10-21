@@ -1,0 +1,6 @@
+mId,movieTitle,movieYear,rating,geners
+m138,my mother dreams the satan's disciples in new york,1998,6.7,['short']
+m181,simone,2010,8.3,"['short', 'drama', 'horror', 'thriller']"
+m354,five feet high and rising,2000,6.5,['short']
+m486,quantum project,2000,4.8,"['short', 'adventure', 'drama', 'romance']"
+m603,the witching hour,1996,6.5,"['documentary', 'short']"

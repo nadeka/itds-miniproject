@@ -1,0 +1,9 @@
+mId,movieTitle,movieYear,rating,geners
+m94,the hustler,1961,8.2,"['drama', 'romance', 'sport']"
+m166,raging bull,1980,8.4,"['biography', 'drama', 'sport']"
+m288,bull durham,1988,7.0,"['comedy', 'romance', 'sport']"
+m363,game 6,2005,6.0,"['comedy', 'drama', 'sport']"
+m408,jerry maguire,1996,7.3,"['comedy', 'drama', 'romance', 'sport']"
+m427,love & basketball,2000,6.7,"['drama', 'romance', 'sport']"
+m477,point break,1991,6.9,"['action', 'adventure', 'crime', 'drama', 'sport', 'thriller']"
+m491,rocky,1976,8.1,"['drama', 'romance', 'sport']"

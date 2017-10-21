@@ -1,0 +1,4 @@
+mId,movieTitle,movieYear,rating,geners
+m308,crazy love,2007,7.0,['documentary']
+m488,red white black & blue,2006,6.3,['documentary']
+m603,the witching hour,1996,6.5,"['documentary', 'short']"

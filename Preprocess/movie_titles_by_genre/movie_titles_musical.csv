@@ -1,0 +1,9 @@
+mId,movieTitle,movieYear,rating,geners
+m52,duck soup,1933,8.1,"['comedy', 'musical']"
+m177,shock treatment,1981,5.4,"['comedy', 'musical']"
+m242,anastasia,1997,6.6,"['animation', 'adventure', 'drama', 'family', 'musical', 'animation', 'family']"
+m459,the nightmare before christmas,1993,8.0,"['animation', 'family', 'fantasy', 'musical']"
+m490,the rocky horror picture show,1975,7.1,"['comedy', 'musical']"
+m525,south park: bigger longer & uncut,1999,7.8,"['animation', 'comedy', 'musical']"
+m575,transatlantic merry-go-round,1934,6.9,"['comedy', 'musical', 'mystery', 'romance']"
+m610,the wizard of oz,1939,8.3,"['adventure', 'family', 'fantasy', 'musical']"

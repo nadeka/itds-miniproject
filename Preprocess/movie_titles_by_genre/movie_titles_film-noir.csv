@@ -1,0 +1,5 @@
+mId,movieTitle,movieYear,rating,geners
+m147,the night of the hunter,1955,8.2,"['drama', 'film-noir', 'thriller']"
+m539,sunset blvd.,1950,8.7,"['drama', 'film-noir']"
+m546,sweet smell of success,1957,8.2,"['drama', 'film-noir']"
+m558,the third man,1949,8.5,"['film-noir', 'mystery', 'thriller']"

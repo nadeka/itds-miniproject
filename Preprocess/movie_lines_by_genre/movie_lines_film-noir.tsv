@@ -1,0 +1,2190 @@
+lineId	chId	mId	chName	dialogue
+L413421	u2279	m147	BART	He took the secret with him when I dropped him.
+L413420	u2285	m147	GUARD	What do you figure he done with it?
+L413419	u2279	m147	BART	No.
+L413418	u2285	m147	GUARD	He never told about the money.
+L413417	u2279	m147	BART	He carried on some; kicked.
+L413416	u2285	m147	GUARD	He was a cool one, that Harper. Never broke.
+L413415	u2279	m147	BART	No.
+L413414	u2285	m147	GUARD	Any trouble?
+L413411	u2280	m147	BEN HARPER	Keep talkin', Preacher.
+L413410	u2289	m147	PREACHER	If you was to let that money serve the Lord's purposes, He might feel kindly turned towards you.
+L413409	u2280	m147	BEN HARPER	Keep talkin', Preacher.
+L413408	u2289	m147	PREACHER	Salvation is a last-minute business, boy.
+L413407	u2280	m147	BEN HARPER	I'll bet.
+L413406	u2289	m147	PREACHER	The religion the Almighty and me worked out betwixt us.
+L413405	u2280	m147	BEN HARPER	What religion do you profess, Preacher?
+L413404	u2289	m147	PREACHER	That Sword has served me through many an evil time, Ben Harper.
+L413403	u2280	m147	BEN HARPER	You, Preacher?
+L413402	u2289	m147	PREACHER	I come not with Peace but with a Sword.
+L413401	u2280	m147	BEN HARPER	How come you got that stickknife hid in your bed-blankets, Preacher?
+L413400	u2289	m147	PREACHER	Think of it, Ben! With that cursed, bloodied gold!
+L413399	u2280	m147	BEN HARPER	Would you have free candy for the kids, Preacher?
+L413398	u2289	m147	PREACHER	With that ten thousand dollars I could build a Tabernacle that'd make the Wheeling Island Tabernacle look like a chicken-house!
+L413397	u2280	m147	BEN HARPER	That's right, Preacher. I robbed that bank because I got tired of seein' children roamin' the woodlands without food, children roamin' the highways in this year of Depression; children sleepin' in old abandoned car bodies on junk-heaps; and I promised myself I'd never see the day when my youngins'd want.
+L413396	u2289	m147	PREACHER	You killed two men, Ben Harper.
+L413395	u2280	m147	BEN HARPER	Hm!
+L413394	u2289	m147	PREACHER	"You was quotin' Scripture. You said -- you said, ""And a little child shall lead them."""
+L413393	u2280	m147	BEN HARPER	What'd I say?  What? What? What? What?
+L413392	u2289	m147	PREACHER	No, Ben.
+L413391	u2280	m147	BEN HARPER	Tryin' to make me talk about it in my sleep!
+L413390	u2289	m147	PREACHER	Ben, I'm a Man of God.
+L413372	u2287	m147	JOHN HARPER	And I won't never tell about the money.
+L413371	u2280	m147	BEN HARPER	"...""and I won't never tell about the money."""
+L413370	u2287	m147	JOHN HARPER	I will guard Pearl with my life...
+L413369	u2280	m147	BEN HARPER	"You got common sense. She ain't. When you grow up that money'll be yours. Now swear. ""I will guard Pearl with my life..."""
+L413368	u2287	m147	JOHN HARPER	Not even her?
+L413367	u2280	m147	BEN HARPER	You understand?
+L413366	u2287	m147	JOHN HARPER	Yes, Dad.
+L413365	u2280	m147	BEN HARPER	Listen to me son. You got to swear. Swear means promise. First swear you'll take care of little Pearl. Guard her with your life, boy. Then swear you won't never tell where that money's hid. Not even your Mom.
+L413364	u2287	m147	JOHN HARPER	Dad, you're bleeding...
+L413363	u2280	m147	BEN HARPER	Here they come.
+L413358	u2280	m147	BEN HARPER	Listen to me John.
+L413357	u2287	m147	JOHN HARPER	Out shopping -- you're bleeding, Dad --
+L413356	u2280	m147	BEN HARPER	Where's your Mom?
+L413899	u2287	m147	JOHN HARPER	Hide us Uncle Birdie! He's a-comin' with his knife!
+L413898	u2281	m147	BIRDIE STEPTOE	Don't!
+L413897	u2287	m147	JOHN HARPER	Uncle Birdie!
+L413663	u2281	m147	BIRDIE STEPTOE	If you got an appetite for bones and bitterness.
+L413662	u2287	m147	JOHN HARPER	Can we eat him, Uncle Birdie?
+L413658	u2281	m147	BIRDIE STEPTOE	Tell you why I ask -- your step-pa being' a Preacher an' all...
+L413657	u2287	m147	JOHN HARPER	No.
+L413656	u2281	m147	BIRDIE STEPTOE	Do you mind me cussin', boy?
+L413655	u2281	m147	BIRDIE STEPTOE	Shoot, a horse-hair'll hold a lumpin' whale.
+L413654	u2287	m147	JOHN HARPER	Won't he bust it, Uncle Birdie?
+L413653	u2281	m147	BIRDIE STEPTOE	There hain't nary hook in the land smart enough to hook Mister Gar. What a feller needs is mother-wit -- and a horse-hair.
+L413652	u2287	m147	JOHN HARPER	Here's your can o' hooks, Uncle Birdie.
+L413553	u2281	m147	BIRDIE STEPTOE	Well goodnight, boy. Come again -- any time.
+L413552	u2287	m147	JOHN HARPER	Yep; gotta watch out for Pearl, Uncle Birdie.
+L413551	u2281	m147	BIRDIE STEPTOE	Leavin', boy?
+L413550	u2287	m147	JOHN HARPER	Just fine.
+L413549	u2281	m147	BIRDIE STEPTOE	How's your sister Pearl?
+L413548	u2287	m147	JOHN HARPER	O, she's all right.
+L413547	u2281	m147	BIRDIE STEPTOE	And the times that are gone by. I'll have her ready inside of a week; and then we'll go fishin'. How's your Maw?
+L413546	u2287	m147	JOHN HARPER	When'll the skiff be ready?
+L413545	u2281	m147	BIRDIE STEPTOE	Can't hear ye, boy.  ...So the big boats heave a sigh, They blow for Uncle Birdie...
+L413544	u2287	m147	JOHN HARPER	When'll Dad's skiff be ready?
+L413543	u2281	m147	BIRDIE STEPTOE	'Twas down at Cresap's Landing, Along the River Shore, Birdie Steptoe was a Pilot in the good old days of yore. Now he sets in his old wharf-boat...
+L413464	u2281	m147	BIRDIE STEPTOE	Pshaw now! Ain't it a caution what women'll load onto a feller's back when he ain't lookin'?
+L413463	u2287	m147	JOHN HARPER	I been mindin' Pearl.
+L413462	u2281	m147	BIRDIE STEPTOE	Ain't seen you in a coon's age, Johnny.
+L413460	u2281	m147	BIRDIE STEPTOE	Ain't nobody goin' to neither, long as Uncle Birdie's around.
+L413459	u2287	m147	JOHN HARPER	Ain't nobody stole Dad's skiff.
+L413458	u2281	m147	BIRDIE STEPTOE	She don't put in at Cresap's Landing no more, but she still blows as she passes. Come on in and have a cup of coffee.
+L414170	u2282	m147	CLARY	She went.
+L414169	u2290	m147	RACHEL COOPER	Where's Ruby?
+L414123	u2282	m147	CLARY	They hid in a broom closet!
+L414122	u2290	m147	RACHEL COOPER	And when little King Jesus' Ma and Pa heard about that plan, what do you reckon they went and done?
+L414115	u2290	m147	RACHEL COOPER	It's more fun hearin' stories in the dark.
+L414114	u2282	m147	CLARY	I'll light the lamp.
+L413985	u2290	m147	RACHEL COOPER	John: you go fetch Ruby.  Big Ruby's my problem girl. She can't gather eggs without bustin' 'em; but Ruby's got mother hands with a youngin, so what're you to say?
+L413984	u2282	m147	CLARY	She went.
+L413983	u2290	m147	RACHEL COOPER	Here's what you owe me.  One, two, three, four, five... where's the other basket? Where's Ruby?
+L413620	u2283	m147	CONGREGATION	IN THE RIIV-ER!
+L413619	u2293	m147	WILLA HARPER	Throw that money in the River! In THE RIVER!
+L413618	u2283	m147	CONGREGATION	Yes! Yes! Hallelujah!
+L413617	u2293	m147	WILLA HARPER	The Lord said, Take that money and throw it in the River!
+L413616	u2283	m147	CONGREGATION	Yes! Yes!
+L413615	u2293	m147	WILLA HARPER	And the Lord told that man --
+L413609	u2293	m147	WILLA HARPER	But which one of you can say as I can say: I drove a good man to murder because I kept a-houndin' him for clothes and per-fumes and face paint!
+L413608	u2283	m147	CONGREGATION	Yes! Yes!
+L413607	u2293	m147	WILLA HARPER	You have all sinned!
+L413606	u2283	m147	CONGREGATION	AAA-MENN!
+L413997	u2290	m147	RACHEL COOPER	Don't need no soap. I'm boilin' down the fat from my hog.
+L413996	u2284	m147	GROCER	Got a good buy in soap, Miz Cooper.
+L413995	u2290	m147	RACHEL COOPER	Ain't heard from Ralph since last Christmas. Don't matter -- I've got a new crop.  I'm a strong tree with branches for many birds. I'm good for something in this old world and I know it, too! We know that she will rout the Devil.
+L413994	u2284	m147	GROCER	How's your own boy, Miz Cooper?
+L413993	u2290	m147	RACHEL COOPER	Yeah, and ornerier than the rest.
+L413992	u2284	m147	GROCER	See ye got two more peeps to your brood.
+L414182	u2286	m147	ICEY SPOON	He's Satan hiding behind the Cross!
+L414181	u2292	m147	WALT	String that Bluebeard up to a pole!
+L414180	u2286	m147	ICEY SPOON	He taken the Lord's name in vain and he trampled on His Holy Book!
+L414179	u2292	m147	WALT	Tricked us!
+L414178	u2286	m147	ICEY SPOON	He lied!
+L414177	u2292	m147	WALT	Come on!
+L414176	u2286	m147	ICEY SPOON	Draggin' the name of the Lord through the evil mud of his soul!
+L414155	u2286	m147	ICEY SPOON	And he killed every last one of 'em!
+L414154	u2292	m147	WALT	Twenty-five wives!
+L414153	u2286	m147	ICEY SPOON	Bluebeard!
+L414152	u2286	m147	ICEY SPOON	Lynch him! Lynch him!
+L413924	u2292	m147	WALT	Not before one of 'em knifed a farmer and stole his horse. Never caught the gypsies nor the horse.
+L413923	u2286	m147	ICEY SPOON	You and your gypsies! They been gone a week!
+L413922	u2292	m147	WALT	Sure, but you was worried too, Mother; takin' off with never a word of goodbye. I even got to figurin' them gypsies busted in and done off with all three of 'em.
+L413921	u2286	m147	ICEY SPOON	Now ain't you relieved, Walt?
+L413920	u2292	m147	WALT	Dear Walt and Icey: I bet you been worried and gave us up for lost. Took the kids down here with me for a visit to my sister Elsie's farm. Thot a little change of scenery would do us all a world of good after so much trubble and heartache. At least the kids will git a plenty of good home cooking. Your devoted Harry Powell
+L413746	u2286	m147	ICEY SPOON	I thought if you went and talked to him -- another man --
+L413745	u2292	m147	WALT	What can we do, Mother?
+L413743	u2286	m147	ICEY SPOON	A man of the Cloth?
+L413742	u2292	m147	WALT	There's a little peach brandy -- maybe a sip?
+L413741	u2286	m147	ICEY SPOON	All to pieces!
+L413740	u2292	m147	WALT	Is he hit pretty bad?
+L413739	u2286	m147	ICEY SPOON	She took out some time durin' the night, -- in that old Model-T --
+L413738	u2292	m147	WALT	Just went?
+L413737	u2292	m147	WALT	I'll be switched!...
+L413736	u2286	m147	ICEY SPOON	Mr. Powell!  Willa has run away!
+L413735	u2292	m147	WALT	Who?
+L413734	u2286	m147	ICEY SPOON	Sshhh! He's in there.
+L413733	u2292	m147	WALT	What's wrong, Mother?
+L413716	u2292	m147	WALT	Mother, I only --
+L413715	u2286	m147	ICEY SPOON	May the Lord have mercy on you, Walt Spoon!
+L413714	u2292	m147	WALT	Now, Mother, a body can't help their feelin's.
+L413713	u2286	m147	ICEY SPOON	Walt!
+L413712	u2292	m147	WALT	About Mr. Powell. All of it!
+L413711	u2286	m147	ICEY SPOON	About what!
+L413710	u2292	m147	WALT	There's somethin' wrong about it, Mother.
+L413709	u2286	m147	ICEY SPOON	Say what, Walt Spoon!
+L413708	u2292	m147	WALT	I'm figurin' how I can say it so's you won't get mad.
+L413707	u2286	m147	ICEY SPOON	How do you mean?
+L413706	u2292	m147	WALT	Icey, I'm worried about Willa.
+L413694	u2292	m147	WALT	You don't hardly get settled till you're frettin' to git home again.
+L413693	u2286	m147	ICEY SPOON	Plan on a longer visit next time.
+L413478	u2292	m147	WALT	So you ain't with the State no more?
+L413477	u2286	m147	ICEY SPOON	It's a mighty good man would come out of his way to bring a word of cheer to a grieving widow!
+L413690	u2286	m147	ICEY SPOON	It's a shame!
+L413689	u2293	m147	WILLA HARPER	That boy's as stubborn and mulish as a sheep!
+L413523	u2286	m147	ICEY SPOON	Get along with you.
+L413522	u2293	m147	WILLA HARPER	Oh, Icey, I'm a sight!
+L413521	u2286	m147	ICEY SPOON	You go set down by the River.
+L413516	u2286	m147	ICEY SPOON	You'll come right out and ask that Man of God!  Mr. Paow-well!  Clear that evil mud out of your soul!
+L413515	u2293	m147	WILLA HARPER	I would love to be satisfied Harry Powell don't think I've got that money somewhere.
+L413514	u2286	m147	ICEY SPOON	I declare, you'll let that money haunt you to your grave, Willa Harper!
+L413513	u2293	m147	WILLA HARPER	The money, Icey.
+L413512	u2286	m147	ICEY SPOON	What?
+L413511	u2293	m147	WILLA HARPER	There's something else.
+L413510	u2286	m147	ICEY SPOON	What he needs is a dose o' salts!
+L413509	u2293	m147	WILLA HARPER	The boy worries me. It's silly, but it's like there was something still between him and his Dad.
+L413508	u2286	m147	ICEY SPOON	Pearl dotes on him.
+L413507	u2293	m147	WILLA HARPER	John don't like him much.
+L413506	u2286	m147	ICEY SPOON	If ever I saw a Sign from Heaven!
+L413505	u2293	m147	WILLA HARPER	It's awful soon after Ben's passing.
+L413504	u2286	m147	ICEY SPOON	That feller's just achin' to settle down with some nice woman and make a home for himself.
+L413448	u2286	m147	ICEY SPOON	Fiddlesticks!
+L413447	u2293	m147	WILLA HARPER	Icey, I don't want a husband.
+L413446	u2286	m147	ICEY SPOON	Willa Harper there is certain plain facts of life that adds up just like two plus two makes four and one of them is this: No woman is good enough to raise growin' youngsters alone! The Lord meant that job for two!
+L413826	u2289	m147	PREACHER	Thank you, no. Thank you, dear Icey. I'll tend to them. Thank you.
+L413825	u2286	m147	ICEY SPOON	Want me to take 'em up and wash 'em good?
+L413824	u2286	m147	ICEY SPOON	Just look at you! Dust and filth from top to toe!
+L413787	u2289	m147	PREACHER	The devil wins sometimes!
+L413786	u2286	m147	ICEY SPOON	I know you did, Reverend. Oh, I know how you tried!
+L413785	u2289	m147	PREACHER	I tried to save her.
+L413784	u2289	m147	PREACHER	She'd found this fruit jar of dandelion wine  that the husband -- Harper -- had hid somewheres in the cellar.  She was drinking.
+L413783	u2286	m147	ICEY SPOON	What!
+L413782	u2289	m147	PREACHER	She tarried around the kitchen after I'd gone up, and when I went downstairs to see what was wrong...
+L413781	u2286	m147	ICEY SPOON	How?
+L413780	u2289	m147	PREACHER	Ain't no sense in it, neither. I figured somethin' like this was brewin' when she went to bed last night.
+L413774	u2289	m147	PREACHER	The pitcher has went to the well once too often, my friends.
+L413773	u2286	m147	ICEY SPOON	Amen.
+L413772	u2289	m147	PREACHER	I burned it.  I tore it up and burned it -- it stank so strong of hellfire.
+L413757	u2286	m147	ICEY SPOON	Ah.
+L413756	u2289	m147	PREACHER	Satan.
+L413755	u2286	m147	ICEY SPOON	What could have possessed that girl!
+L413752	u2286	m147	ICEY SPOON	Mister Powell!
+L413751	u2289	m147	PREACHER	My dear, dear friends! Whatever would I do without you!
+L413750	u2289	m147	PREACHER	She lieth in wait as for a prey. And increaseth the transgressors among men.
+L413749	u2286	m147	ICEY SPOON	Amen! Amen!
+L413497	u2286	m147	ICEY SPOON	It's for the pick-nick. And you won't get a smidgen of my fudge unless you stay for the pick-nick!
+L413496	u2289	m147	PREACHER	My, that fudge smells yummy!
+L413489	u2286	m147	ICEY SPOON	You ain't leavin' in no hurry if we can help it!
+L413488	u2289	m147	PREACHER	I must wend my way down River on the Lord's work.
+L413937	u2287	m147	JOHN HARPER	Ssh...
+L413936	u2288	m147	PEARL HARPER	Are we goin' home, John?
+L413911	u2288	m147	PEARL HARPER	That's Daddy!
+L413910	u2287	m147	JOHN HARPER	Get in the skiff, Pearl, goodness, goodness, hurry!
+L413908	u2287	m147	JOHN HARPER	Hush.
+L413907	u2288	m147	PEARL HARPER	John, where are we g --
+L413906	u2287	m147	JOHN HARPER	Please be quiet -- Oh please, Pearl!
+L413894	u2287	m147	JOHN HARPER	Hush, Pearl. Come on.
+L413893	u2288	m147	PEARL HARPER	John?
+L413811	u2288	m147	PEARL HARPER	It'll spoil our supper.
+L413810	u2287	m147	JOHN HARPER	We'll steal somethin' to eat.
+L413809	u2288	m147	PEARL HARPER	I'm hungry, John.
+L413808	u2287	m147	JOHN HARPER	Somewheres. I don't know yet.
+L413807	u2288	m147	PEARL HARPER	Where are we goin', John?
+L413806	u2287	m147	JOHN HARPER	No, that's just it. No.
+L413805	u2288	m147	PEARL HARPER	Won't Daddy Powell take care of us?
+L413804	u2287	m147	JOHN HARPER	If we stay here somethin' awful will happen to us.
+L413803	u2288	m147	PEARL HARPER	Why?
+L413802	u2287	m147	JOHN HARPER	Now listen to me, Pearl. You and me is runnin' off tonight.
+L413801	u2288	m147	PEARL HARPER	I want to go upstairs. It's cold and spidery down here. I'm hungry.
+L413800	u2287	m147	JOHN HARPER	Someone is after us, Pearl.
+L413798	u2287	m147	JOHN HARPER	Yes, I reckon that's it.
+L413797	u2288	m147	PEARL HARPER	To see Dad?
+L413796	u2287	m147	JOHN HARPER	She's gone to Moundsville.
+L413795	u2288	m147	PEARL HARPER	Where's Mom?
+L413628	u2287	m147	JOHN HARPER	Pearl! Oh, Pearl!
+L413627	u2288	m147	PEARL HARPER	It's all here.
+L413626	u2288	m147	PEARL HARPER	John, don't be mad! Don't be mad! I was just playing with it! I didn't tell no one!
+L413625	u2287	m147	JOHN HARPER	Pearl! You ain't --
+L413624	u2287	m147	JOHN HARPER	You what?
+L413623	u2288	m147	PEARL HARPER	You'll get awful mad, John. I done a Sin!
+L413578	u2287	m147	JOHN HARPER	You promised Dad you wouldn't never tell!
+L413577	u2288	m147	PEARL HARPER	John! Don't!
+L413576	u2287	m147	JOHN HARPER	You swore, Pearl!
+L413575	u2288	m147	PEARL HARPER	When Mr. Powell's our Daddy then I can tell him about --
+L413574	u2287	m147	JOHN HARPER	Hm?
+L413573	u2288	m147	PEARL HARPER	Now can I tell?
+L413538	u2287	m147	JOHN HARPER	Sshhh...
+L413537	u2288	m147	PEARL HARPER	John...
+L413456	u2288	m147	PEARL HARPER	'Night Miss Jenny; don't let the bedbugs bite.
+L413455	u2287	m147	JOHN HARPER	Just a man.  Goodnight Pearl, sleep tight; and don't let the bedbugs bite.
+L413454	u2288	m147	PEARL HARPER	The Blue Men?
+L413453	u2287	m147	JOHN HARPER	Once upon a time there was a rich king...  ...and he had him a son and a daughter and they all lived in a castle over in Africa. Well, one day this King got taken away by bad men and before he got took off he told his son to kill anyone that tried to steal their gold, and before long these bad men come back and --
+L413452	u2288	m147	PEARL HARPER	Tell me a story, John.
+L413442	u2287	m147	JOHN HARPER	'Cause you're too little.
+L413441	u2288	m147	PEARL HARPER	Why?
+L413440	u2287	m147	JOHN HARPER	You better not sing that song.
+L413439	u2288	m147	PEARL HARPER	Hing, hang, hung.
+L413375	u2287	m147	JOHN HARPER	Blue men.
+L413374	u2288	m147	PEARL HARPER	Who's them Blue Men yonder?
+L413373	u2288	m147	PEARL HARPER	You, Pearl. You swear too.
+L413354	u2287	m147	JOHN HARPER	There! What's so hard about that!
+L413353	u2288	m147	PEARL HARPER	Stand still, Miss Jenny!
+L414215	u2290	m147	RACHEL COOPER	A feller can't just go around with run-down, busted watches.
+L414214	u2287	m147	JOHN HARPER	This watch is the nicest watch I ever had.
+L414137	u2290	m147	RACHEL COOPER	I'll make coffee.
+L414136	u2287	m147	JOHN HARPER	I'll see to Pearl.
+L414100	u2287	m147	JOHN HARPER	He ain't my Dad.
+L414099	u2290	m147	RACHEL COOPER	John, when your Dad says 'come', you should mind him.
+L414021	u2290	m147	RACHEL COOPER	Well, shoot! Maybe there was!
+L414020	u2287	m147	JOHN HARPER	I mind you said there was two.
+L414019	u2290	m147	RACHEL COOPER	Kings! Why, honey, there was only one.
+L414018	u2287	m147	JOHN HARPER	About them Kings. That the Queen found down on the sandbar in the skiff that time.
+L414017	u2290	m147	RACHEL COOPER	Story, honey? Why, what story?
+L414015	u2290	m147	RACHEL COOPER	I didn't figger ye rowed that skiff from Parkersburg!
+L414014	u2287	m147	JOHN HARPER	Up river.
+L414013	u2290	m147	RACHEL COOPER	Where ye from?
+L414012	u2290	m147	RACHEL COOPER	Dead. 
+L414011	u2287	m147	JOHN HARPER	Dead.
+L414010	u2290	m147	RACHEL COOPER	John, where's your folks?
+L413968	u2287	m147	JOHN HARPER	She talks to herself.
+L413967	u2290	m147	RACHEL COOPER	I'm butcherin' my hog myself, smokin' the hams, and cannin' the sausage.  You-all have your work cut out!
+L413951	u2290	m147	RACHEL COOPER	Hurt her nothin'! Wash her's more like it!  Ruby!
+L413950	u2287	m147	JOHN HARPER	Don't you hurt her!
+L414096	u2289	m147	PREACHER	Come to me, boy!
+L414095	u2287	m147	JOHN HARPER	Nothin'. 
+L413886	u2289	m147	PREACHER	You could save him, little bird.
+L413885	u2287	m147	JOHN HARPER	Pearl, shut up! Pearl, you swore!
+L413879	u2287	m147	JOHN HARPER	Under the stone in the floor.
+L413878	u2289	m147	PREACHER	Now: Where?
+L413876	u2287	m147	JOHN HARPER	Yonder.
+L413875	u2289	m147	PREACHER	Now where, boy? Mind; no tricks. I can't abide liars.
+L413874	u2289	m147	PREACHER	Why sure, boy, sure.
+L413873	u2287	m147	JOHN HARPER	Don't you believe me?
+L413872	u2289	m147	PREACHER	You don't reckon I'd leave you.
+L413871	u2289	m147	PREACHER	Go ahead of me -- the both of you.
+L413870	u2287	m147	JOHN HARPER	What?
+L413869	u2289	m147	PREACHER	All right...  Come along.
+L413866	u2287	m147	JOHN HARPER	In the cellar. Buried under a stone in the floor.
+L413865	u2289	m147	PREACHER	All right boy: where's the money?
+L413863	u2287	m147	JOHN HARPER	NO, -- it ain't fair to make Pearl tell when she swore she wouldn't. I'll tell.
+L413862	u2289	m147	PREACHER	I thought I told you to keep your mouth shut --
+L413861	u2287	m147	JOHN HARPER	I'll tell.
+L413860	u2289	m147	PREACHER	Now! Where's it hid, honey?
+L413667	u2289	m147	PREACHER	The summer is young yet, little lad.  Pearl?
+L413666	u2287	m147	JOHN HARPER	I don't know nothin'!
+L413665	u2289	m147	PREACHER	She thinks that money's in the river, but you and me, we know better, don't we, boy?
+L413643	u2289	m147	PREACHER	That wasn't very nice of you, John. Have a heart, boy.
+L413642	u2287	m147	JOHN HARPER	Yes. Yes.
+L413641	u2289	m147	PREACHER	Your mother says you tattled on me, boy. She says you told her that I asked you where that money was hid.
+L413637	u2289	m147	PREACHER	Come on, children!
+L413636	u2287	m147	JOHN HARPER	Pearl's junk. Mom gets mad when she plays out here and don't clean up afterward.
+L413635	u2289	m147	PREACHER	What's that you're playing with, boy?
+L413634	u2287	m147	JOHN HARPER	It -- she --
+L413633	u2289	m147	PREACHER	What's taking you so long about it?
+L413632	u2287	m147	JOHN HARPER	Getting Pearl to bed. I --
+L413631	u2289	m147	PREACHER	What are you doing, boy?
+L413569	u2287	m147	JOHN HARPER	No. No.
+L413568	u2289	m147	PREACHER	Are we keeping secrets from each other, little lad?
+L413567	u2287	m147	JOHN HARPER	Nothin'!
+L413566	u2289	m147	PREACHER	Tell me what, boy?
+L413565	u2287	m147	JOHN HARPER	You think you can make me tell! But I won't! I won't! I won't!
+L413564	u2289	m147	PREACHER	-- and when we come back, we'll all be friends -- and share our fortunes together, John!
+L413563	u2287	m147	JOHN HARPER	You ain't my Dad! You won't never be my Dad!
+L413562	u2289	m147	PREACHER	Married! We have decided to go to Sistersville tomorrow, and when we come back --
+L413561	u2287	m147	JOHN HARPER	Huh?
+L413560	u2289	m147	PREACHER	Did you hear what I said, son?
+L413494	u2287	m147	JOHN HARPER	Is that all?
+L413493	u2289	m147	PREACHER	Why, he told me what fine little lambs you and your sister both was.
+L413857	u2289	m147	PREACHER	JOHN -- DOESN'T -- MATTER! Can't I get that through your head, you poor, silly, disgusting little wretch!
+L413856	u2288	m147	PEARL HARPER	But I swore. I promised John I wouldn't tell.
+L413855	u2289	m147	PREACHER	Just tell me now; where's the money hid?
+L413847	u2288	m147	PEARL HARPER	Because John said I mustn't.
+L413846	u2289	m147	PREACHER	Why, pray tell?
+L413845	u2288	m147	PEARL HARPER	No.
+L413844	u2289	m147	PREACHER	About our secrets.
+L413843	u2289	m147	PREACHER	Yes. But first of all we'll have a little talk.
+L413842	u2288	m147	PEARL HARPER	Can I have milk too?
+L413841	u2289	m147	PREACHER	Naturally.
+L413840	u2288	m147	PEARL HARPER	Can I have my supper please?
+L413839	u2289	m147	PREACHER	Why, sure. And there's fried chicken and candied sweets and cornsticks and apple cobbler!
+L413838	u2288	m147	PEARL HARPER	I'm hungry.
+L413704	u2289	m147	PREACHER	Where's the money hid? Tell me, you little wretch, or I'll tear your arm off!
+L413703	u2288	m147	PEARL HARPER	John's bad.
+L413702	u2289	m147	PREACHER	Where's the money hid.
+L413701	u2288	m147	PEARL HARPER	All right.
+L413700	u2289	m147	PREACHER	O no! Your turn!
+L413699	u2288	m147	PEARL HARPER	Tell me another secret about my Dad.
+L413698	u2289	m147	PREACHER	Yes; John's bad.
+L413685	u2288	m147	PEARL HARPER	Miz Jenny! Miz Jenny!
+L413684	u2289	m147	PREACHER	You see? We can't have anything to do with John.  You and me will go down to the parlor.
+L413681	u2289	m147	PREACHER	Tst-tst! Then I reckon I'll have to try again! Where's the money hid?
+L413680	u2288	m147	PEARL HARPER	You're just foolin'! My name's Pearl.
+L413679	u2289	m147	PREACHER	What's your name?
+L413678	u2289	m147	PREACHER	Sure, that's no secret.
+L413677	u2288	m147	PEARL HARPER	That's no secret. I'm five.
+L413676	u2289	m147	PREACHER	How old are you?
+L413675	u2288	m147	PEARL HARPER	What secret shall I tell?
+L413674	u2289	m147	PREACHER	Now it's your turn.
+L413673	u2288	m147	PEARL HARPER	Yes?
+L413672	u2289	m147	PREACHER	"I knowed your Daddy.  And do you know what your Daddy said to me? He said, ""Tell my little girl Pearl there's to be no secrets between her and you."""
+L413671	u2288	m147	PEARL HARPER	Yes?
+L413670	u2289	m147	PREACHER	I'll tell you a secret.
+L413669	u2288	m147	PEARL HARPER	Mm-hm.
+L413668	u2289	m147	PREACHER	John's a feller who likes to keep secrets.
+L414040	u2289	m147	PREACHER	Ahh!
+L414039	u2291	m147	RUBY	Only she won't never let me play with it.
+L414038	u2289	m147	PREACHER	Ahhh.  And is there -- a doll?
+L414037	u2291	m147	RUBY	Pearl and John.
+L414036	u2289	m147	PREACHER	What's their names?
+L414035	u2289	m147	PREACHER	There's two new ones over at your place, ain't there Ruby?
+L414034	u2291	m147	RUBY	No. No one never did.
+L414033	u2289	m147	PREACHER	Why, you're the purtiest girl I've seen in all my wandering. Didn't nobody never tell you that, Ruby?
+L414029	u2289	m147	PREACHER	O' course.
+L414028	u2291	m147	RUBY	Will you buy me a choclit sody?
+L414027	u2289	m147	PREACHER	Surely. I'd like to talk to you, my dear.
+L414026	u2291	m147	RUBY	Can I have this?
+L414025	u2289	m147	PREACHER	You're Ruby, ain't you, my child?
+L413777	u2292	m147	WALT	Maybe she's just run off on a spree.
+L413776	u2289	m147	PREACHER	She'll not be back. I reckon I'd be safe in promisin' you that.
+L413775	u2292	m147	WALT	She'll come draggin' her tail back home.
+L413771	u2289	m147	PREACHER	A scrawl. On a piece of notepaper on the bureau.
+L413770	u2292	m147	WALT	Didn't -- didn't she leave no word?
+L413769	u2289	m147	PREACHER	I reckon it's been ordained this way, Brother Spoon.
+L413768	u2292	m147	WALT	That's mighty brave of you, Reverend.
+L413766	u2289	m147	PREACHER	Do? Why stay and take care of them little kids. Maybe it was never meant for a woman like Willa to taint their young lives.
+L413765	u2292	m147	WALT	What do you figure to do?
+L413763	u2289	m147	PREACHER	She turned me out of the bed.
+L413762	u2292	m147	WALT	How's that?
+L413761	u2289	m147	PREACHER	Our honeymoon.
+L413760	u2292	m147	WALT	The first night?
+L413759	u2289	m147	PREACHER	Yes; from the first night.
+L413758	u2292	m147	WALT	Didn't you have no inkling?
+L413754	u2289	m147	PREACHER	It is my shame -- my crown of thorns. And I must wear it bravely.
+L413753	u2292	m147	WALT	Is there anythin' -- anythin'...?
+L413748	u2289	m147	PREACHER	A strange woman is a narrow pit!
+L413747	u2292	m147	WALT	Mister Powell?
+L413723	u2293	m147	WILLA HARPER	Ben never told you he throwed it in the river? Did he?
+L413722	u2289	m147	PREACHER	Answer me!
+L413721	u2293	m147	WILLA HARPER	It's not in the river, is it Harry?
+L413720	u2289	m147	PREACHER	You were listening outside the parlor window.
+L413719	u2293	m147	WILLA HARPER	I'm through, Harry.
+L413718	u2289	m147	PREACHER	Are you through praying?
+L413602	u2293	m147	WILLA HARPER	Yes.
+L413601	u2289	m147	PREACHER	It's the business of our marriage to mind those two you have now -- not to beget more.
+L413600	u2293	m147	WILLA HARPER	I -- no, I --
+L413599	u2289	m147	PREACHER	Do you want more children, Willa?
+L413592	u2289	m147	PREACHER	Get up.
+L413591	u2293	m147	WILLA HARPER	Harry, what --
+L413590	u2289	m147	PREACHER	Get up, Willa.
+L413589	u2289	m147	PREACHER	I think it's time we got one thing perfectly clear, Willa. Marriage to me represents a blending of two spirits in the sight of Heaven.
+L413588	u2293	m147	WILLA HARPER	No, Harry! I thought --
+L413587	u2289	m147	PREACHER	You thought, Willa, that the moment you walked in that door I'd start in to pawing you in the abominable way men are supposed to do on their wedding night. Ain't that right, now?
+L413586	u2293	m147	WILLA HARPER	Oh, I'm sorry, Harry! I didn't know! I thought maybe --
+L413585	u2289	m147	PREACHER	I was praying.
+L413584	u2293	m147	WILLA HARPER	Harry!
+L413534	u2289	m147	PREACHER	Well, John, the night before your father died, he told me what he did with that money.
+L413533	u2293	m147	WILLA HARPER	John, Mr. Powell has got something to tell you.
+L413491	u2289	m147	PREACHER	He don't mean no impudence; do you, boy?  Do you, boy? Ah, many's the time poor Brother Ben told me about these youngins.
+L413490	u2293	m147	WILLA HARPER	John: take that look offen your face and act nice.
+L414134	u2290	m147	RACHEL COOPER	I'm givin' you to the count of three to get out that screen door; then I'm a-comin' across this kitchen shootin'!
+L414133	u2289	m147	PREACHER	None of your business, Madam.
+L414132	u2290	m147	RACHEL COOPER	What are you after them for?
+L414131	u2289	m147	PREACHER	Them kids!
+L414130	u2290	m147	RACHEL COOPER	What do you want?
+L414098	u2289	m147	PREACHER	Didn't you hear me, boy?
+L414097	u2290	m147	RACHEL COOPER	What's wrong, John?
+L414094	u2290	m147	RACHEL COOPER	What's wrong, John?
+L414093	u2289	m147	PREACHER	The Lord is merciful! What a day is this! -- And there's little John!
+L414092	u2289	m147	PREACHER	The Lord will provide.
+L414091	u2290	m147	RACHEL COOPER	How you figgerin' to raise them two without a woman?
+L414090	u2289	m147	PREACHER	Gracious, gracious! You are a good woman, Miz Cooper!
+L414087	u2290	m147	RACHEL COOPER	Right funny, hain't it, how they rowed all the way up river in a ten- foot john-boat!
+L414086	u2289	m147	PREACHER	Heaven only knows what unholy sights and sounds those innocent little babes has heard in the dens of perdition where she dragged them!
+L414085	u2290	m147	RACHEL COOPER	She took them kids with her?
+L414084	u2289	m147	PREACHER	Somewheres down river! Parkersburg, mebbe! -- Cincinnati! -- One of them Sodoms on the Ohio River.
+L414083	u2290	m147	RACHEL COOPER	Where's she at?
+L414082	u2289	m147	PREACHER	She run off with a drummer one night. Durin' prayer-meetin'.
+L414081	u2290	m147	RACHEL COOPER	Where's your Missus?
+L414080	u2289	m147	PREACHER	My flesh and blood!
+L414079	u2290	m147	RACHEL COOPER	Them kids is yours?
+L414078	u2289	m147	PREACHER	It was with this left hand that old brother Cain struck the blow that laid his brother low --
+L414077	u2289	m147	PREACHER	Shall I tell ye the little story of Right-Hand-Left-Hand -- the tale of Good and Evil?
+L414073	u2290	m147	RACHEL COOPER	It's about that John and that Pearl?
+L414072	u2289	m147	PREACHER	You're Miz Cooper, I take it.
+L414071	u2290	m147	RACHEL COOPER	How'do.
+L414070	u2289	m147	PREACHER	Mornin', ladies.
+L414069	u2291	m147	RUBY	The man! The man!
+L414068	u2290	m147	RACHEL COOPER	What?
+L414067	u2291	m147	RUBY	Miz Cooper!
+L414064	u2290	m147	RACHEL COOPER	John and Pearl!
+L414063	u2291	m147	RUBY	Pearl and John.
+L414062	u2290	m147	RACHEL COOPER	What'd you all talk about?
+L414061	u2290	m147	RACHEL COOPER	He must have wanted somethin', Ruby. A man don't waste time on a girl unless he gets something.
+L414060	u2291	m147	RUBY	He never asked me for nothin'.
+L414059	u2290	m147	RACHEL COOPER	Now who was this?
+L414058	u2291	m147	RUBY	This gentleman warn't like them! He just give me a sody and the book.
+L414054	u2291	m147	RUBY	I been out with men.
+L414053	u2290	m147	RACHEL COOPER	What you been up to?
+L414052	u2291	m147	RUBY	Miz Cooper. I never went to sewin' lessons all them times.
+L414051	u2290	m147	RACHEL COOPER	The Drugstore?
+L414050	u2291	m147	RUBY	This man down at the Drugstore...
+L414049	u2290	m147	RACHEL COOPER	When did I ever?
+L414048	u2291	m147	RUBY	You'll whip me!
+L414047	u2290	m147	RACHEL COOPER	Ruby, you didn't have no money to buy this.
+L414046	u2291	m147	RUBY	I been bad!
+L414005	u2290	m147	RACHEL COOPER	Not this time! It was just one youngin -- a little boy babe. And do you know who he was, children?
+L414004	u2291	m147	RUBY	Pearl and John!
+L555395	u7958	m539	DEMILLE	Action! The scene starts.
+L555394	u7954	m539	1ST ASSISTANT	Roll 'em.
+L555393	u7958	m539	DEMILLE	You'll pardon me, Norma? Why don't you just sit and watch?  O.K.  Here we go.
+L555392	u7954	m539	1ST ASSISTANT	We're ready with the shot, Mr. deMille.
+L555346	u7958	m539	DEMILLE	She got to be.  A dozen press agents working overtime can do terrible things to the human spirit.  Hold everything.
+L555345	u7954	m539	1ST ASSISTANT	I hear she was a terror to work with.
+L555344	u7958	m539	DEMILLE	Of course you didn't.  You didn't know Norma Desmond as a plucky little girl of seventeen, with more courage and wit and heart than ever came together in one youngster.
+L555343	u7954	m539	1ST ASSISTANT	I didn't mean to --
+L555342	u7958	m539	DEMILLE	Listen, thirty million fans have given her the brush. Isn't that enough?
+L555341	u7954	m539	1ST ASSISTANT	I can tell her you're all tied up in the projection room.  I can give her the brush ...
+L555340	u7958	m539	DEMILLE	It must be about that appalling script of hers.  What can I say to her? What can I say?
+L555339	u7954	m539	1ST ASSISTANT	I'm terribly sorry, Mr. de Mille.
+L555338	u7958	m539	DEMILLE	I hate to think where that puts me.  I could be her father.
+L555287	u7959	m539	GILLIS	I've got to run along.  Thanks any- way for your interest in my career.
+L555286	u7955	m539	ARTIE	The accent! I've got it: this guy is in the pay of a foreign government. Get those studs.  Get those cuff-links.
+L555261	u7955	m539	ARTIE	Someone in the formal set, no doubt, with a ten-carat kidney stone.
+L555260	u7959	m539	GILLIS	I'm sorry about New Year's. Would you believe me if I said I had to be with a sick friend?
+L555259	u7955	m539	ARTIE	Walking out on the mob.  What's the big idea?
+L555161	u7959	m539	GILLIS	Don't worry.  She's just a fan for my literary output.
+L555160	u7955	m539	ARTIE	Wait a minute.  This is the woman I love.  What's going on? Who was loaded?
+L555154	u7955	m539	ARTIE	I'll have the bell-hop take care of your luggage.
+L555153	u7959	m539	GILLIS	I'll take it.
+L555152	u7955	m539	ARTIE	It just so happens we have a vacancy on the couch.
+L555151	u7959	m539	GILLIS	I mean, could you put me up for a couple of weeks?
+L555150	u7955	m539	ARTIE	Sure, this'll go on all night.
+L555149	u7959	m539	GILLIS	Listen, Artie, can I stick around here for a while?
+L555148	u7955	m539	ARTIE	The greatest.  They call me the Elsa Maxwell of the assistant directors.  Hey, easy on the punch bowl.  Budget only calls for three drinks per extra. Fake the rest.
+L555147	u7959	m539	GILLIS	Good party.
+L555146	u7959	m539	GILLIS	Where's the bar?
+L555145	u7955	m539	ARTIE	Say, you're not really smuggling opium these days,  are you?
+L555144	u7959	m539	GILLIS	Close, but no cigar.
+L555143	u7955	m539	ARTIE	Judas E. Priest, who did you borrow that from? Adolphe Menjou?
+L555141	u7955	m539	ARTIE	Come on.
+L555140	u7959	m539	GILLIS	That was the general idea.
+L555139	u7955	m539	ARTIE	You're going to stay, aren't you?
+L555138	u7959	m539	GILLIS	Let it ride for a while.
+L555137	u7955	m539	ARTIE	Give me your coat.
+L555136	u7955	m539	ARTIE	I almost reported you to the Bureau of Missing Persons.  Fans, you all know Joe Gillis, the well-known screen writer, opium smuggler and Black Dahlia suspect.
+L555135	u7959	m539	GILLIS	In a deep freeze.
+L555134	u7955	m539	ARTIE	Where have you been keeping that gorgeous face of yours?
+L555133	u7959	m539	GILLIS	Hi, Artie.
+L555132	u7955	m539	ARTIE	Well, what do you know ! Joe Gillis !
+L554838	u7956	m539	BETTY	Goodbye, Mr. Gillis.
+L554837	u7966	m539	SHELDRAKE	Carefull Those are dirty words! You sound like a bunch of New York critics.  Thank you, Miss Schaefer.
+L554831	u7956	m539	BETTY	I just think pictures should say a little something.
+L554830	u7966	m539	SHELDRAKE	Name dropper.
+L554826	u7956	m539	BETTY	Schaefer.  Betty Schaefer.  And right now I wish I could crawl into a hole and pull it in after me.
+L554825	u7966	m539	SHELDRAKE	This is Miss Kramer.
+L554824	u7966	m539	SHELDRAKE	I'm sure you'll be glad to meet Mr. Gillis.  He wrote it.
+L554823	u7956	m539	BETTY	Just a rehash of something that wasn't very good to begin with.
+L554822	u7966	m539	SHELDRAKE	Nothing for Ladd?
+L554821	u7956	m539	BETTY	It's from hunger.
+L554820	u7966	m539	SHELDRAKE	What's wrong with it?
+L554819	u7956	m539	BETTY	Hello, Mr. Sheldrake.  On that Bases Loaded.  I covered it with a 2-page synopsis.  But I wouldn't bother.
+L555595	u7959	m539	GILLIS	Nobody asked you to.
+L555594	u7956	m539	BETTY	Joe, I can't look at you any more.
+L555593	u7959	m539	GILLIS	Look, sweetie -- be practical. l've got a good thing here. A long-term contract with no options. I like it that way.  Maybe it's not very admirable.  Well, you and Artie can be admirable.
+L555592	u7956	m539	BETTY	If you love me, Joe.
+L555591	u7959	m539	GILLIS	Come on where? Back to a one-room apartment that I can't pay for? Back to a story that may sell and very possibly will not?
+L555590	u7956	m539	BETTY	Come on, Joe.
+L555589	u7959	m539	GILLIS	All my things? All the eighteen suits, all the custom-made shoes and the eighteen dozen shirts, and the cuff-links and the platinum key- chains, and the cigarette cases?
+L555588	u7956	m539	BETTY	No, no! I haven't heard any of this.  I never got those telephone calls.  I've never been in this house ... Get your things together. Let's get out of here.
+L555587	u7959	m539	GILLIS	All right.  I'll give you a few more clues.
+L555586	u7956	m539	BETTY	No.
+L555585	u7959	m539	GILLIS	I'm trying to tell you.  This is an enormous place.  Eight master bedrooms.  A sunken tub in every bathroom.  There's a bowling alley in the cellar.  It's lonely here, so she got herself a companion. A very simple set-up: An older woman who is well-to-do.  A younger man who is not doing too well ... Can you figure it out yourself?
+L555584	u7956	m539	BETTY	I didn't come here to see a house. What about Norma Desmond?
+L555583	u7959	m539	GILLIS	Her own movie theatre.
+L555582	u7959	m539	GILLIS	Jealous.  Ever see so much junk? She had the ceiling brought from Portugal.  Look at this.
+L555581	u7956	m539	BETTY	Why did she call me?
+L555580	u7959	m539	GILLIS	Want something to drink?  There's always champagne on ice, and plenty of caviar.
+L555579	u7956	m539	BETTY	That was Norma Desmond on the phone?
+L555578	u7959	m539	GILLIS	Just look around.  There's a lot of her spread about.  If you don't remember the face, you must have heard the name of Norma Desmond.
+L555577	u7956	m539	BETTY	Whose?
+L555576	u7959	m539	GILLIS	Hers.
+L555575	u7956	m539	BETTY	Whose house is it?
+L555574	u7959	m539	GILLIS	You bet.
+L555573	u7956	m539	BETTY	This is where you live?
+L555572	u7959	m539	GILLIS	Ever been in one of these old Hollywood palazzos? That's from when they were making eighteen thou- sand a week, and no taxes.  Careful of these tiles, they're slippery. Valentino used to dance here.
+L555571	u7959	m539	GILLIS	Come on in, Betty,
+L555570	u7956	m539	BETTY	I don't know why I'm so scared, Joe.  Is it something awful?
+L555569	u7959	m539	GILLIS	Hello, Betty.
+L555546	u7956	m539	BETTY	You did.
+L555545	u7959	m539	GILLIS	What happened?
+L555544	u7956	m539	BETTY	Of course I love him.  I always will.  I'm just not in love with him any more.
+L555543	u7959	m539	GILLIS	Why not? Don't you love Artie?
+L555542	u7956	m539	BETTY	I don't want it now.
+L555541	u7959	m539	GILLIS	Stop crying.  You're getting married.  That's what you've always wanted.
+L555540	u7959	m539	GILLIS	Why don't you? We can finish the script by Thursday.
+L555539	u7956	m539	BETTY	He wants me to come on to Arizona. He says it only oosts two dollars to get married there.  It would kind of save us a honeymoon.
+L555538	u7959	m539	GILLIS	From Artie.  What's wrong?
+L555537	u7956	m539	BETTY	It's nothing.  I got a telegram from Artie.
+L555536	u7959	m539	GILLIS	Betty, there's no use running out on it.  Let's face it, what- ever it is.
+L555534	u7959	m539	GILLIS	What is it you've heard.  Come on, let's have it.
+L555533	u7956	m539	BETTY	I just don't.
+L555532	u7959	m539	GILLIS	Why not?
+L555531	u7956	m539	BETTY	Something came up.  I don't want to talk about it.
+L555530	u7959	m539	GILLIS	What's wrong with you tonight? What is it, Betty?
+L555529	u7956	m539	BETTY	Was I?  I'm sorry.
+L555528	u7959	m539	GILLIS	Hey, what's the matter... Betty, wake up!  Why are you staring at me like that?
+L555513	u7959	m539	GILLIS	That's it -- there's nothing like being twenty-two.  Now may I suggest that if we're ever to finish this story you keep at least two feet away from me ...  Now back to the typewriter.
+L555512	u7956	m539	BETTY	Twenty-two.
+L555511	u7959	m539	GILLIS	That's no shampoo.  It'smore like a pile of freehly laundred hand- kerchiefs, like a brand new auto- mobile.  How old are you anyway?
+L555510	u7956	m539	BETTY	It must be my new shampoo.
+L555509	u7959	m539	GILLIS	May I say you smell real special.
+L555508	u7956	m539	BETTY	If you please.
+L555507	u7959	m539	GILLIS	Three cheers for Betty Schaefer! I will now kiss that nose of yours.
+L555506	u7956	m539	BETTY	Not once.  What's wrong with being on the other side of the cameras? It's really more fun.
+L555505	u7959	m539	GILLIS	Come clean, Betty.  At night you weep for those lost closeups, those gala openings...
+L555504	u7956	m539	BETTY	Not at all.  It taught me a little sense.  I got me a job in the mail room, worked up to the Stenographic. Now I'm a reader...
+L555503	u7959	m539	GILLIS	Saddest thing I ever heard.
+L555502	u7956	m539	BETTY	Should be.  It cost three hundred dollars.
+L555501	u7959	m539	GILLIS	Nice job.
+L555500	u7956	m539	BETTY	Third.  Grandma did stunt work for Pearl White.  I come from a picture family.  Naturally they took it for granted I was to become a great star.  So I had ten years of dramatic lessons, diction, dancing. Then the studio made a test.  Well, they didn't like my nose -- it slanted this way a little.  I went to a doctor and had it fixed.  They made more tests, and they were crazy about my nose -- only they didn't like my acting.
+L555499	u7959	m539	GILLIS	Second generation, huh?
+L555498	u7956	m539	BETTY	I was born just two blocks from this studio.  Right on Lemon Grove Avenue.  Father was head elec- trician here till he died.  Mother still works in Wardrobe.
+L555497	u7959	m539	GILLIS	What were you -- a child actress?
+L555496	u7956	m539	BETTY	Look at this street.  All card- board, all hollow, all phoney. All done with mirrors.  I like it better than any street in the world.  Maybe because I used to play here when I was a kid.
+L555494	u7959	m539	GILLIS	That's the trouble with you readers.  You know all the plots. Now suppose you proof-read page ten while the water boils.
+L555493	u7956	m539	BETTY	It's that old familiar story, you help a timid little soul across a crowded street.  She turns out to be a multimillionaire and leaves you all her money.
+L555492	u7959	m539	GILLIS	I gave her some advice on an idiotic script.
+L555491	u7956	m539	BETTY	I'll say.  This is solid gold.
+L555490	u7959	m539	GILLIS	Oh, that.  It's from a friend of mine.  A middle-aged lady, very foolish and very generous.
+L555489	u7956	m539	BETTY	I'm sorry.  I don't usually read private cigarette cases.
+L555488	u7959	m539	GILLIS	Who's who?
+L555487	u7956	m539	BETTY	Who's Norma?
+L555486	u7959	m539	GILLIS	Constantly.  No, in all serious- ness, it's really good.  It's fun writing again.  I'm happy here, honest I am.
+L555485	u7956	m539	BETTY	Don't you sometimes hate yourself?
+L555484	u7959	m539	GILLIS	Sure.  Especially with lots of music underneath, drowning it out.
+L555483	u7956	m539	BETTY	It will?
+L555482	u7959	m539	GILLIS	I mean this is good dialogue along in here.  It'll play.
+L555481	u7956	m539	BETTY	What's good about it?  I miss him something fierce.
+L555480	u7959	m539	GILLIS	Good.
+L555437	u7959	m539	GILLIS	And here's a title: AN APPLE FOR THE TEACHER.
+L555436	u7956	m539	BETTY	Oh, you --
+L555434	u7956	m539	BETTY	Came  on back.  Let me show you where it fits in.
+L555433	u7959	m539	GILLIS	So do I.
+L555432	u7956	m539	BETTY	Are you kidding? Because I think it's good.
+L555431	u7959	m539	GILLIS	And don't make it too dreary.  How about this for a situation: she teaches daytimes.  He teaches at night.  Right?  They don't even know each other, but they share the same room.  It's cheaper that way.  As a matter of fact, they sleep in the same bed -- in shifts, of oourse.
+L555430	u7956	m539	BETTY	Honest to goodness, I hate you.
+L555429	u7959	m539	GILLIS	You're on your own.  Stop being chicken-hearted and write that story.
+L555428	u7956	m539	BETTY	You're tough, all right.
+L555427	u7959	m539	GILLIS	Look, Betty, It can't be done. It's out.
+L555426	u7956	m539	BETTY	Nobody can be that busy.
+L555425	u7959	m539	GILLIS	It's just impossible.
+L555424	u7956	m539	BETTY	I think so.  They're on location in Arizona, shooting a Western. I'm free every evening, every week- end.  If you want, we could work at your place.
+L555423	u7959	m539	GILLIS	Good for you.  You've got yourself the best guy in town.
+L555422	u7956	m539	BETTY	We're engaged.
+L555421	u7959	m539	GILLIS	What has Artie to do with it.
+L555420	u7956	m539	BETTY	Couldn't we work in the evenings? Six o'clock in the morning? This next month I'm completely at your disposal.  Artie is out of town.
+L555419	u7959	m539	GILLIS	I'm all tied up.  I can't.
+L555418	u7956	m539	BETTY	I'm not good enough to write it alone.  We'll have to do it together.
+L555417	u7959	m539	GILLIS	Sorry.  It's your baby now.
+L555416	u7956	m539	BETTY	I'll make it short.
+L555415	u7959	m539	GILLIS	Look, if you don't mind, I haven't got time to listen to the whole plot ...
+L555414	u7956	m539	BETTY	Now I see her teaching day classes while he teaches night school.  The first time they meet ...
+L555413	u7959	m539	GILLIS	Check.
+L555412	u7956	m539	BETTY	This story is about teachers -- their threadbare lives, their struggles.  Here are people doing the most important job in the world, and they have to wprry about getting enough money to re-sole their shoes.  To me it can be as exciting as any chase, any gunplay.
+L555411	u7959	m539	GILLIS	Psychopaths sell like hotcakes.
+L555410	u7956	m539	BETTY	See if they make sense.  To begin with, I think you should throw out all that psychological stuff -- exploring a killer's sick mind.
+L555409	u7959	m539	GILLIS	What about all those ideas you had?
+L555408	u7956	m539	BETTY	You know, I'd take you up on that in a minute.  I'm just not good enough to do it all by myself.
+L555407	u7959	m539	GILLIS	If you get a hundred thousand for it, you buy me a box of chocolate creams.  If you get an Oscar, I get the left foot.
+L555406	u7956	m539	BETTY	Why should you do that?
+L555405	u7959	m539	GILLIS	I mean it.  It's no good to me anyway.  Help yourself.
+L555403	u7956	m539	BETTY	Well, for heaven's sake!
+L555402	u7959	m539	GILLIS	Just so you don't think I'm a complete swine -- if there's anything in Dark Windows you can use, take it.  It's all yours.
+L555291	u7959	m539	GILLIS	So long.
+L555290	u7956	m539	BETTY	You sure have.
+L555289	u7959	m539	GILLIS	Sorry if I crossed you up.
+L555288	u7956	m539	BETTY	It's not your career -- it's mine. I kind of hoped to get in on this deal.  I don't want to be a reader all my life.  I want to write.
+L555283	u7959	m539	GILLIS	As a matter of fact.  I've given up writing altogether.
+L555282	u7956	m539	BETTY	I tell you this is half sold.
+L555281	u7959	m539	GILLIS	Sorry, Miss Schaefer, but I've given up writing on spec.
+L555278	u7956	m539	BETTY	I've got twenty pages of notes. I've got a pretty good character for the man.
+L555277	u7959	m539	GILLIS	I was afraid of that.
+L555276	u7956	m539	BETTY	Where's the story? I bluffed it out with a few notions of my own. It's really just a springboard. It needs work.
+L555275	u7959	m539	GILLIS	O.K.  Where's the cash?
+L555272	u7956	m539	BETTY	Into something for Barbara Stan- wyck.  They have a commitment with Barbara Stanwyck.
+L555271	u7959	m539	GILLIS	Into what? A lampshade?
+L555270	u7956	m539	BETTY	He thinks it could be made into something.
+L555269	u7959	m539	GILLIS	You did?
+L555268	u7956	m539	BETTY	Dark Windows.  I got him all hopped up about it.
+L555267	u7959	m539	GILLIS	What teacher?
+L555266	u7956	m539	BETTY	Sheldrake likes that angle about the teacher.
+L555265	u7959	m539	GILLIS	Is that so? What's the wonderful news?
+L555264	u7956	m539	BETTY	I called your agent.  I called the Screen Writers Guild.  Finally your old apartment gave me some Crestview number.  There was always somebody with an accent growling at me.  You were not there.  You were not to be spoken to.  They never heard of you.
+L555263	u7959	m539	GILLIS	I haven't been keeping myself at all.  Not lately.
+L555262	u7956	m539	BETTY	Stop it, Artie, will you?  Where have you been keeping your- self? I've got the most wonderful news for you.
+L555258	u7956	m539	BETTY	You don't know how glad I am to see youl
+L555257	u7959	m539	GILLIS	Hello, Artie.  Good evening, Miss Schaefer.
+L555204	u7959	m539	GILLIS	Life can be beautiful!
+L555203	u7956	m539	BETTY	With a wildly beating heart.
+L555202	u7959	m539	GILLIS	You'll be waiting for me?
+L555201	u7956	m539	BETTY	You won't.  I'll get us a refill of this awful stuff.
+L555200	u7959	m539	GILLIS	O.K.  I find I'm terribly afraid of losing you.
+L555199	u7956	m539	BETTY	No, Phillip, no.  We must be strong.  You're still wearing the uniform of the Coldstream Guards!  Furthermore, you can have the phone now.
+L555196	u7956	m539	BETTY	Phillip, you're mad!
+L555195	u7959	m539	GILLIS	Hungry? After twelve years in the Burmese jungle.  I am starving, Lady Agatha -- starving for a white shoulder --
+L555194	u7956	m539	BETTY	Are you hungry?
+L555193	u7959	m539	GILLIS	How about capturing the kitchen and barricading the door?
+L555192	u7956	m539	BETTY	We could make some paper boats and have a regatta.  Or should we just turn on the shower?
+L555191	u7959	m539	GILLIS	Well....
+L555190	u7956	m539	BETTY	As for instance?
+L555189	u7959	m539	GILLIS	I've got some ideas myself.  One of them being this is New Year's Eve.  How about living it up a little?
+L555188	u7956	m539	BETTY	I'm serious.  I've got a few ideas.
+L555187	u7959	m539	GILLIS	Want me to start right now? Maybe there's some paper around.
+L555186	u7956	m539	BETTY	Drop that attitude.  Here's some- thing really worth while.
+L555185	u7959	m539	GILLIS	Who wants true? Who wants moving?
+L555184	u7956	m539	BETTY	Maybe that's why it's good. It's true, it's moving.  Now why don't you use that character...
+L555183	u7959	m539	GILLIS	I had a teacher like that once.
+L555182	u7956	m539	BETTY	The flashback in the courtroom, when she tells about being a school teacher.
+L555181	u7959	m539	GILLIS	Now if I got you correctly, there was a short stretch of my fiction you found worthy of notice.
+L555178	u7959	m539	GILLIS	How about the Rainbow Room?
+L555177	u7956	m539	BETTY	Is there someplace we can talk?
+L555176	u7956	m539	BETTY	Except for about six pages. You've got a flashback there ...
+L555175	u7959	m539	GILLIS	Thank you.
+L555174	u7956	m539	BETTY	I didn't.
+L555173	u7959	m539	GILLIS	Dark Windows.  How did you like it?
+L555172	u7956	m539	BETTY	There's one called....Window... something with a window.
+L555171	u7959	m539	GILLIS	Why, you sweet kid.
+L555170	u7956	m539	BETTY	I felt a little guilty, so I got out some of your old stories.
+L555169	u7959	m539	GILLIS	What for? To recover that knife you stuck in my back?
+L555168	u7956	m539	BETTY	I've been hoping to run into you.
+L555167	u7959	m539	GILLIS	Thanks.
+L555166	u7956	m539	BETTY	You forgot this.
+L555163	u7959	m539	GILLIS	About that luggage.  Where's the phone?
+L555162	u7956	m539	BETTY	Hurt feelings department.
+L555159	u7959	m539	GILLIS	Sure.  Bases Loaded.
+L555158	u7956	m539	BETTY	Let me help you.  Betty Schaeter, Sheldrake's office.
+L554836	u7956	m539	BETTY	So you take Plot 27-A, make it glossy, make it slick --
+L554835	u7959	m539	GILLIS	That was last year.  This year I'm trying to earn a living.
+L554834	u7956	m539	BETTY	Perhaps the reason I hated Bases Loaded is that I knew your name. I'd always heard you had some talent.
+L554829	u7959	m539	GILLIS	Exactly what kind of material do you recommend?  James Joyce? Dostoosvsky?
+L554828	u7956	m539	BETTY	I'm sorry, Mr. Gillis, but I just don't think it's any good. I found it flat and banal.
+L554827	u7959	m539	GILLIS	If I could be of any help...
+L555443	u7965	m539	NORMA	I'm not worried.  Everything will be fine.  The old team together. Nothing can stop us.
+L555442	u7957	m539	DE MILLE	Goodbye, young fellow.  We'll see what we can do.
+L555381	u7957	m539	DE MILLE	You know, crazy things happen in this business.  I hope you haven't lost your sense of humor ...
+L555380	u7965	m539	NORMA	Did you see them? Did you see how they came?
+L555364	u7957	m539	DE MILLE	Gordon Cole... Look, Norma, I'm in the middle of a rehearsal.  Make yourself comfortable.
+L555363	u7965	m539	NORMA	And if you hadn't been pretty darned interested in that script, he wouldn't have tried to get me on the phone ten times.
+L555362	u7957	m539	DE MILLE	Gordon Cole?
+L555361	u7965	m539	NORMA	Don't play innocent.  Somebody named Gordon Cole.
+L555360	u7957	m539	DE MILLE	What assistant?
+L555359	u7965	m539	NORMA	Then you could have picked up the phone yourself instead of leaving it to one of your assistants.
+L555358	u7957	m539	DE MILLE	Yes, I did.
+L555357	u7965	m539	NORMA	That's no excuse.  You read the script, didn't you?
+L555356	u7957	m539	DE MILLE	I'm pretty busy, as you can see...
+L555355	u7965	m539	NORMA	You'd better.  I'm very angry.
+L555354	u7957	m539	DE MILLE	Norma, I want to apologize for not calling you.
+L555353	u7957	m539	DE MILLE	Lots of people were.  Lindbergh had just landed in Paris.  Come on in.
+L555352	u7965	m539	NORMA	Last time I saw you was someplace very gay.  I remember waving to you. I was dancing on a table.
+L555351	u7965	m539	NORMA	Hello, Mr. deMille.
+L555350	u7957	m539	DE MILLE	Hello, young fellow.
+L555391	u7965	m539	NORMA	But remember, darling -- I don't work before ten in the morning, and never after 4:30 in the afternoon.
+L555390	u7958	m539	DEMILLE	Nothing would thrill me more -- if it were possible.
+L555389	u7965	m539	NORMA	I don't care about the money. I just want to work again.  You don't know what it means to know that you want me.
+L555388	u7958	m539	DEMILLE	It's got a lot of good things.  Of course, it would be an expensive picture...
+L555387	u7965	m539	NORMA	It's a good script, isn't it?
+L555386	u7958	m539	DEMILLE	That's what I want to talk to you about.
+L555385	u7965	m539	NORMA	We'll be working again, won't we, Chief? We'll make our greatest picture.
+L555384	u7958	m539	DEMILLE	We've missed you too, dear.
+L555383	u7965	m539	NORMA	Nothing.  I just didn't realize what it would be like to come back to the old studio.  I had no idea how I'd missed it.
+L555382	u7958	m539	DEMILLE	What's the matter, Norma?
+L555630	u7965	m539	NORMA	No one leaves a star.  That makes one a star.
+L555629	u7959	m539	GILLIS	Goodbye.  Norma.
+L555628	u7965	m539	NORMA	I'm the greatest star of them all.
+L555627	u7959	m539	GILLIS	Norma, grow up.  You're a woman of fifty.  There's nothing tragic about being fifty - not unless you try to be twenty-five.
+L555626	u7965	m539	NORMA	You heard him.  I'm a star!
+L555624	u7965	m539	NORMA	That isn't true! Max?
+L555623	u7959	m539	GILLIS	You tell her, Max.  Come on, do her that favor.  Tell her there isn't going to be any picture -- there aren't any fan letters, except the ones you write yourself.
+L555622	u7965	m539	NORMA	That's a lie!  They want me, they want me!  I get letters every day!
+L555621	u7959	m539	GILLIS	De Mille didn't have the heart to tell you.  None of us has had the heart.
+L555620	u7965	m539	NORMA	Wanted what?
+L555619	u7959	m539	GILLIS	He was trying to spare your feelings. The studio wanted to rent your car.
+L555618	u7965	m539	NORMA	What about the studio? What about De Mille?
+L555617	u7959	m539	GILLIS	No, they don't.
+L555616	u7965	m539	NORMA	That's a lie!  They still want me!
+L555615	u7959	m539	GILLIS	Wake up, Norma.  You'd be killing yourself to an empty house.  The audience left twenty years ago. Now face it.
+L555614	u7965	m539	NORMA	You don't care.  do you?  But hundreds of thousands of people will carel
+L555613	u7959	m539	GILLIS	Oh.  sure -- if it would make a good scene.
+L555612	u7965	m539	NORMA	See, you didn't believe me!.. Now I suppose you don't think I have the courage!
+L555611	u7965	m539	NORMA	You think I made that up about the gun...
+L555610	u7959	m539	GILLIS	That's between you and yourself, Norma.
+L555609	u7965	m539	NORMA	You can't do this!  Max!  Max! ... I can't face life without you, and I'm not afraid to die, you know.
+L555608	u7959	m539	GILLIS	Norma, you'd be throwing it away. I don't qualify for the job, not any more.
+L555607	u7965	m539	NORMA	These are nothing.  You can have anything you want if you'll only stay.  What is it you want -- money?
+L555606	u7959	m539	GILLIS	And I'd take it in a second, Norma -- only it's a little too dressy for sitting behind the copy desk in Dayton, Ohio.
+L555605	u7965	m539	NORMA	It's yours, Joe.  I gave it to you.
+L555604	u7959	m539	GILLIS	The rest of the jewelry is in the top drawer.
+L555603	u7959	m539	GILLIS	Max is a good idea.  He can help with my luggage.  Thanks for letting me wear the handsome wardrobe.  And thanks for the use of all the trinkets.
+L555602	u7965	m539	NORMA	No, you're not.  Max! Max!
+L555601	u7959	m539	GILLIS	Yes, I am, Norma.
+L555600	u7965	m539	NORMA	What are you doing, Joe?  What are you doing?  You're not leaving me?
+L555473	u7965	m539	NORMA	Of course you haven't.  I wouldn't let you.
+L555472	u7959	m539	GILLIS	I haven't done anything, Norma.
+L555471	u7965	m539	NORMA	Of course not, Joe.  It's just that I don't want to be left alone. Not now, while I'm under this terrible strain.  My nerves are being torn apart.  All I ask is for you to be a little patient and a little kind.
+L555470	u7959	m539	GILLIS	All right, I drove to the beach. Norma, you don't want me to feel I'm locked up in this house?
+L555469	u7965	m539	NORMA	No you didn't.  You took the car.
+L555468	u7959	m539	GILLIS	I went for a walk.
+L555467	u7965	m539	NORMA	I just happen to know it.  I had a nightmare and I screamed for you.  You weren't here.  Where were you?
+L555466	u7959	m539	GILLIS	Why do you say that?
+L555465	u7965	m539	NORMA	You went out last night, didn't you, Joe?
+L555464	u7959	m539	GILLIS	I think I'll read a little.
+L555463	u7965	m539	NORMA	You'd better get to bed yourself.
+L555462	u7959	m539	GILLIS	Good.
+L555461	u7965	m539	NORMA	I was a little worried about the line of my throat.  This woman has done wonders with it.
+L555460	u7959	m539	GILLIS	Good.
+L555459	u7965	m539	NORMA	I've lost half a pound since Tuesday.
+L555458	u7959	m539	GILLIS	Good night.
+L555457	u7965	m539	NORMA	I just came to say good night. I don't want you to see me -- I'm not very attractive.
+L555456	u7959	m539	GILLIS	Yes, Norma.
+L555455	u7965	m539	NORMA	Don't turn around.  Keep your eyes on the book.
+L555449	u7965	m539	NORMA	He'a a shrewd old fox.  He can smell box office.  Only I'm going to outfox him a litt1e.  This isn't going to be C. B. deMille's Salome. It's going to be Norma Desmond's Salome, a Norma Desmond Production, starring Norma Desmond...Home, Max.
+L555448	u7959	m539	GILLIS	He must be quite a guy.
+L555447	u7965	m539	NORMA	It couldn't have gone better. It's practically set.  Of course, he has to finish this picture first, but mine will be his next.
+L555446	u7959	m539	GILLIS	How did it go?
+L555349	u7965	m539	NORMA	Thank you, darling.
+L555348	u7959	m539	GILLIS	I don't think so.  It's your script.  It's your show. Good luck.
+L555347	u7965	m539	NORMA	Don't you want to come along, darling?
+L555317	u7965	m539	NORMA	I know that trick! He wants to belittle me.  He's trying to get my price down.  I've waited twenty years for this call.  Now Mr. deMille can wait till I'm good and ready.
+L555316	u7959	m539	GILLIS	Maybe deMille is shooting.
+L555315	u7965	m539	NORMA	How do you like that? We've made twelve pictures together. His greatest successes.
+L555302	u7965	m539	NORMA	All right.  Give me this.  I need it for a moustache.  Now close your eyes.
+L555301	u7959	m539	GILLIS	Nothing is the matter.  I'm having a great time.  Show me some more.
+L555300	u7965	m539	NORMA	I can still see myself in the line: Bebe Daniels, Marie Prevost, Mabel Normand ... Mabel was always stepping on my feet ...What's the matter with you, darling?  Why are you so glum?
+L555296	u7959	m539	GILLIS	Where are your...?
+L555295	u7965	m539	NORMA	Where are my cigarettes?
+L555294	u7959	m539	GILLIS	I ran into some people I knew.
+L555293	u7965	m539	NORMA	What on earth, darling? It took you hours.
+L555252	u7965	m539	NORMA	You're a darling.
+L555251	u7959	m539	GILLIS	Pull up at the drugstore, will you, Max.  I'll get you some.
+L555250	u7965	m539	NORMA	They're awful.  They make me cough.
+L555249	u7959	m539	GILLIS	Have one of mine.
+L555246	u7965	m539	NORMA	So he said it quite a few years ago.  So what?  I never looked better in my life.  Do you know why?  Because I've never been as happy in my life.
+L555245	u7959	m539	GILLIS	When did he say it, Norma?
+L555244	u7965	m539	NORMA	I'm not just selling the script. I'm selling me.  DeMille always said I was his greatest star.
+L555243	u7959	m539	GILLIS	I hope you realize, Norma, that scripts don't sell on astrologers' charts.
+L555242	u7965	m539	NORMA	DeMille is Leo.  I'm Scorpio. Mars has been transmitting Jupiter for weeks.  Today is the day of greatest conjuction. Now turn around.  Let me dry you.
+L555241	u7959	m539	GILLIS	Did she read the script?
+L555240	u7965	m539	NORMA	This is the right day.
+L555239	u7959	m539	GILLIS	You're really going to send it to De Mille?
+L555225	u7965	m539	NORMA	I'll do it again, I'll do it again, I'll do it again!
+L555224	u7959	m539	GILLIS	Not until you promise to act like a sensible human being.
+L555223	u7965	m539	NORMA	Why don't you just say thank you and go, go, go --
+L555222	u7959	m539	GILLIS	Look, I was making that up because I thought the whole thing was a mistake.  I didn't want to hurt you. You've been good to me.  You're the only person in this stinking town that has been good to me.
+L555221	u7965	m539	NORMA	Go away.  Go to that girl of yours.
+L555220	u7965	m539	NORMA	Great stars have great pride.
+L555219	u7959	m539	GILLIS	It sure would have made attractive headlines: Great Star Kills Her- self for Unknown Writer.
+L555218	u7965	m539	NORMA	To fall in love with you -- that was the idiotic thing.
+L555217	u7959	m539	GILLIS	What kind of a silly thing was that to do?
+L555216	u7965	m539	NORMA	Go away.
+L555130	u7965	m539	NORMA	What you're trying to say is that you don't want me to love you.  Is that it?
+L555129	u7959	m539	GILLIS	Why not? What I'm trying to say is that I'm all wrong for you. You want a Valentino -- somebody with polo ponies -- a big shot --
+L555128	u7965	m539	NORMA	Who? Some car hop, or a dress extra?
+L555127	u7959	m539	GILLIS	Has it ever occurred that I may have a life of my own? That there may be some girl I'm crazy about?
+L555126	u7965	m539	NORMA	What right? Do you want me to tell you?
+L555125	u7959	m539	GILLIS	What right do you have to take me for granted?
+L555124	u7965	m539	NORMA	What's the matter with you?
+L555123	u7959	m539	GILLIS	Cut out that us business.
+L555122	u7965	m539	NORMA	I own three blocks downtown. I have oil in Bakersfield -- pumping, pumping, pumping. What's it for but to buy us anything we want.
+L555121	u7959	m539	GILLIS	Keep it.
+L555120	u7965	m539	NORMA	Shut up.  I'm rich.  I'm richer than all this new Hollywood trash. I've got a million dollars.
+L555119	u7959	m539	GILLIS	Norma, I can't take it.  You've bought me enough.
+L555118	u7965	m539	NORMA	Mad about the boy.
+L555117	u7959	m539	GILLIS	What are the notes?
+L555111	u7965	m539	NORMA	I'm in love with you.  Don't you know that? I've been in love with you all along.
+L555110	u7959	m539	GILLIS	What's that?
+L555109	u7965	m539	NORMA	Is it funny that I'm in love with you?
+L555108	u7959	m539	GILLIS	A little.
+L555107	u7965	m539	NORMA	You think this is all very funny.
+L555106	u7959	m539	GILLIS	Come midnight, how about blind- folding the orchestra and smash- ing champagne glasses on Max's head?
+L555105	u7965	m539	NORMA	Hold me tighter.
+L555104	u7959	m539	GILLIS	I understand some rich guy bought up all the tickets for a perfor- mance at the Metropolitan and sat there listening to La Traviata, all by himself.  He was afraid of catching cold.
+L555103	u7965	m539	NORMA	There are no other guests.  We don't want to share this night with other people.  This is for you and me.
+L555102	u7959	m539	GILLIS	The other guests?
+L555101	u7965	m539	NORMA	Who?
+L555100	u7959	m539	GILLIS	It's a quarter past ten.  What time are they supposed to get here?
+L555099	u7959	m539	GILLIS	It's those feathers.  They tickle.
+L555098	u7965	m539	NORMA	Don't bend back like that.
+L555097	u7965	m539	NORMA	Just follow me.
+L555096	u7959	m539	GILLIS	Not on the same floor with Valentino!
+L555093	u7965	m539	NORMA	Careful, it's slippery.  I had it waxed.
+L555092	u7959	m539	GILLIS	Shouldn't we wait for the others?
+L555091	u7965	m539	NORMA	Cute.  Let's have some drinks.
+L555090	u7959	m539	GILLIS	Now, I'm not going to wear ear- rings, I can tell you that.
+L555089	u7965	m539	NORMA	I don't like those studs they've sent.  I want you to have pearls. Nice big pearls.
+L555088	u7959	m539	GILLIS	You know, to me dressing up was always just putting on my dark blue suit.
+L555087	u7965	m539	NORMA	Come here!
+L555086	u7959	m539	GILLIS	All padding.  Don't let it fool you.
+L555084	u7965	m539	NORMA	Come on!
+L555082	u7965	m539	NORMA	Joe,  you look absolutely divine.  Turn around!
+L555059	u7965	m539	NORMA	You'll need them for parties. You'll need them for New Year's Eve.  Where are your evening clothes?
+L555058	u7959	m539	GILLIS	Tails.  That's ridiculous.
+L555057	u7965	m539	NORMA	Of course you do.  A tuxedo and tails.
+L555056	u7959	m539	GILLIS	I don't need a tuxedo.
+L555055	u7965	m539	NORMA	How about some evening clothes?
+L555053	u7965	m539	NORMA	Why begrudge me a little fun? I just want you to look nice, my stray little boy.
+L555052	u7959	m539	GILLIS	I don't need any clothes, and I certainly don't want you buy- ing them for --
+L555051	u7965	m539	NORMA	Nothing, if you work in a fill- ing station.  And I'm getting rather bored with that sport jacket, and those same baggy pants.  Max, what's a good men's shop in town?  The very best... Well, go there !
+L555050	u7959	m539	GILLIS	What's wrong with It?
+L555049	u7965	m539	NORMA	That's a dreadful shirt you're wearing.
+L555047	u7965	m539	NORMA	Now you're being silly.  We don't need two cars.  We have a car.  And not one of thuse cheap new things made of chromium and spit.  An Isotta-Fraschini.  Have you ever heard of Isotta-Fraschinis?  All hand-made.  Cost me twenty-eight thousand dollars.
+L555046	u7959	m539	GILLIS	It is to me.  That's why I came to this house.  That's why I took this job -- ghost writing!
+L555045	u7965	m539	NORMA	Oh...and I thought it was a matter of life and death.
+L555044	u7959	m539	GILLIS	I've lost my car.
+L555043	u7965	m539	NORMA	Now what is it?  Where's the fire?
+L555040	u7965	m539	NORMA	Can't you wait till I'm dummy?
+L555039	u7959	m539	GILLIS	I need some money right now.
+L555038	u7965	m539	NORMA	Please.  Now I've forgotten how many spades are out.
+L555037	u7959	m539	GILLIS	They've come for my car.
+L555036	u7965	m539	NORMA	Not now, my dear.  I'm playing three no trump.
+L555035	u7959	m539	GILLIS	I want to talk to you for a minute.
+L555023	u7959	m539	GILLIS	Okay.
+L555022	u7965	m539	NORMA	They don't?  Then why do they still write me fan letters every day. Why do they beg me for my photo- graphs?  Because they want to see me, me, me!  Norma Desmond.
+L555021	u7959	m539	GILLIS	Honestly, it's a little old hat. They don't want that any more.
+L555020	u7965	m539	NORMA	Cut away from me?
+L555019	u7959	m539	GILLIS	The one where you go to the slave market.  You can cut right to the scene where John the Baptist -
+L555018	u7965	m539	NORMA	What scene?
+L555017	u7959	m539	GILLIS	Just a scene I cut out.
+L555016	u7965	m539	NORMA	What's that?
+L555014	u7965	m539	NORMA	Suppose you make up your mind. Do you want this job or don't you?
+L555013	u7959	m539	GILLIS	Unpack nothing.  I didn't say I was staying.
+L555012	u7965	m539	NORMA	Now, now, don't let's be small about such matters.  We won't keep books.  Go on, unpack Mr. Gillis' things.
+L555011	u7959	m539	GILLIS	Okay.  We'll deduct it from my salary.
+L555010	u7965	m539	NORMA	You proud boy, why didn't you tell me you were having difficulties.
+L555009	u7959	m539	GILLIS	I'm used to paying my own bills.
+L555008	u7965	m539	NORMA	It's all taken care of.  It's all paid for.
+L555007	u7959	m539	GILLIS	I'll take care of that.
+L555006	u7965	m539	NORMA	You can't work in an apartment where you owe three months' rent.
+L555005	u7959	m539	GILLIS	Thanks for the invitation, but I have my own apartment.
+L555004	u7965	m539	NORMA	You'll like it here.
+L555003	u7959	m539	GILLIS	Look, I'm supposed to fix up your script.  There's nothing in the deal about my staying here.
+L555002	u7965	m539	NORMA	I don't know why you should be so upset.  Stop that playing, Max.  It seemed like a good idea -- if we are to work together.
+L554978	u7959	m539	GILLIS	I'll come early tomorrow.
+L554977	u7965	m539	NORMA	You can stay here.
+L554976	u7959	m539	GILLIS	There sure is.
+L554975	u7965	m539	NORMA	There's something wrong with your car, you said.
+L554974	u7959	m539	GILLIS	Hollywood.  The Alto Nido Apart- ments.
+L554973	u7965	m539	NORMA	Where do you live?
+L554972	u7959	m539	GILLIS	The name is Gillis.  I'm single.
+L554971	u7965	m539	NORMA	Are you married, Mr.  -- ?
+L554970	u7959	m539	GILLIS	It's getting kind of late --
+L554969	u7965	m539	NORMA	Oh no.  I couldn't let it out of my house.  You'll have to finish it here.
+L554968	u7959	m539	GILLIS	Maybe I'd better take the rest of the script home and read it -
+L554967	u7965	m539	NORMA	I wouldn't worry about money. I'll make it worth your while.
+L554966	u7959	m539	GILLIS	You know, I'm pretty expensive. I get five hundred a week.
+L554965	u7965	m539	NORMA	I don't care.
+L554964	u7959	m539	GILLIS	Me?  I'm busy.  Just finished one script.  I'm due on another assignment.
+L554963	u7965	m539	NORMA	I want you to do this work.
+L554962	u7959	m539	GILLIS	Thank you.
+L554961	u7965	m539	NORMA	Sagittarius.  I like Sagittarians. You can trust them.
+L554960	u7959	m539	GILLIS	December twenty-first.
+L554959	u7965	m539	NORMA	What month?
+L554958	u7959	m539	GILLIS	I don't know.
+L554957	u7965	m539	NORMA	Who?  I'd have to have somebody I can trust.  When were you born -- I mean, what sign of the zodiac?
+L554956	u7959	m539	GILLIS	Of course not.  But it ought to be organized.  Just an editing job.  You can find somebody.
+L554955	u7965	m539	NORMA	I will not have it butchered.
+L554954	u7959	m539	GILLIS	It certainly could use a pair of shears and a blue pencil.
+L554953	u7965	m539	NORMA	What for?  I can say anything I want with my eyes.
+L554952	u7959	m539	GILLIS	Sure you did.  That's what makes it great.  What it needs is a little more dialogue.
+L554951	u7965	m539	NORMA	I wrote that with my heart.
+L554950	u7959	m539	GILLIS	Maybe it's a little long and maybe there are some repetitions... but you're not a professional writer.
+L554949	u7965	m539	NORMA	Of course it is.
+L554948	u7959	m539	GILLIS	This is fascinating.
+L554947	u7965	m539	NORMA	Well?
+L554941	u7965	m539	NORMA	I am not afraid.  Read it!
+L554940	u7959	m539	GILLIS	Right now?  Never let another writer read your stuff.  He may steal it.
+L554939	u7965	m539	NORMA	They will love it every place.  Read it.  Read the scene just before she has him killed!
+L554938	u7959	m539	GILLIS	They'll love it in Pomona.
+L554937	u7965	m539	NORMA	Salome -- what a woman! What a part! The Princess in love with a Holy man.  She dances the Dance of the Seven Veils.  He rejects her, so she demands his head on a golden tray, kissing his cold, dead lips.
+L554936	u7959	m539	GILLIS	Fair enough.
+L554935	u7965	m539	NORMA	I hate that word.  It is a return. A return to the millions of people who have never forgiven me for deserting the screen.
+L554934	u7959	m539	GILLIS	Only asking.  I did't know you were planning a comeback.
+L554933	u7965	m539	NORMA	Who else ?
+L554932	u7959	m539	GILLIS	And you'll play Salome?
+L554931	u7965	m539	NORMA	We've made a lot of pictures together.
+L554930	u7959	m539	GILLIS	Uh-huh.
+L554929	u7965	m539	NORMA	It's the story or Salome.  I think I'll have DeMille direct it.
+L554928	u7959	m539	GILLIS	Looks like enough for six impor- tant pictures.
+L554927	u7965	m539	NORMA	This is to be a very important picture.  I have written it myself.  Took me years.
+L554926	u7959	m539	GILLIS	Depends on what it is -- a Donald Duck or Joan or Arc.
+L554925	u7965	m539	NORMA	How long is a movie script these days?  I mean, how many pages?
+L554924	u7959	m539	GILLIS	Or teach it a better tune.
+L554923	u7965	m539	NORMA	The wind gets in that blasted pipe organ.  I ought to have it taken out.
+L554921	u7959	m539	GILLIS	Sure have.  The last one I wrote was about cattle rustlers. Before they were through with it, the whole thing played on a torpedo boat.
+L554920	u7965	m539	NORMA	And you have written pictures, haven't you?
+L554919	u7959	m539	GILLIS	I think that's what it says on my driver's license.
+L554918	u7965	m539	NORMA	Are you or aren't you?
+L554917	u7959	m539	GILLIS	Why?
+L554916	u7965	m539	NORMA	You're a writer, you said.
+L554915	u7959	m539	GILLIS	Yeah?
+L554914	u7965	m539	NORMA	Just a minute, you!
+L554912	u7965	m539	NORMA	Get out!
+L554911	u7959	m539	GILLIS	Ssh! You'll wake up that monkey.
+L554910	u7965	m539	NORMA	You are! Writing words, words! You've made a rope of words and strangled this businessl But there is a microphone right there to catch the last gurgles, and Technicolor to photograph the red, swollen tongue!
+L554909	u7959	m539	GILLIS	Don't get sore at me.  I'm not an executive.  I'm just a writer.
+L554908	u7965	m539	NORMA	Look at them in the front offices -- the master minds! They took the idols and smashed them.  The Fairbankses and the Chaplins and the Gilberts and the Valentinos. And who have they got now?  Some nobodies -- a lot of pale little frogs croaking pish-poshl
+L554907	u7959	m539	GILLIS	That's where the popcorn business comes in.  You buy yourself a bag and plug up your ears.
+L554906	u7965	m539	NORMA	They're dead.  They're finished. There was a time when this busi- ness had the eyes of the whole wide world.  But that wasn't good enough.  Oh, nol They wanted the ears of the world, too.  So they opened their big mouths, and out came talk, talk, talk...
+L554905	u7959	m539	GILLIS	I knew there was something wrong with them.
+L554904	u7965	m539	NORMA	I am big.  It's the pictures that got small.
+L554903	u7959	m539	GILLIS	I know your face.  You're Norma Desmond.  You used to be in pictures.  You used to be big.
+L554902	u7965	m539	NORMA	Or shall I call my servant?
+L554901	u7959	m539	GILLIS	Sure.  Wait a minute -- haven't I seen you -- ?
+L554900	u7965	m539	NORMA	Get out.
+L554899	u7959	m539	GILLIS	I'm sorry, and I'm sorry you lost your friend, and I don't think red is the right color.
+L554898	u7965	m539	NORMA	It is not.  Get out.
+L554897	u7959	m539	GILLIS	I had some trouble with my car. Flat tire.  I pulled into your garage till I could get a spare. I thought this was an empty house.
+L554896	u7959	m539	GILLIS	Lady.  you've got the wrong man.
+L554895	u7965	m539	NORMA	How much will it be?  I warn you - don't give me a fancy price just because I'm rich.
+L554893	u7965	m539	NORMA	I don't care anyway.  I want the coffin to be white.  And I want it specially lined with satin. White, or deep pink.
+L554892	u7959	m539	GILLIS	I wouldn't know.
+L555525	u7962	m539	MAX	It was I who asked to come back, humiliating as it may seem.  I could have gone on witn my career, only I found everything unendur- able arter she divorced me.  You see, I was her rirst husband.
+L555524	u7959	m539	GILLIS	And she's turned you into a servant.
+L555523	u7962	m539	MAX	I directed all her early pictures. There were three young directors who showed promise in those days: D.W. Grirrith, C.B. deMille, and Max von Mayerling.
+L555522	u7959	m539	GILLIS	You made her a star?
+L555521	u7962	m539	MAX	She never will.  That is my job. It has been for a long time.  You must understand I discovered her when she was eighteen.  I made her a star.  I cannot let her be destroyed.
+L555520	u7959	m539	GILLIS	Sure you are.  And we're not help- ing her any, feeding her lies and more lies.  Getting herself ready for a pioture ...  What happens when she finds out?
+L555519	u7962	m539	MAX	It's just that I'm very worried about Madame.
+L555518	u7959	m539	GILLIS	Why don't you? I'm writing a script and I'm dying to finish it, no matter what.
+L555517	u7962	m539	MAX	I'm not inquiring where Mr. Gillis goes every night...
+L555516	u7959	m539	GILLIS	How about my going up the kitchen stairs and undressing in the dark. Will that do it?
+L555515	u7962	m539	MAX	You must be very careful as you cross the patio.  Madame may be watching.
+L555514	u7959	m539	GILLIS	What is it, Max? Want to wash the car, or are you doing a little spying in your off hours?
+L555440	u7959	m539	GILLIS	What?
+L555439	u7962	m539	MAX	I just found out why all those tele- phone calls.  It is not Miss Desmond they want.  It is the car they want to rent.
+L555438	u7959	m539	GILLIS	What's the matter, Max?
+L555398	u7962	m539	MAX	He had a great big bungalow on wheels.  I had the upstairs.  See where it says 'Readers' Department'? I remember my walls were covered with black patent leather...
+L555397	u7959	m539	GILLIS	That didn't leave much for Wallace Reid.
+L555396	u7962	m539	MAX	You see those offices there, Mr. Gillis? They used to be her dressing room, The whole row.
+L555285	u7959	m539	GILLIS	Right with you.
+L555284	u7962	m539	MAX	Mr. Gillis, if you please.
+L555214	u7962	m539	MAX	She is upstairs.
+L555213	u7959	m539	GILLIS	How is she?
+L555080	u7962	m539	MAX	I don't know, sir.  Madame made the arrangements.
+L555079	u7959	m539	GILLIS	No, I haven't.  I suppose all the waxworks are coming?
+L555078	u7962	m539	MAX	I'd better press your evening clothes, sir.  You have not for- gotten Madame's New Year's party.
+L555077	u7959	m539	GILLIS	You send them.  Is that it, Max?
+L555076	u7962	m539	MAX	I wouldn't look too closely at the postmarks.
+L555075	u7959	m539	GILLIS	Why?  Her career?  She got enough out of it.  She's not forgotten. She still gets those fan letters.
+L555074	u7962	m539	MAX	We have to be very careful.  No sleeping pills, no razor blades. We shut off the gas in her bed- room.
+L555073	u7959	m539	GILLIS	Uh-huh?
+L555072	u7962	m539	MAX	Madame's doctor.  She has moments of melancholy.  There have been some suicide attempts.
+L555071	u7959	m539	GILLIS	What doctor?
+L555070	u7962	m539	MAX	The doctor suggested it.
+L555069	u7959	m539	GILLIS	How come?
+L555068	u7962	m539	MAX	There are no locks anywhere in this house.
+L555067	u7959	m539	GILLIS	Hey, what's this with the door? There isn't any lock.
+L555065	u7962	m539	MAX	It was the room of the husband. Or of the husbands, I should say. Madame has been married three times.
+L555064	u7959	m539	GILLIS	Whose room was this?
+L555033	u7962	m539	MAX	They found your car in the garage.  They are going to tow it away.
+L555032	u7959	m539	GILLIS	Good.
+L555031	u7962	m539	MAX	That's what I told them.
+L555030	u7959	m539	GILLIS	I'm not here.
+L555029	u7962	m539	MAX	Some men are here.  They asked for you.
+L555000	u7959	m539	GILLIS	Who said you could?  Who asked you to?
+L554999	u7962	m539	MAX	Why are you so upset?  Is there anything missing?
+L554998	u7959	m539	GILLIS	Is that so!
+L554997	u7962	m539	MAX	Naturally.  I brought them myself.
+L554996	u7959	m539	GILLIS	I'm talking to you.  My clothes and things are up in the room.
+L554990	u7962	m539	MAX	You did, sir. GILLIS' VOICE He goes out.  Gillis     I pegged him as slightly looks after him, hangs   cuckoo, too.  A stroke maybe. his coat over a chair,   Come to think of it, the walks over to the win-   whole place seemed to have dow, pulls down the      been stricken with a kind of rickety Venetian blind.  creeping paralysis, out of As he does so, he looks  beat with the rest of the down at:                 world, crumbling apart in slow motion ...
+L554989	u7959	m539	GILLIS	I sure turned into an interesting driveway.
+L554988	u7962	m539	MAX	She was the greatest.  You wouldn't know.  You are too young.  In one week she got seventeen thousand fan letters.  Men would bribe her mani- curist to get clippings from her fingernails.  There was a Maharajah who came all the way from Hyderabad to get one of her stockings.  Later, he strangled himself with it.
+L554987	u7959	m539	GILLIS	Thanks.  Say, she's quite a character, that Norma Desmond.
+L554986	u7962	m539	MAX	There is the bathroom.  I put in soap and a toothbrush.
+L554985	u7959	m539	GILLIS	It will never make house Beautiful. I guess it's O.K. for one night.
+L554984	u7962	m539	MAX	This room has not been used for a long time.
+L554983	u7959	m539	GILLIS	Thanks.  How did you know I was going to stay, this afternoon?
+L554982	u7962	m539	MAX	I made your bed this afternoon.
+L554887	u7959	m539	GILLIS	For me?  Okay.
+L554886	u7962	m539	MAX	Madame is waiting.
+L554885	u7959	m539	GILLIS	Suppose you listen just for a minute -
+L554882	u7959	m539	GILLIS	Dressed for what?
+L554881	u7962	m539	MAX	You are not dressed properly.
+L554880	u7962	m539	MAX	Wipe your feet!
+L554879	u7959	m539	GILLIS	Look, maybe I'd better take my car --
+L554878	u7962	m539	MAX	Go on in.
+L554877	u7959	m539	GILLIS	I just put my car in the garage. I had a blow-out.  I thought --
+L554808	u7959	m539	GILLIS	You say the cutest things.
+L554807	u7964	m539	NO. 1	Sure we believe you, only now we want you to believe us.  That car better be back here by noon tomorrow, or there's going to be fireworks.
+L554806	u7959	m539	GILLIS	You don't believe me?  Look in the garage.
+L554805	u7964	m539	NO. 1	Had to get away for his health, I suppose.
+L554804	u7959	m539	GILLIS	I lent it to a friend of mine. He took it up to Palm Springs.
+L554803	u7964	m539	NO. 1	Is that So?
+L554802	u7959	m539	GILLIS	Relax, fans.  The car isn't here.
+L554796	u7959	m539	GILLIS	What car?
+L554795	u7964	m539	NO. 1	We've come for the car.
+L554794	u7959	m539	GILLIS	That's right.
+L554793	u7964	m539	NO. 1	Joseph C. Gillis?
+L554853	u7959	m539	GILLIS	Goodbye, Mr. Sheldrake.
+L554852	u7966	m539	SHELDRAKE	Could I?  Gillis, last year some- body talked me into buying a ranch in the valley.  So I borrowed money from the bank so I could pay for the ranch.  This year I had to mortgage the ranch so I could keep up my life insurance so I could borrow on the insurance so I could pay my income tax.  Now if Dewey had been elected -
+L554851	u7959	m539	GILLIS	Look, Mr. Sheldrake, could you let me have three hundred bucks yourself, as a personal loan?
+L554850	u7966	m539	SHELDRAKE	There's nothing, Gillis.  Not even if you were a relative.
+L554849	u7959	m539	GILLIS	Any kind of assignment.  Additional Dialogue.
+L554848	u7966	m539	SHELDRAKE	Haven't got a thing.
+L554847	u7959	m539	GILLIS	Along is no good.  I need it now.
+L554846	u7966	m539	SHELDRAKE	Sure, Gillis.  If something should come along -
+L554845	u7959	m539	GILLIS	You trying to be funny?  -- because I'm all out of laughs.  I'm over a barrel and I need a job.
+L554844	u7966	m539	SHELDRAKE	Now wait a minute.  If we made it a girls' softball team, put in a few numbers.  Might make a cute musical: It Happened in the Bull Pen -- the story of a Woman.
+L554843	u7959	m539	GILLIS	Frankly, no.
+L554842	u7966	m539	SHELDRAKE	Of course, we're always looking for a Betty Hutton.  Do you see it as a Betty Hutton?
+L554841	u7959	m539	GILLIS	Mr. Sheldrake, I don't want you to think I thought this was going to win any Academy Award.
+L554840	u7966	m539	SHELDRAKE	Well, seems like Zanuck's got himself a baseball picture.
+L554833	u7966	m539	SHELDRAKE	No, that was me.  I said, Who wants to see a Civil War picture?
+L554832	u7959	m539	GILLIS	Oh, you're one of the message kids.  Just a story won't do. You'd have turned down Gone With the Wind.
+L554817	u7966	m539	SHELDRAKE	Get the Readers' Department and see what they have on Bases Loaded.
+L554816	u7959	m539	GILLIS	Bases Loaded.  There's a 4O-page outline.
+L554815	u7966	m539	SHELDRAKE	Got a title?
+L554814	u7959	m539	GILLIS	More or less.  Only for the end I've got a gimmick that's real good.
+L554813	u7966	m539	SHELDRAKE	So they tell the kid to throw the World Series, or else, huh?
+L554812	u7959	m539	GILLIS	It's about a ball player, a rookie shortstop that's batting 347.  The poor kid was once mixed up in a hold- up.  But he's trying to go straight -- except there's a bunch of gamblers who won't let him.
+L554811	u7966	m539	SHELDRAKE	All right, Gillis.  You've got five minutes.  What's your story about?
+L554868	u7963	m539	MORINO	Maybe what you need is another agent.
+L554867	u7959	m539	GILLIS	What do you think I've been doing? I need three hundred dollars.
+L554866	u7963	m539	MORINO	Greatest thing that could happen to you.  Now you'll have to sit behind that typewriter.  Now you'll have to write.
+L554865	u7959	m539	GILLIS	Forget Romanoff's.  It's the car I'm talking about.  If I lose my car it's like having my legs out off.
+L554864	u7963	m539	MORINO	Don't you know the finest things in the world have been written on an empty stomach?  Once a talent like yours gets into that Mocambo- Romanoff rut, you're through.
+L554863	u7959	m539	GILLIS	How's that about your being my friend?
+L554862	u7963	m539	MORINO	Gillis, get this through your head.  I'm not just your agent. It's not the ten per cent.  I'm your friend.
+L554861	u7959	m539	GILLIS	No?
+L554860	u7963	m539	MORINO	So you need three hundred dollars? Of course, I could give you three hundred dollars.  Only I'm not going to.
+L555656	u7960	m539	HEAD OF HOMICIDE	Okay.  And let's have the car right outside.
+L555655	u7961	m539	HOLMBY HILLS CAPTAIN	Well, it's one way to get her down stairs.
+L555647	u7960	m539	HEAD OF HOMICIDE	Was theft involved?  Did you catch him trying to steal something, or find he had stolen something?
+L555646	u7961	m539	HOLMBY HILLS CAPTAIN	Did you hate him?  Had you ever thought of doing something like this before?
+L555645	u7960	m539	HEAD OF HOMICIDE	Did the deceased ever threaten you? Were you in fear of bodily injury?
+L555644	u7961	m539	HOLMBY HILLS CAPTAIN	Had he been trying to blackmail you?
+L555643	u7960	m539	HEAD OF HOMICIDE	Did he have a wife?  Did he had a girl friend?  Did you know them?
+L555642	u7961	m539	HOLMBY HILLS CAPTAIN	This guy -- where did you meet him for the first time?  Where did he come from? Who is he?
+L555641	u7960	m539	HEAD OF HOMICIDE	If it was a quarrel, how come you had the gun right there?
+L555640	u7961	m539	HOLMBY HILLS CAPTAIN	Was it a sudden quarrel?  Had there been any trouble between you before?
+L555639	u7960	m539	HEAD OF HOMICIDE	Did you intend to kill him? Just answer me that.
+L555638	u7961	m539	HOLMBY HILLS CAPTAIN	You do not deny having killed this man, Miss Desmond?
+L555667	u7962	m539	MAX	All right.  Camera!  Action!
+L555666	u7965	m539	NORMA	Oh, yes, yes.  They're below, waiting for the Princess ... I'm ready.
+L555665	u7962	m539	MAX	This is the staircase of the palace.
+L555664	u7965	m539	NORMA	What is the scene? Where am I?
+L555652	u7965	m539	NORMA	They have?  Thank you, Max.  Tell Mr. DeMille I will be on the set at once.
+L555651	u7962	m539	MAX	The cameras have arrived, Madame.
+L555650	u7965	m539	NORMA	Cameras? ...What is it, Max?
+L555320	u7965	m539	NORMA	Thank you, Max.
+L555319	u7962	m539	MAX	If you will pardon me, Madame. The shadow over the left eye is not quite balanced.
+L555314	u7962	m539	MAX	Very good, Madam.
+L555313	u7965	m539	NORMA	Say that I'm busy, and hang up.
+L555312	u7962	m539	MAX	I myself was surprised at Mr. de Mille's manners.
+L555311	u7965	m539	NORMA	Certainly it's important.  It's important enough for Mr. deMille to call me personally.  The idea of having an assistant call me!
+L555310	u7962	m539	MAX	It is not Mr. deMille in person. It is someone by the name or Gordon Cole.  He says it's very important.
+L555309	u7965	m539	NORMA	Now, now do you belive me? I told you deMille would jump at it.
+L555308	u7962	m539	MAX	Paramount studios.
+L555307	u7965	m539	NORMA	Who?
+L555306	u7962	m539	MAX	Paramount is calling.
+L555305	u7965	m539	NORMA	You know better than to interrupt me.
+L555304	u7962	m539	MAX	Madame is wanted on the telephone.
+L555238	u7962	m539	MAX	Yes, Madame.
+L555237	u7965	m539	NORMA	Wait a minute.  I want you to get out the car.  You're going to take the script over to Paramount and deliver it to Mr. De Mille in person.
+L554944	u7962	m539	MAX	Yes.  Madame.
+L554943	u7965	m539	NORMA	Bring something to drink.
+L565478	u8070	m546	WIFE	That's the horse!  Shotgun - Shotgun in the fifth!
+L565477	u8055	m546	BARTHA	Waiter, the check.  This man is trying to hold a gun to my head!
+L565476	u8070	m546	WIFE	Where are we running?  What am I missing here?
+L565468	u8070	m546	WIFE	Hitler!
+L565467	u8055	m546	BARTHA	Will you mind your own business!
+L565464	u8070	m546	WIFE	Oh, are you a spy for the other side?
+L565463	u8055	m546	BARTHA	That's right!  Tell him, so I can read it in Hunsecker's column first!
+L565462	u8070	m546	WIFE	It's compensation, Leo, for the marginal life we lead.  Sidney, did you hear the story about the cloak-and-suitor who -- ?
+L565461	u8055	m546	BARTHA	You ought to stop this nonsense, Loretta, these two dollar bets.
+L565454	u8070	m546	WIFE	How do you do, Mr. Falco.  If you know anything about horses, sit a minute.  Help yourself to a glass of this N.Y. State champagne - that's what my husband buys me.
+L565453	u8055	m546	BARTHA	Loretta...Sidney Falco...
+L565446	u8065	m546	SIDNEY	Thanks, I see him...
+L565445	u8056	m546	CAPTAIN	He's somewhere...
+L565444	u8056	m546	CAPTAIN	Yeah, having supper with the Mrs. She's over there.
+L565443	u8065	m546	SIDNEY	Just hopping tonight.  Leo Bartha been in?
+L565442	u8056	m546	CAPTAIN	Hello, Sidney.  Wanna table?
+L565305	u8056	m546	CAPTAIN	A Senator, an Agent and Something - With - Long - Red - Hair.
+L565304	u8065	m546	SIDNEY	Alone or surrounded?
+L565303	u8056	m546	CAPTAIN	But of course...
+L565302	u8065	m546	SIDNEY	"Is ""he"" inside?"
+L565301	u8056	m546	CAPTAIN	How are you tonight, Mr. Falco?
+L565909	u8066	m546	STEVE	I doubt that it matters any more.
+L565908	u8057	m546	D'ANGELO	I could think of better places to meet her, instead of here.  He lives on the whole top floor.
+L565769	u8066	m546	STEVE	I guess you're right, but -
+L565768	u8057	m546	D'ANGELO	Not that I'm convinced, but you'll never prove it in a million years.  Steve, you'll do what you want, but it can't hurt; he offers you an olive branch - so today like olives!
+L565767	u8066	m546	STEVE	I still think he's responsible for the smear.
+L565660	u8057	m546	D'ANGELO	We're on our way there now...
+L565659	u8066	m546	STEVE	I want to speak to Miss Hunsecker, please.
+L565655	u8057	m546	D'ANGELO	...excited with good reason, I wanted to say.  Because this endangers the future of the whole quintet...
+L565654	u8066	m546	STEVE	Don't apologize for me, Frank!
+L565653	u8057	m546	D'ANGELO	Boys, this gets nobody nowhere - you're over excited, Steve and -
+L565643	u8066	m546	STEVE	I thought you might have a faint idea of how this item originated.
+L565642	u8057	m546	D'ANGELO	Excuse me, Steve.  I said namely you shouldn't go around wild, blaming people without justification.
+L565254	u8066	m546	STEVE	You don't like it, do you.  I think she will accept, but I'm not sure. She may be too dependent on her brother.
+L565253	u8057	m546	D'ANGELO	Did she accept?
+L565228	u8066	m546	STEVE	The next time you want information, Falco, don't scratch for it like a dog - ask for it like a man!
+L565227	u8057	m546	D'ANGELO	Come on boys, break it up...
+L565658	u8065	m546	SIDNEY	Then what are you doing here?  Go over there and fight!  If Van Cleve fires your boy, it gives a lie the ring of truth!
+L565657	u8057	m546	D'ANGELO	...People catch on quick to such an item.  Van Cleve already called me - he's firing the quintet.
+L565178	u8057	m546	D'ANGELO	I don't like this threatening attitude.  When it comes to it, what the heck is it your business what they do, this boy and girl...
+L565177	u8065	m546	SIDNEY	Listen, Frank, you'd better make sure you're telling me the truth.
+L565176	u8057	m546	D'ANGELO	Four five nights ago.  That's how I know the romance is off.  Also Steve's in a very bad mood.
+L565175	u8065	m546	SIDNEY	That's a nice tour.  All booked?  When was Susie around here last?
+L565174	u8057	m546	D'ANGELO	Coupla weeks.  For eight weeks.
+L565173	u8065	m546	SIDNEY	When do these hot-headed boys of yours go on the road?
+L565172	u8057	m546	D'ANGELO	Not in those exact words - you know what a temper he's got.
+L565171	u8065	m546	SIDNEY	You told him that?
+L565170	u8057	m546	D'ANGELO	Yeah, and it's the truth, to the best of my knowledge.  And, frankly, I'm glad.  For Steve's sake, I'm glad, not yours.  I manage these boys and I got their best interests at heart.  Steve shouldn't get mixed up with no bimbo at his age.
+L565169	u8065	m546	SIDNEY	You told me that your boy was washed up with Susie Hunsecker, didn't you?
+L565168	u8057	m546	D'ANGELO	Looka, Sidney, you're my own sister's son, but where does that give you the right to call me a liar?
+L565167	u8065	m546	SIDNEY	Frank, I think maybe you lied to me.
+L565166	u8065	m546	SIDNEY	Robard's my client.  I did it for him and his club, not your boys.
+L565165	u8057	m546	D'ANGELO	Thanks for the publicity spread you got the boys for the benefit tomorrow.
+L565164	u8057	m546	D'ANGELO	I only had a few hours.
+L565163	u8065	m546	SIDNEY	See my mother?
+L565162	u8057	m546	D'ANGELO	Went over to Philly yesterday an' seen the folks...it's nice you send them the fifty a month...
+L565161	u8065	m546	SIDNEY	And with ten percent of his future, you're great, too, Frank.
+L565160	u8057	m546	D'ANGELO	That's a lollipop that, boy.  The kid is only great.
+L565159	u8065	m546	SIDNEY	Your nephew doesn't want a drink.
+L565158	u8057	m546	D'ANGELO	Joe, give my nephew a drink.
+L565556	u8058	m546	ELWELL	Hurry back.
+L565555	u8065	m546	SIDNEY	Blessings on thee, the both...well... Gotta run now.  See you two kids later!
+L565531	u8065	m546	SIDNEY	Give me a chance --
+L565530	u8058	m546	ELWELL	I hate J.J. -- but not that much at this moment...
+L565523	u8058	m546	ELWELL	Right!
+L565522	u8065	m546	SIDNEY	Otis was outraged when I told him Van Cleve was going to fire you. Tell him not to pay any attention to anything you-know-who says about you-know-what.  Right, Otis?
+L565521	u8058	m546	ELWELL	Friends call me Otis - sometimes Tricky Otis.
+L565503	u8065	m546	SIDNEY	I see you're full of human feelings...
+L565502	u8058	m546	ELWELL	And, instead, he printed his heel in your face?
+L565501	u8065	m546	SIDNEY	"You don't know that lunatic yet? Whims - egotistic whims!  Like the gag - when you got him for a friend, you don't need an enemy!  That's what the fight with Bartha was about. ""Leo"", I says, ""Hunsecker froze me out.  So I'm eating humble pie this month - please print me an item."""
+L565498	u8058	m546	ELWELL	If it were that easy, you wouldn't find an empty phone booth for the next two hours...
+L565497	u8065	m546	SIDNEY	Call him up and ask - he might drop dead with shock.
+L565496	u8058	m546	ELWELL	How is dear old J.J. by the way?
+L565494	u8065	m546	SIDNEY	I'm late for a date with a dame.
+L565493	u8058	m546	ELWELL	I see Bartha gave you cold tongue for supper.  Hey, wait a minute!
+L565841	u8059	m546	HUNSECKER	Ten'll get you fifty you're playing hookey from a padded cell!
+L565840	u8066	m546	STEVE	But my day with Susie isn't over yet and--
+L565839	u8059	m546	HUNSECKER	Son, I don't fancy shooting mosquitoes with elephant guns.  So suppose you just shuffle along and call it a day...
+L565838	u8066	m546	STEVE	Why?  Because I don't like the way you toy with human lives? - Your contempt and malice?  Because I won't be the accomplice of your sick ego - and the way it's crippled Susie...?  You think of yourself - you and your column - you see yourself as a national glory...but to me, and thousands of others like me, you and your slimy scandal, your phony patriotics - to me, Mr. Hunsecker, you are a national disgrace!
+L565837	u8059	m546	HUNSECKER	And what have I done to her, besides not buy her a new fur coat lately?  Sidney, you were right -- the boy's a dilly.
+L565836	u8066	m546	STEVE	No, I don't care about you -- you're fantastic.  My whole interest, if it's not too late, is in Susie...and how to undo what you've done to her...
+L565835	u8059	m546	HUNSECKER	If looks could kill, I'm dead...
+L565830	u8059	m546	HUNSECKER	Son, you raise your voice again and you'll be outa here on your golden pratt!
+L565829	u8066	m546	STEVE	I'm trying to get Susie to stand up to you.  But your manner is so threatening that she's afraid to speak!
+L565828	u8059	m546	HUNSECKER	May I lift my eyebrows?  What is this?  What are you trying to do?
+L565827	u8066	m546	STEVE	"Those ""dears"" sound like daggers. May I suggest that you stop DARING her to speak?"
+L565826	u8059	m546	HUNSECKER	Susie, as always, is free to say anything she thinks.  Go on, dear, say exactly what's on your mind, dear.
+L565820	u8066	m546	STEVE	I'm afraid I can't cope with them.
+L565819	u8059	m546	HUNSECKER	You hear that, Susie...  Continue please...
+L565818	u8066	m546	STEVE	Mr. Hunsecker, you've got more twists than a barrel of pretzels.
+L565814	u8066	m546	STEVE	Wait a minute, I haven't handed over punishing privileges to you YET!  Put the whip down and I might respect what you're saying...
+L565813	u8059	m546	HUNSECKER	Right now you're in no position to ask questions!  And your snide remarks---
+L565812	u8066	m546	STEVE	I don't take kindly to you and Falco selling me ethics.  Who's the injured party here, you?
+L565803	u8066	m546	STEVE	He's here, isn't he?  Do you think, sir, when he dies he'll go to the dog and cat heaven?
+L565802	u8059	m546	HUNSECKER	Why do you keep coupling me with Falco?
+L565801	u8066	m546	STEVE	No punch line.  Maybe I was just admiring your know-how---yours and Falco's.
+L565800	u8059	m546	HUNSECKER	Frankly, son, you lost me on that last hill.  Just give us the punch line...
+L565799	u8059	m546	HUNSECKER	Well, just be careful you don't knock her down, huh?
+L565798	u8066	m546	STEVE	Nuts!  I'm not here as an artist! I'm here as an average Joe, who happens to love your sister Susie!
+L565797	u8059	m546	HUNSECKER	Just exactly what are you so hot about?  I mean, I know it's a difficult thing to be an artist in this crudest of possible worlds, but --
+L565796	u8059	m546	HUNSECKER	Son, lots of people tell me I'm a gifted man, but I still can't see around corners.
+L565795	u8066	m546	STEVE	Is it news to you?
+L565794	u8059	m546	HUNSECKER	Why, has he bothered you before?
+L565793	u8066	m546	STEVE	Does he have to be here in our hair?
+L565785	u8059	m546	HUNSECKER	Serious as a deacon...I like it.  I like your style, son!  In a world of old rags and bones, I like it! For instance, take Sidney.
+L565784	u8066	m546	STEVE	No, I wouldn't...
+L565783	u8059	m546	HUNSECKER	Take it easy, Susie.  He wouldn't be much of a man if he didn't understand my concern.  Would you, son?
+L565779	u8059	m546	HUNSECKER	I'll by that, son.  Now, you owe ME a favor.  Be good to my kid sister...
+L565778	u8066	m546	STEVE	Mr. Hunsecker, there's nothing to that smear.  You have my sincere word...
+L565777	u8066	m546	STEVE	You've been very kind about it, Mr. Hunsecker. HUNSECKER Give Susie credit for that.  I took her word that there was nothing to the smear.  Matter of fact, I'll have my say about smears on the show today.  That's why I'd like YOUR personal assurance, too.
+L565776	u8059	m546	HUNSECKER	Well, son, looks like you went out and bought yourself a packet of trouble...
+L566049	u8059	m546	HUNSECKER	Susan!...
+L566048	u8067	m546	SUSAN	No!  NO!  Don't touch me!
+L565844	u8067	m546	SUSAN	No.  I'm going home.
+L565843	u8059	m546	HUNSECKER	You in a mood, Susie, to run over to Milgrim's later and buy a few new frocks?
+L565833	u8067	m546	SUSAN	Sometimes I think ALL men are fools!...
+L565832	u8059	m546	HUNSECKER	Susie, I'm sorry if---
+L565817	u8059	m546	HUNSECKER	Before you leave, son, I'll answer your question---Susan Hunsecker is the injured party here!  Or will I be hearing next that I don't even have my sister's welfare at heart...
+L565816	u8067	m546	SUSAN	No...
+L565815	u8059	m546	HUNSECKER	Susie, did you know about this accusation...?
+L565782	u8067	m546	SUSAN	J.J., Steve isn't...
+L565781	u8059	m546	HUNSECKER	Susie likes to keep her girlish secrets.  But in her heart of hearts I imagine, Dallas, that she fancies you in an uncommon way. Now, what about YOU, son?  Not just tom-catting around...I hope?
+L565742	u8059	m546	HUNSECKER	A man couldn't ask for a squarer shake.  Let me have Billy Van Cleve...  Don't ever tell anyone, Susie, how I'm tied to your apron strings...  Billy!  J.J.!  What's this about that boy?  What boy?  Where are we, lug, in a drawing room comedy? You're brain is warming up, sweetheart - yeah, Dallas!...  No, don't explain your point of view, but...
+L565741	u8067	m546	SUSAN	When I'm certain, I'll let you know...
+L565727	u8059	m546	HUNSECKER	Susie, I want to help you--, there's nothing I won't do for you. You're all I've got in the whole, wide world.
+L565726	u8067	m546	SUSAN	I'm taking up the situation with you now...
+L565725	u8059	m546	HUNSECKER	I started to say we're drifting apart.  A year ago, in your wildest dreams, would you have walked by that door without taking up this situation with me?  Today I had to call you in!
+L565724	u8067	m546	SUSAN	I haven't said anything yet, J.J., but if -
+L565723	u8059	m546	HUNSECKER	Let me finish, dear.  You had your say, now let me have mine...
+L565722	u8067	m546	SUSAN	I thought we were talking about Sidney?
+L565721	u8059	m546	HUNSECKER	You know, dear, we're drifting apart, you and I, and I don't like that.
+L565720	u8067	m546	SUSAN	I said Sidney!...
+L565719	u8059	m546	HUNSECKER	Who said Sidney?
+L565718	u8067	m546	SUSAN	Sidney is a liar!
+L565711	u8067	m546	SUSAN	Alan was not...unbalanced when I married him.  And he was not...'indifferent to women' no matter what they said! HUNSECKER  I'm not fighting with you, puss...
+L565710	u8059	m546	HUNSECKER	I wouldn't have called the boy exactly balanced...
+L565709	u8067	m546	SUSAN	Then whose fault was it, J.J.?  It was someone's fault, wasn't it?
+L565708	u8059	m546	HUNSECKER	But that wasn't your fault, dear, what happened to Leslie.  I've told you that a million times...
+L565707	u8067	m546	SUSAN	It's just as if I've seen a ghost today...
+L565705	u8067	m546	SUSAN	History repeats itself.  Everything that happened to Alan Leslie...began with a smear like this...
+L565704	u8059	m546	HUNSECKER	Why are you trembling, dear...?
+L565702	u8067	m546	SUSAN	No, I'm not.  I'm not!
+L565701	u8059	m546	HUNSECKER	Not being partial, are you?
+L565700	u8059	m546	HUNSECKER	Yes, he phoned.  I don't know this boy too well.  Anything in these charges?
+L565699	u8067	m546	SUSAN	Did Sidney tell you about it?
+L565698	u8059	m546	HUNSECKER	What a question, dear, with that newspaper in your hand...
+L565697	u8067	m546	SUSAN	Why?
+L565696	u8059	m546	HUNSECKER	Susie, you're very much in my thoughts today.
+L565371	u8064	m546	SENATOR	Why does everything you say sound like a threat?
+L565370	u8059	m546	HUNSECKER	We're friends, Harvey - we go as far back as when you were a fresh kid Congressman, don't we?
+L565369	u8064	m546	SENATOR	There is some allusion here that escapes me...
+L565368	u8059	m546	HUNSECKER	This man is not for you, Harvey, and you shouldn't be seen with him in public.  Because that's another part of a press agents life - he digs up scandal among prominent men and shovels it thin among the columnists who give him space.
+L565367	u8064	m546	SENATOR	Now, come, J.J., that's a little too harsh.  Anyone seems fair game for you tonight.
+L565326	u8059	m546	HUNSECKER	Now don't kid a kidder.
+L565325	u8064	m546	SENATOR	And I believe that's precisely where I read it, too.  You see, J.J., where I get my reputation for being the best-informed man in Washington.
+L565323	u8059	m546	HUNSECKER	Yes, the Justice, that's right. But I think you had it in the column.
+L565322	u8064	m546	SENATOR	Err...the Supreme Court story, I was telling you - Justice Black.
+L565407	u8059	m546	HUNSECKER	"I remember ONCE when you didn't quite ""put things together"".  Boy! Was the Mayor mad!"
+L565406	u8060	m546	KELLO	Yeah, I got eyes.  I put things together.
+L565405	u8059	m546	HUNSECKER	Say, that's good - it's nice - in fact, it's APT, Harry!
+L565402	u8060	m546	KELLO	I don't believe it.
+L565401	u8059	m546	HUNSECKER	Say hello to Sidney Falco.  Tickle him - he's been a bad boy tonight. He called you my fat friend.
+L565400	u8059	m546	HUNSECKER	She mighta jumped.  Love suicide?  Check it for me, Phil...it's a real heart throb.
+L565399	u8060	m546	KELLO	Yeah.  At Bellevue.  Still hanging on.  But they still don't know if she was pushed.
+L565398	u8059	m546	HUNSECKER	Incidentally, what happened to that doll? - You gave me the item last night.  Still alive?
+L565397	u8060	m546	KELLO	"I just checked ""downtown"".  Quiet everywhere tonight."
+L565390	u8060	m546	KELLO	Bonna sera, commendatore.  Come sta?
+L565389	u8059	m546	HUNSECKER	Hello, Harry.
+L566066	u8065	m546	SIDNEY	Susie, there's nothing wrong with Dallas!  Your brother and I arranged it all. And if the Leslie boy is still a squooshy item in your life, forget it! - your brother arranged that one, too!  I don't usually give away presents; but this is my gift to you: Get out of here!  Leave this man!
+L566065	u8059	m546	HUNSECKER	You're incapable of the truth...
+L566064	u8065	m546	SIDNEY	Listen with care - this will cost me everything, so you know I'm telling you the truth!
+L566053	u8065	m546	SIDNEY	Talk to her yourself...
+L566052	u8059	m546	HUNSECKER	Talk to her, Sidney...
+L566040	u8059	m546	HUNSECKER	Is that why you were romancing her, you mutt!  Let's call it quits, my dear.  I'd like it fine if you found another home.  That means the front door is open!  Pack your things, rent a moving van and GIT!  And as for marriage, let me hit you with a few choice facts: you aren't ready for marriage!  You're incompetent - a capricious and shaky frail with a sick fatality for frail and useless men!
+L566039	u8065	m546	SIDNEY	I was trying to build her up, not tear her down -
+L565900	u8065	m546	SIDNEY	J.J., I swear to you on my mother's life, I won't do it.  If you gave me your COLUMN I wouldn't do a thing like that...
+L565899	u8059	m546	HUNSECKER	Sidney, I told you -
+L565891	u8059	m546	HUNSECKER	The man in jail is always for freedom.
+L565890	u8065	m546	SIDNEY	J.J., it's one thing to wear your dog collar...but when it gets to be a noose...I'd rather have my freedom.
+L565882	u8065	m546	SIDNEY	Why give her real proof?  You nearly ruined her with her first husband - and you were right, J.J., - but she almost followed him out the window.  What do you want - a chronic invalid?
+L565881	u8059	m546	HUNSECKER	She knows now.
+L565880	u8065	m546	SIDNEY	Why do something that would drive them right back into each other's arms?  Not to mention that this time Susie would know who shot the arrow...
+L565873	u8065	m546	SIDNEY	How does it matter who's sister? The main thing, they're through and -
+L565872	u8059	m546	HUNSECKER	Are you listening?
+L565860	u8059	m546	HUNSECKER	Sidney, I know human nature.  Susie lied to me - she'll see that boy again.
+L565859	u8065	m546	SIDNEY	But not for anything I did today...
+L565858	u8059	m546	HUNSECKER	What are you so chipper about?  If I put a cross on every one of your mistakes, you'd look like a graveyard!
+L565806	u8065	m546	SIDNEY	Wild?  Take a look at them and see who's wild...
+L565805	u8059	m546	HUNSECKER	Don't go wild, Sidney.
+L565804	u8065	m546	SIDNEY	Let's forget cats and dogs and other pseudo-literary remarks--- I'll just lay it on the line!  What about that big rumpus in my office today?  You were there, Frank! Where, according to St. Dallas, J.J. was responsible for the Elwell smear!
+L565765	u8065	m546	SIDNEY	Calculated risk.  Only we happen to know, J.J., that you like me.  I'm your star pupil -- I reflect back to you your own talent.
+L565764	u8059	m546	HUNSECKER	Full of beans, ain't you?  But you know that you'll stand or fall by what you're doing now...
+L565763	u8065	m546	SIDNEY	"A pocket fulla firecrackers - looking for a match!  It's a new wrinkle to tell the truth... I never thought I'd make a killing on some guy's ""integrity""."
+L565762	u8059	m546	HUNSECKER	What does that mean - integrity?
+L565761	u8065	m546	SIDNEY	Integrity - acute, like indigestion.
+L565760	u8059	m546	HUNSECKER	What's this boy got that Susie likes?
+L565759	u8065	m546	SIDNEY	Presumably yours...  That's according to St. Dallas.
+L565758	u8059	m546	HUNSECKER	And who's feet is she on now?
+L565757	u8065	m546	SIDNEY	Sure, he steams her up - wants her to stand on her own two feet and all that jazz!
+L565756	u8059	m546	HUNSECKER	Well he's got her in a tizzy, I'll tell you that!
+L565755	u8065	m546	SIDNEY	No, that's the point - he won't accept your favor!  The manager yes, but not the boy.
+L565754	u8059	m546	HUNSECKER	But it's too late.  I got him back the job...
+L565753	u8065	m546	SIDNEY	I like that, too.  Look, J.J., we can wrap this up in one neat bundle, addressed to the dumps - to oblivion.  We're going great, but please play it my way. I cased this kid. Know his ins and outs...He's fulla juice and vinegar, just begging for some big shot like you to give him a squeeze.  Do little Sidney a favor: squeeze! - You know, J.J. - the porcupine bit - needles.
+L565752	u8059	m546	HUNSECKER	Can't hurt?  I had to get him back his job.
+L565751	u8065	m546	SIDNEY	Can't hurt...
+L565750	u8059	m546	HUNSECKER	I think you loused this up but good. If I can trust my eyes, and I think I can, Susie knows all about your dirty work.
+L565749	u8065	m546	SIDNEY	With a pocket fulla firecrackers - good.
+L565748	u8059	m546	HUNSECKER	I got that boy coming over here.  What's so funny?
+L565740	u8059	m546	HUNSECKER	Sure you can if you want to, and I know you'll want to...  By the way, what's your beef against little Sidney?
+L565739	u8065	m546	SIDNEY	I'm not sure I can reach him in time.
+L565737	u8065	m546	SIDNEY	No, I won't...
+L565736	u8059	m546	HUNSECKER	Susie, I like this new attitude of yours.  You're growing up and I like it!  I don't like it when you're limp and dependent, when you're odd and wayward.  This gives you a chance for real survival in a very lousy world.  Because, don't forget, dear, you won't always have me with you, will you...?
+L565735	u8065	m546	SIDNEY	I read your column every day...
+L565734	u8059	m546	HUNSECKER	You're picking up my lingo, hon.
+L565733	u8065	m546	SIDNEY	"Yes.  With your ""prestige"" it only takes a minute - ten cents worth of American Tel and Tel."
+L565732	u8059	m546	HUNSECKER	He means that much to you...?
+L565731	u8065	m546	SIDNEY	Get Steve back his job...please...
+L565730	u8059	m546	HUNSECKER	How?
+L565729	u8065	m546	SIDNEY	J.J., you said you want to help me - prove it!
+L565728	u8059	m546	HUNSECKER	Well, what have I got?  Alimony to a pair of tramps?  They're of no concern to me.  It's you who count, but don't get me wrong - I don't intend to let you break your neck again!
+L565717	u8059	m546	HUNSECKER	Then maybe you can tell me if he's as solid as you say, why does he rap me every chance he gets?
+L565716	u8065	m546	SIDNEY	I know Steve.  No.
+L565714	u8059	m546	HUNSECKER	You mean they've been fired already, on the basis of this crude smear?
+L565713	u8065	m546	SIDNEY	J.J., I want you to get them back their job, Steve and the Quintet.
+L565440	u8065	m546	SIDNEY	Tonight.  Before you go to bed. The cat is in the bag and the bag is in the river.
+L565439	u8059	m546	HUNSECKER	When?
+L565438	u8065	m546	SIDNEY	Uh huh.
+L565433	u8059	m546	HUNSECKER	What you promised - do it!  Don't finagle around.  It's later than you think.
+L565432	u8065	m546	SIDNEY	I'll do it, J.J. - don't get me wrong - in for a penny, in for a pound.  I'll see it through, but stop beating me around the head. Let me make a living!
+L565431	u8059	m546	HUNSECKER	Ha!  My right hand hasn't seen my left hand for thirty years!
+L565430	u8065	m546	SIDNEY	Correct me if I'm wrong - WE! Because when I'm out on this very slippery limb for you, you have to know what's involved.
+L565429	u8059	m546	HUNSECKER	"Not ""we"", Sidney, you!"
+L565428	u8065	m546	SIDNEY	No, lemme finish.  I DON'T LIKE THIS JOB!  That boy is dumb only on matinee days - otherwise he's got a head.  And Susan, like you said, she's growing up.  Two heads. What I mean, we got a slippery, dangerous problem here!
+L565427	u8059	m546	HUNSECKER	Are you finished?
+L565426	u8065	m546	SIDNEY	"Awright, that brings us up to five weeks ago. ""Sidney, I got a nasty little problem here."" Did I say no? I'm frank to admit - it don't jell as fast as we like... But all of a sudden I CAN'T GET YOU ON THE PHONE NO MORE!  WHY?... And why, as of this date, am I frozen out of the column..."
+L565424	u8059	m546	HUNSECKER	I'll listen one more minute.
+L565423	u8065	m546	SIDNEY	Correct me if I'm wrong, but I don't think so...
+L565422	u8059	m546	HUNSECKER	I don't?
+L565421	u8065	m546	SIDNEY	Frankly, J.J., I don't think you got the cards to blitz me.
+L565419	u8065	m546	SIDNEY	Why not break it up yourself?  You could do it in two minutes flat.
+L565418	u8059	m546	HUNSECKER	I'm a schoolboy - teach me, teach me.
+L565417	u8065	m546	SIDNEY	You want something done, J.J., but I doubt if you yourself know what's involved.
+L565416	u8059	m546	HUNSECKER	You told me you'd break up that romance - when?
+L565413	u8059	m546	HUNSECKER	I like Harry, but I can't deny he sweats a little.
+L565412	u8065	m546	SIDNEY	"Spahish...that must show he likes ""spigs"", too."
+L565364	u8059	m546	HUNSECKER	The day that I can't get along without press agents' handouts, I'll close up shop, lock, stock and barrel and move to Alaska.
+L565363	u8065	m546	SIDNEY	I didn't say that, J.J.
+L565362	u8059	m546	HUNSECKER	Yes, with your clients' names attached.  That's the only reason those poor slobs pay you - to see their names in my column all over the world!  Now, as I make it out, you're doing ME a favor!
+L565361	u8065	m546	SIDNEY	You print them, don't you?
+L565360	u8059	m546	HUNSECKER	What, some cheap, gruesome gags?
+L565355	u8065	m546	SIDNEY	You just had a good example of it. A press agent eats a columnists dirt and is expected to call it manna.
+L565354	u8059	m546	HUNSECKER	Why don't you answer the man, Sidalee?  He's trying to take you off the hook.
+L565351	u8065	m546	SIDNEY	Not just this minute, J.J....
+L565350	u8059	m546	HUNSECKER	Match me, Sidney...
+L565331	u8059	m546	HUNSECKER	Everyone knows Manny Davis...  ...except MRS. Manny Davis.
+L565330	u8065	m546	SIDNEY	I know Manny Davis.
+L565320	u8065	m546	SIDNEY	I have a message from your sister.
+L565319	u8059	m546	HUNSECKER	Mac!  I don't want this man at my table...
+L565315	u8059	m546	HUNSECKER	No.  You're dead, son - get yourself buried!
+L565314	u8065	m546	SIDNEY	Can I come in for a minute?
+L565313	u8059	m546	HUNSECKER	You had something to do for me - you didn't do it.
+L565312	u8065	m546	SIDNEY	I have to talk to you, alone, J.J., that's why.
+L565311	u8059	m546	HUNSECKER	Can I come out?  No.
+L566091	u8060	m546	KELLO	Yeah...  And another thing - he's gonna say you 'resisted arrest'...  You know J.J....!
+L566090	u8065	m546	SIDNEY	I thought he would.
+L565971	u8065	m546	SIDNEY	Go out with DIFFERENT girls!
+L565970	u8060	m546	KELLO	Well, I'll be darned.  And what does J.J. think he SHOULD do?
+L565969	u8065	m546	SIDNEY	He goes out with girls.
+L565968	u8060	m546	KELLO	Is that a fact?  He's a dilly, ain't he?  By the by, what did he have against this boy?
+L565963	u8060	m546	KELLO	...And he's got them on him.  I appreciate a thing like that - I appreciate where you are looking out for the virtue of the city.
+L565962	u8065	m546	SIDNEY	- He's got them on him.
+L565961	u8060	m546	KELLO	It's nice, Sidney, that you give me this tip...
+L565956	u8065	m546	SIDNEY	"He's leaving early.  After this ""set"".  He'll be out in a couple of minutes..."
+L565955	u8060	m546	KELLO	What's all the rush?  You said three o'clock.
+L565404	u8060	m546	KELLO	I call him the boy with the ice cream face!
+L565403	u8065	m546	SIDNEY	I know...I know you're the strongest cop in town.
+L565593	u8061	m546	MARY	Let's wait till Christmas - it's more legitimate then.
+L565592	u8065	m546	SIDNEY	What's your favorite ribbon to go around your favorite chocolates?
+L565591	u8061	m546	MARY	No.  It's one of J.J.'s occasional beau gestes.  Evidently the fellow's funny, so he gave him a plug.
+L565590	u8065	m546	SIDNEY	"Who put this item in about the comic?  ""If there's a more hilarious funny man around than Herbie Temple at the Palace, you'll have to pardon us for not catching the name.  We were too busy screaming."" Does this Temple have a press agent?"
+L565586	u8065	m546	SIDNEY	And why should I bribe the woman who holds most of my heart?
+L565585	u8061	m546	MARY	Bribing me again?
+L565579	u8065	m546	SIDNEY	Dallas?  Could be.  He doesn't look like a reefer smoker...
+L565578	u8061	m546	MARY	Could this be that boy?
+L565574	u8061	m546	MARY	Something about a Frank D'Angelo trying to reach you...
+L565573	u8065	m546	SIDNEY	What about?
+L565572	u8061	m546	MARY	That's a question I usually like to ask YOU.  Your secretary phoned.
+L565551	u8062	m546	RITA	- that's what I mean!
+L565550	u8065	m546	SIDNEY	Nothing I didn't think of you before.
+L565549	u8062	m546	RITA	What would you think of me if -
+L565548	u8065	m546	SIDNEY	Next time I'll call in a guy to paint silver stars on the ceiling!
+L565547	u8062	m546	RITA	A girl needs a little romancing before she -
+L565544	u8065	m546	SIDNEY	Listen, you need him for a favor, don't you!  And so do I!  I need his column--tonight.  Didn't you ask me to do something about your job?  Don't you have a kid in Military School?
+L565543	u8062	m546	RITA	This sort of thing!
+L565542	u8065	m546	SIDNEY	What sort of thing?
+L565541	u8062	m546	RITA	Sidney...I...I don't do this sort of thing...
+L565540	u8065	m546	SIDNEY	I beg your pardon!  I turn myself inside out to help you and now I'm a heavy.  Here's your shoe, there's your coat, that's the door!
+L565539	u8062	m546	RITA	Don't you think I have any feelings? What am I?  A bowl of fruit?  A tangerine that peels in a minute?
+L565538	u8065	m546	SIDNEY	What kind of an act is this?
+L565537	u8062	m546	RITA	What do you want all of a sudden - Lady Godiva...?  Where's my other shoe?
+L565536	u8065	m546	SIDNEY	So take five minutes!  Get acquainted!  He's an important man - he's lonely - don't be dumb!
+L565535	u8062	m546	RITA	And he's a perfect stranger to me.
+L565534	u8065	m546	SIDNEY	Yeah!
+L565533	u8062	m546	RITA	Yeah.  Otis Elwell.  The columnist.
+L565532	u8065	m546	SIDNEY	Don't you know who that man is?
+L565526	u8065	m546	SIDNEY	One of those business meetings, honey - always coming up in the middle of the night.
+L565525	u8062	m546	RITA	Back?
+L565520	u8062	m546	RITA	Hello.
+L565519	u8065	m546	SIDNEY	Rita, say hello to Otis Elwell.
+L565251	u8065	m546	SIDNEY	Can you be there by two-thirty?
+L565250	u8062	m546	RITA	Do you still keep your key under the mat?
+L565249	u8065	m546	SIDNEY	That's what I'm thinking, Rita. Maybe...
+L565248	u8062	m546	RITA	Do you think you could do something, Sidney?
+L565245	u8062	m546	RITA	But, Sidney darling, the man must be out of his mind - it was only eleven o'clock in the morning!
+L565244	u8065	m546	SIDNEY	We're old friends, Chickie - quit it!  A big columnist comes in this room, without his ball-and-chain and you make like a delicatessen counter!  What did you think would happen in his house?
+L565243	u8062	m546	RITA	I don't know - it's a big apartment. But I wasn't interviewed.  In fact, I was totally unprepared for what happened.
+L565242	u8065	m546	SIDNEY	And where was his wife?
+L565241	u8062	m546	RITA	In his apartment -
+L565240	u8065	m546	SIDNEY	"You were thrilled to be interviewed.  Were you ""interviewed""?"
+L565239	u8062	m546	RITA	...cigarette girls... And naturally -
+L565238	u8065	m546	SIDNEY	He was writing a special Sunday piece on...?
+L565237	u8062	m546	RITA	Staring.  Consequently, when he approached me on his way out I wasn't surprised, but I didn't let on.
+L565236	u8065	m546	SIDNEY	Avidly.  He was staring.
+L565234	u8062	m546	RITA	No.  That's what I mean - I'm being fired for what I didn't do.
+L565233	u8065	m546	SIDNEY	Don't tell me you started a polka with Leo Bartha?
+L565157	u8062	m546	RITA	At the bar - Sidney...
+L565156	u8065	m546	SIDNEY	Is Frank D'Angelo around?
+L565155	u8062	m546	RITA	Sidney, can I talk to you a minute?
+L565154	u8065	m546	SIDNEY	You're sure.  Find out for me.
+L565153	u8062	m546	RITA	I don't think so.
+L565152	u8065	m546	SIDNEY	I've been up to here.  Listen, honey, tell me something.  You know Susan Hunsecker...?  Has she been in?  I mean lately, in the last coupla days...?
+L565151	u8062	m546	RITA	Don't you ever get messages, Eyelashes?  I called you twice.
+L565684	u8063	m546	SALLY	If you want me to -
+L565683	u8065	m546	SIDNEY	Stay down town tonight.  Maybe we'll take in a show, etc.
+L565682	u8063	m546	SALLY	Or what you see in me, for that matter...
+L565681	u8065	m546	SIDNEY	That's no way to talk...
+L565680	u8063	m546	SALLY	I swear, Sidney, I can't help it - sometimes I wonder what I see in you...
+L565678	u8065	m546	SIDNEY	Don't judge a situation where you don't know what's involved...
+L565677	u8063	m546	SALLY	I know you do, Sidney.
+L565676	u8065	m546	SIDNEY	I put a lotta trust in you, Chickie...
+L565675	u8063	m546	SALLY	Yes.
+L565674	u8065	m546	SIDNEY	Did you send my folks in Philly the check...?
+L565671	u8063	m546	SALLY	Nothing...
+L565670	u8065	m546	SIDNEY	What's the matter?
+L565149	u8065	m546	SIDNEY	And leave a tip in every hat-check room in town?
+L565148	u8063	m546	SALLY	Take a top coat.
+L565147	u8065	m546	SIDNEY	If that's for me, tear it up!
+L565146	u8065	m546	SIDNEY	No.  You think I'm a hero.  I'm no hero.  I'm nice to people where it pays me to be.  I gotta do it too much on the outside, so don't expect me to kow-tow in my own office.  I'm in a bind right now with Hunsecker so --  Every dog has his day!  Lock up and leave the key.
+L565145	u8063	m546	SALLY	I'm used to you...
+L565144	u8065	m546	SIDNEY	You ought to be used to me by now.
+L565143	u8063	m546	SALLY	Sid...you got me so...I don't know what...
+L565142	u8065	m546	SIDNEY	So what'll you do if I feel nervous? You'll open your meaty, sympathetic arms...?
+L565141	u8063	m546	SALLY	Sidney, please, dear, if you feel nervous...
+L565140	u8065	m546	SIDNEY	You mean you don't want the extra free gift of a colorful giant map of the world???
+L565139	u8063	m546	SALLY	Sidney, I know you by now.  Don't do a dance with me...
+L565138	u8065	m546	SIDNEY	Yes, but as a new subscriber you're under no obligation to take more than three books.  And if you mail the enclosed card within ten days --
+L565137	u8063	m546	SALLY	I hate to see you like this --
+L565136	u8065	m546	SIDNEY	Go home, Sally.  It's late...
+L565135	u8065	m546	SIDNEY	Help me with two minutes of silence!
+L565134	u8063	m546	SALLY	I wish I could help in some way, Sidney.
+L565129	u8063	m546	SALLY	It won't leave much of a balance in the bank...  Mr. Robard?  Could you locate him?
+L565128	u8065	m546	SIDNEY	Pay the rent.  Let the tailor wait.
+L565127	u8063	m546	SALLY	The renting agent and the tailor.
+L565126	u8065	m546	SIDNEY	Who else phoned?
+L565124	u8065	m546	SIDNEY	May I rent you out as an adding machine.
+L565123	u8063	m546	SALLY	That makes five days in a row that Mr. Hunsecker's cut you out of his column.
+L565122	u8065	m546	SIDNEY	But what?
+L565121	u8063	m546	SALLY	But...
+L565120	u8065	m546	SIDNEY	It isn't.  I've just seen the early edition.
+L565119	u8063	m546	SALLY	No, an arm, he said.  I told him you were sure the item would be in Mr. Hunsecker's column in tomorrow's...
+L565118	u8065	m546	SIDNEY	He wants me to break a leg?
+L565117	u8063	m546	SALLY	That's the third time he's called today.
+L565823	u8066	m546	STEVE	Why don't we hear what Susie has to say?
+L565822	u8065	m546	SIDNEY	Give him credit---the boy's gall is gorgeous!
+L565791	u8066	m546	STEVE	Don't you think it's about time you shut yours?  Who are you to tell a man like Frank D'Angelo to shut up?!
+L565790	u8065	m546	SIDNEY	Frank, you don't listen!  J.J. just told you to shut your mouth!
+L565652	u8065	m546	SIDNEY	Well, I'll tell you what - excuse me for breathing, will ya?  How do you like it?  He comes to my office and -
+L565651	u8066	m546	STEVE	You're talking very fast.
+L565650	u8065	m546	SIDNEY	According to you, yeah.  Dallas, your mouth is as big as a basket and twice as empty!  I don't like you, comma, but neither do I go along with this column saying you smoke marijuana and belong with the Reds.  Also, since we're talking repulsive, J.J. won't like this for two cents!  Don't give me that look, Dallas - J.J. believes in fair play.  And secondly, this could splatter his sister with rotten egg by implication - your her boyfriend!
+L565649	u8066	m546	STEVE	It is a favor, isn't it?
+L565648	u8065	m546	SIDNEY	Dallas, ask your own manager - he's standing here like a pained wolfhound - Hunsecker and Elwell are enemies to the knife.  So how do you get him doing J.J. a favor?
+L565647	u8066	m546	STEVE	Only two men in this town could be responsible for that smear - you or Hunsecker or both.
+L565646	u8065	m546	SIDNEY	"That's your idea of logic?  I tell the Judge I didn't murder the man - the Judge says, ""Why not you?"""
+L565645	u8066	m546	STEVE	Why not you?
+L565644	u8065	m546	SIDNEY	Why me...?
+L565641	u8066	m546	STEVE	Frank thinks I shouldn't have come here -
+L565640	u8065	m546	SIDNEY	It's a habit with me.  So now I'm briefed.  So what?
+L565226	u8065	m546	SIDNEY	Begging your pardon, I haven't been down the bowery in years!
+L565225	u8066	m546	STEVE	I'm feeling too good to fight with you, but that isn't what I said - I said you snoop.  For instance, what were you doing around my hotel the other night?
+L565219	u8066	m546	STEVE	Well, thanks, anyway - let's forget it.  It's cold out here, Susie.
+L565218	u8065	m546	SIDNEY	Where's those glossy prints you promised?  Tonight's the latest I can place them -
+L565635	u8065	m546	SIDNEY	You tell him, I stutter!
+L565634	u8068	m546	TEMPLE	And it would cost a pretty penny, huh?
+L565631	u8065	m546	SIDNEY	See me in my office.
+L565630	u8068	m546	TEMPLE	Speak to this lad, Al, ... to Mr. Falco.
+L565629	u8065	m546	SIDNEY	If there's a funnier man in the world than Herbie Temple at the Palace...uh...pardon us for not catching the name, we were too busy laughing.  No, make that 'screaming'.  It's sweet of you, J.J., thanks. Probably see you at Twenty One tonight.  No, for supper, late. Right. 'Bye...
+L565613	u8068	m546	TEMPLE	Good!  We're all off to Utica, so excuse me, Mr. Frannis-on-the- Portisan.
+L565612	u8065	m546	SIDNEY	No, I don't mind.  I'm busy too.
+L565610	u8068	m546	TEMPLE	Cheers.  What time is it, Al?
+L565609	u8065	m546	SIDNEY	- and I just had to drop by and tell you how great I thought you were.
+L565608	u8068	m546	TEMPLE	Did you now?  On which bounce?
+L565607	u8065	m546	SIDNEY	Temple, I caught your act the other night and -
+L565606	u8068	m546	TEMPLE	You watch him, Al, I s...s...stutter!
+L566037	u8067	m546	SUSAN	Don't explain, Sidney... It doesn't matter now...
+L566036	u8065	m546	SIDNEY	J.J., if you think -
+L566028	u8067	m546	SUSAN	Please, Sidney, I can't stand this -
+L566027	u8065	m546	SIDNEY	Don't run away - I was always the man for you!  I'm talking to you out of two years of silence - listen to what I say!  Inside of six months -
+L566026	u8067	m546	SUSAN	...but you did it for greed, Sidney - and that's pathetic.
+L566025	u8065	m546	SIDNEY	I didn't do anything!
+L566024	u8067	m546	SUSAN	I could almost forgive you if what you did to Steve came from jealousy and love...
+L566023	u8065	m546	SIDNEY	I know that bit - you're a girl; you need a man to give you strength! So what do you pick such weak sisters for?  Don't you know yet that you fight fire with fire, not with tear drops?
+L566022	u8067	m546	SUSAN	I'm not a man, Sidney, I'm -
+L566021	u8065	m546	SIDNEY	Yeah!  Like me!  I don't choke on my own gall - I fight back!  Let THEM choke, not me!
+L566020	u8067	m546	SUSAN	Like you?
+L566019	u8065	m546	SIDNEY	Susie, whatever problems you have with J.J. - I didn't invent them! What're you blaming me for?  If you learned to let out your hatred you would be better off!
+L566014	u8065	m546	SIDNEY	What ship?
+L566013	u8067	m546	SUSAN	And I'm sorry for you, too, Sidney. You're going down with the ship.
+L566012	u8065	m546	SIDNEY	Come on now, chickie, why don't you go to bed...?
+L566011	u8067	m546	SUSAN	I'm sorry about Steve, not myself. I'm even sorry for my brother.  To be so lonely, without one real friend in the world - to have to hang on to a worthless rag of a girl like me because she's his only real family -
+L566010	u8065	m546	SIDNEY	Listen, get a good night's sleep - tomorrow's another day.  Feeling sorry for yourself won't help.
+L565282	u8067	m546	SUSAN	But I don't need an uncle, Sidney.
+L565281	u8065	m546	SIDNEY	It's not my nature, Susie, but I'll talk to you like an uncle...
+L565278	u8065	m546	SIDNEY	Why should he put on an act?  Your brother has told PRESIDENTS where to go and what to do!
+L565277	u8067	m546	SUSAN	I hope that J.J. really likes Steve, that it isn't an act.
+L565276	u8065	m546	SIDNEY	Chickie, I'll have to laugh at that - an attractive girl like you...!
+L565275	u8067	m546	SUSAN	It's given me a big lift to know that some people want me for myself, not just because I'm my brother's sister.
+L565269	u8065	m546	SIDNEY	Frankly, yes, to my surprise.  He thinks he's very gifted - those boys'll go a big mile, he thinks.
+L565268	u8067	m546	SUSAN	Do you think J.J. likes Steve...?
+L565267	u8067	m546	SUSAN	Who could love a man who keeps jumping through burning hoops, like a trained poodle?
+L565266	u8065	m546	SIDNEY	Where do you come off to make a remark like that?
+L565262	u8065	m546	SIDNEY	Well, for one thing, he thinks J.J. is some kind of monster.
+L565261	u8067	m546	SUSAN	Yes, but why?
+L565260	u8065	m546	SIDNEY	We stick in each others craw.
+L565259	u8067	m546	SUSAN	Not to me.  Sometimes, the world feels like a cage.  Then someone comes along and opens the door...and it's never Monday night again...  I wish you and Steve could like each other.
+L565258	u8065	m546	SIDNEY	Feels like a Monday night, don't it...?
+L565257	u8065	m546	SIDNEY	I wasn't looking for a brawl.  I came to bring him a present.  Wanna bite to eat?
+L565256	u8067	m546	SUSAN	You're touchy, Sidney - don't be so touchy...
+L565299	u8065	m546	SIDNEY	If you're funny, James, I'm a pretzel!  Drop dead!
+L565298	u8069	m546	WELDON	He's intuitive - he knows he's getting fired!
+L565297	u8065	m546	SIDNEY	No more you don't!  What is this - You're showing off for her?  They're supposed to hear you in Korea?
+L565294	u8069	m546	WELDON	That was two months ago.  Take your hand out of my pocket, thief!
+L565293	u8065	m546	SIDNEY	Listen, when your band was playing at Roseland -
+L565292	u8069	m546	WELDON	Joan, call a cop!  We'll arrest this kid for larceny!
+L565291	u8065	m546	SIDNEY	Jimmy, I'm on my way inside right now to talk to Hunsecker.  I can promise you -
+L565290	u8069	m546	WELDON	What do you do for that hundred a week.  Fall out of bed?
+L565289	u8065	m546	SIDNEY	I tried to reach you twice -
+L565288	u8069	m546	WELDON	Yeah.  A coincidence you should run into the very man you've been ducking all week!  This is my press agent, Joan.
+L565287	u8065	m546	SIDNEY	Jimmy!  This is a coincidence.  I am just going -
+L565936	u8067	m546	SUSAN	You are saying goodbye, aren't you...?
+L565935	u8066	m546	STEVE	Not what you're doing now.  At least don't ask me - don't ask him. You're fighting for your life! What do YOU want to do?
+L565934	u8067	m546	SUSAN	Steve, I feel exhausted...what do you want me to do?
+L565932	u8066	m546	STEVE	I told your brother I couldn't be his accomplice.  I can't be yours either, Susie, and encourage him to go on pulverizing you.  I know what type - he's my old man all over again!
+L565931	u8067	m546	SUSAN	But, please, Steve, please - one step at a time!  I was born only yesterday!...
+L565930	u8066	m546	STEVE	No!  I'm saying that for your sake you have to make a clean break with your brother!
+L565928	u8066	m546	STEVE	But I don't care about that now. He knew what he was doing today. He was laying down the conditions under which he MIGHT consent to our marriage - if I would bend to every whim of his, like Sidney!  I couldn't do that, Susie...
+L565927	u8067	m546	SUSAN	Steve, I...
+L565926	u8066	m546	STEVE	Susie, I was there for OUR sake, too.  But what a world it would be if we were all afraid to learn to walk and talk because it might offend poppa!  By the way, I think your brother was completely responsible for the smears...
+L565925	u8067	m546	SUSAN	I just didn't think that I could antagonize him, Steve -- for OUR sake, I mean.
+L565924	u8066	m546	STEVE	But you didn't do much about it, Susie.  You walked out, and there I was...solo...and not too good at that.
+L565923	u8067	m546	SUSAN	No one's ever stood up to my brother the way you did.
+L565922	u8066	m546	STEVE	Well, maybe I was wrong, too... But there's no doubt, Susie, that we have to face some serious things...
+L565921	u8067	m546	SUSAN	Steve...what you tried to do today...you tried to take me up on a high mountain...I couldn't go all the way...I failed you...  Will you forgive me?  Have I lost you, Steve?  Have I...?
+L565914	u8067	m546	SUSAN	Would you buy me a cup of coffee? In there...
+L565913	u8066	m546	STEVE	Why did you call me?
+L565912	u8067	m546	SUSAN	Hello, Steve.  I'm glad you could come.
+L565222	u8067	m546	SUSAN	Steve, stop it please...
+L565221	u8066	m546	STEVE	I get the feeling, Falco, that you're always snooping around...
+L565216	u8066	m546	STEVE	No, you had me eating that Chinese food!...
+L565215	u8067	m546	SUSAN	I made you write a beautiful song...
+L565214	u8067	m546	SUSAN	And on Tuesday - Hasenpfeffer. STEVE  How do you think I realized I love you?
+L565213	u8066	m546	STEVE	And on Monday, I'll take it off and stroke your light brown hair and -
+L565212	u8067	m546	SUSAN	If the stores are open -
+L565211	u8066	m546	STEVE	I have a message for you; I love you.  May I dedicate the next number to you?...And the next, and the next. Every Sunday I'll buy you a new bonnet -
+L565210	u8067	m546	SUSAN	Steve, dear, please forget all of this.  What can it matter after tomorrow?
+L565209	u8066	m546	STEVE	But he could be reporting back to your brother, couldn't he?
+L565208	u8067	m546	SUSAN	Darling, I don't care - really I don't.  Sidney'd had a secret crush on me for years, but nothing we do is his business -
+L565207	u8066	m546	STEVE	His stooge, Falco, is around - I saw him walk in.  He's been spying on me for weeks, Susie.
+L565205	u8066	m546	STEVE	But he isn't going to like this, Susie.  And he makes you nervous, not me.  No, I take that back - he makes me nervous, too.  But I wouldn't give him a second thought if not for you.
+L565204	u8067	m546	SUSAN	Steve, my brother isn't as bad as he's painted.  He isn't perfect, but -
+L565201	u8067	m546	SUSAN	I'm telling him in the morning after breakfast.
+L565200	u8066	m546	STEVE	You haven't told him yet...
+L565199	u8067	m546	SUSAN	Steve, I'd rather you didn't say anything for a day or two...until I tell my brother...
+L565198	u8066	m546	STEVE	This is big, you know.  Very big! Let's go out later, drink some firewater.  With the boys.  Fred can call Millie and -
+L584991	u8211	m558	ANNA	They think you did it.
+L584990	u8225	m558	WOMAN	Warscheinlich ist der murder.
+L584702	u8225	m558	WOMAN	Das worren nooh zeiten.
+L584701	u8211	m558	ANNA	Give her some cigarettes.
+L584700	u8225	m558	WOMAN	Hier sind fruher Fursten ans unt eingeganger. Hier hat sogar ein Metternich verkehrt...
+L584698	u8225	m558	WOMAN	Sayen sie ed our den Leuten damit sie es auch wissen.
+L584697	u8211	m558	ANNA	Ja, ja, ja.
+L584696	u8225	m558	WOMAN	Den leuten.
+L584630	u8225	m558	WOMAN	Das mussen sie doch wissen. Ich meine ohne grund wird die politzei doch nicht ins Hans komme Fraulein Schmidt, ein schande...
+L584629	u8211	m558	ANNA	Ich weiss nicht.
+L585510	u8211	m558	ANNA	From Kurtz. They have just been arrested. But Harry won't come, he's not a fool.
+L585509	u8218	m558	MARTINS	...anyway?
+L585467	u8211	m558	ANNA	If you want to sell your service, I'm not willing to be the price... I loved him. You loved him. What good have we done him. Look at yourself, they have names for faces like that.
+L585466	u8218	m558	MARTINS	...quarrel?
+L585454	u8218	m558	MARTINS	We're getting you out of here, aren't we?
+L585453	u8211	m558	ANNA	Why are you lying?
+L585452	u8218	m558	MARTINS	Oh, well.
+L585451	u8211	m558	ANNA	His.
+L585450	u8218	m558	MARTINS	That's his headache.
+L585449	u8211	m558	ANNA	Why should he help me like that? The Russians will only make trouble for him.
+L585448	u8218	m558	MARTINS	Of course I didn't tell Calloway.
+L585447	u8211	m558	ANNA	There's something wrong. Did you tell Calloway about meeting Harry?
+L585446	u8218	m558	MARTINS	Oh, the usual things...
+L585445	u8211	m558	ANNA	Did he say anything about me - tell me?
+L585442	u8218	m558	MARTINS	I saw him today.
+L585441	u8211	m558	ANNA	How do you know?
+L585440	u8218	m558	MARTINS	He's safe in the Russian zone.
+L585439	u8211	m558	ANNA	What is going to happen? Where is Harry?
+L585438	u8218	m558	MARTINS	You send me a wire as soon as you arrive.
+L585437	u8211	m558	ANNA	I shall be all right.
+L585436	u8218	m558	MARTINS	Here, it will be cold on that train.
+L585435	u8218	m558	MARTINS	Hide? Can't a fellow have a drink?
+L585434	u8211	m558	ANNA	What is on your mind? Why did you hide?
+L585432	u8211	m558	ANNA	I'm sorry.
+L585431	u8218	m558	MARTINS	Harry.
+L585427	u8211	m558	ANNA	Have you been seeing Major Calloway again?
+L585426	u8218	m558	MARTINS	...Headquarters.
+L585424	u8211	m558	ANNA	How did you know I would be here?
+L585423	u8218	m558	MARTINS	...is there?
+L585418	u8218	m558	MARTINS	Oh...
+L585417	u8211	m558	ANNA	Are you going, too?
+L585198	u8211	m558	ANNA	There isn't enough for two laughs.
+L585197	u8218	m558	MARTINS	...again.
+L585185	u8218	m558	MARTINS	Well, don't preach wisdom to me. You talk about him as if he had occasional bad manners.
+L585184	u8211	m558	ANNA	...and my lover. He was Harry.
+L585181	u8211	m558	ANNA	I'll put these flowers in water.
+L585180	u8218	m558	MARTINS	Seventy pounds a tube. He wanted me to write for his great medical charity.
+L585179	u8211	m558	ANNA	He liked to laugh.
+L585178	u8218	m558	MARTINS	I knew him for twenty years - at least I thought I knew him. I suppose he was laughing at fools like us all the time.
+L585177	u8211	m558	ANNA	He's better dead. I know he was mixed up - but not like that.
+L585172	u8211	m558	ANNA	He told you, didn't he?
+L585171	u8218	m558	MARTINS	...you know.
+L585169	u8211	m558	ANNA	Have you?
+L585168	u8218	m558	MARTINS	Can you imagine a parrot nipping a man?
+L585167	u8211	m558	ANNA	Have you seen Calloway?
+L585166	u8218	m558	MARTINS	A parrot...Let it go.
+L585165	u8211	m558	ANNA	What happened to your hand?
+L585157	u8211	m558	ANNA	Why?
+L585156	u8218	m558	MARTINS	I'm going back home.
+L585153	u8218	m558	MARTINS	I don't know.
+L585152	u8211	m558	ANNA	I thought you were going to go away. Aren't the police after you?
+L585147	u8218	m558	MARTINS	Me.
+L585146	u8211	m558	ANNA	Wer ist da?
+L585008	u8211	m558	ANNA	Be sensible - tell Major Calloway.
+L585007	u8218	m558	MARTINS	I wish I knew.
+L585006	u8211	m558	ANNA	What are you going to do?
+L585005	u8218	m558	MARTINS	Sneak out the other way, and go back to your theatre. I'd better not see you again.
+L584966	u8218	m558	MARTINS	Wait here.
+L584965	u8211	m558	ANNA	Let's not get into any more trouble.
+L584964	u8218	m558	MARTINS	What's the matter?
+L584963	u8211	m558	ANNA	Let's go away.
+L584962	u8211	m558	ANNA	Yes.
+L584961	u8218	m558	MARTINS	That's Harry's place, isn't it?
+L584956	u8218	m558	MARTINS	It's all right.
+L584955	u8211	m558	ANNA	I'm so sorry.
+L584954	u8218	m558	MARTINS	Holly.
+L584953	u8211	m558	ANNA	We're both in it, Harry.
+L584952	u8218	m558	MARTINS	A moment ago you said you didn't want to see the Porter.
+L584951	u8211	m558	ANNA	I thought you wanted...
+L584950	u8218	m558	MARTINS	What's the hurry? Can't we talk quietly for a couple of minutes?
+L584949	u8211	m558	ANNA	If we have to see the Porter we'd better go.
+L584948	u8218	m558	MARTINS	Well, I didn't learn that from him.
+L584947	u8211	m558	ANNA	It's just what he used to say.
+L584946	u8218	m558	MARTINS	Seemed like a good idea.
+L584941	u8218	m558	MARTINS	Anna.
+L584940	u8211	m558	ANNA	...and buried him.
+L584930	u8218	m558	MARTINS	Oh, it's very difficult. You know Harry...we didn't do...
+L584929	u8211	m558	ANNA	Tell me more.
+L584928	u8218	m558	MARTINS	Oh, that was many years ago.
+L584927	u8211	m558	ANNA	Where is she?
+L584926	u8218	m558	MARTINS	...to steal my girl.
+L584925	u8218	m558	MARTINS	Oh, we didn't make much sense. Drank too much. Once he tried...
+L584924	u8211	m558	ANNA	When...what did you do?
+L584922	u8218	m558	MARTINS	Tell you what?
+L584921	u8211	m558	ANNA	Tell me about him.
+L584916	u8211	m558	ANNA	Oh, let me see. No, no that's not the cue. It means she has to sit down.
+L584915	u8218	m558	MARTINS	H-E-Z-T...
+L584914	u8218	m558	MARTINS	Ein hurigan - I guess.
+L584913	u8211	m558	ANNA	What's that?
+L584912	u8218	m558	MARTINS	Gestern bein heurigen...
+L584911	u8211	m558	ANNA	Well you read this.
+L584910	u8218	m558	MARTINS	Do I...
+L584909	u8211	m558	ANNA	Comedy. I don't play tragedy.
+L584908	u8218	m558	MARTINS	I can try. Is it comedy, or tragedy?
+L584907	u8211	m558	ANNA	In German?
+L584906	u8218	m558	MARTINS	Can I hear you?
+L584905	u8211	m558	ANNA	Just another part I've got to learn.
+L584904	u8218	m558	MARTINS	Might as well I suppose. Are you busy?
+L584903	u8211	m558	ANNA	Need we go through it all again?
+L584902	u8218	m558	MARTINS	The Porter is going to talk to us tonight.
+L584836	u8218	m558	MARTINS	Silly looking bunch.
+L584835	u8211	m558	ANNA	Sssh. Don't. Don't, please.
+L584834	u8218	m558	MARTINS	Who are you looking for now?
+L584818	u8211	m558	ANNA	Yes. He moved his head, but the rest is good, isn't it?
+L584817	u8218	m558	MARTINS	Harry?
+L584811	u8211	m558	ANNA	Whiskey.
+L584810	u8218	m558	MARTINS	Drink?
+L584713	u8211	m558	ANNA	Dr. Winkel.
+L584712	u8218	m558	MARTINS	Oh, what was the name of that doctor? Harry's doctor?
+L584693	u8211	m558	ANNA	The Russians would claim me. I come from Czechoslovakia.
+L584692	u8218	m558	MARTINS	Why?
+L584691	u8211	m558	ANNA	They're forged.
+L584690	u8218	m558	MARTINS	Anything really wrong with your papers?
+L584632	u8211	m558	ANNA	The police. They're searching my room. Sie mussen doch wissen.
+L584631	u8218	m558	MARTINS	What's she talking about?
+L584622	u8211	m558	ANNA	Why don't you leave this town - go home?
+L584621	u8218	m558	MARTINS	Well, if I do find out something, can I look you up again?
+L584620	u8211	m558	ANNA	You shouldn't get mixed up in this.
+L584605	u8218	m558	MARTINS	I was told there were only two men there.
+L584604	u8211	m558	ANNA	I don't know. They didn't answer.
+L584553	u8211	m558	ANNA	I know. I wondered about it a hundred times, if it really was an accident.
+L584552	u8218	m558	MARTINS	...at all.
+L584549	u8211	m558	ANNA	Mmmm.
+L584548	u8218	m558	MARTINS	He was Harry's driver?
+L584547	u8211	m558	ANNA	Yes. They said it wasn't the driver's fault. Harry often said what a careful driver he was.
+L584546	u8218	m558	MARTINS	Were you at the inquest?
+L584545	u8211	m558	ANNA	Yes.
+L584544	u8218	m558	MARTINS	His own doctor?
+L584543	u8211	m558	ANNA	The doctor Harry used to go to. He was passing just after it happened.
+L584542	u8218	m558	MARTINS	Dr. Winkel? Who is he?
+L584541	u8211	m558	ANNA	Dr. Winkel told me that.
+L584540	u8218	m558	MARTINS	He said he remembered me too. Seems to show he wasn't in much pain.
+L584539	u8211	m558	ANNA	That was the man that brought me some money when Harry died. He said Harry had been anxious at the last moment.
+L584538	u8218	m558	MARTINS	Don't understand what Harry saw in a fellow like that.
+L584537	u8211	m558	ANNA	Oh, yes, yes.
+L584536	u8218	m558	MARTINS	He has a little dog.
+L584535	u8211	m558	ANNA	No.
+L584534	u8218	m558	MARTINS	I was talking to another friend of Harry's. A Baron Kurtz - do you know him?
+L584533	u8211	m558	ANNA	Oh, American, thank you. I like them.
+L584530	u8211	m558	ANNA	I don't know. How can you know a thing like that afterwards. I don't know anything any more.
+L584529	u8218	m558	MARTINS	You were in love with him, weren't you?
+L584528	u8211	m558	ANNA	I'm so sorry, I didn't notice much.
+L584527	u8218	m558	MARTINS	Well, I saw you at the funeral.
+L584517	u8211	m558	ANNA	No, he never told me about his friends. Would you like some tea?
+L584516	u8218	m558	MARTINS	But I could follow it fine. Perhaps Harry told you about me. My name's Holly Martins.
+L584515	u8218	m558	MARTINS	No, no...oh...excuse me.
+L584514	u8211	m558	ANNA	Do you understand German?
+L584513	u8218	m558	MARTINS	You were awfully good.
+L584510	u8218	m558	MARTINS	Thank you. I enjoyed the play very much.
+L584509	u8211	m558	ANNA	Sit down.
+L584508	u8218	m558	MARTINS	Thank you.
+L584853	u8220	m558	POPESCU	Entschuldigen sie. It was a terrible thing.
+L584852	u8211	m558	ANNA	Nichts danke. Kein.
+L584848	u8220	m558	POPESCU	Keep the packet.
+L584847	u8211	m558	ANNA	Thank you.
+L584846	u8220	m558	POPESCU	Cigarette, Miss Schmidt?
+L584843	u8220	m558	POPESCU	I helped Harry fix her papers, Mr. Martins...
+L584842	u8211	m558	ANNA	Of course.
+L584841	u8220	m558	POPESCU	Good evening, Miss Schmidt. You remember me?
+L585293	u8211	m558	ANNA	Poor Harry, I wish he was dead, he would be safe from all of you then.
+L585292	u8213	m558	CALLOWAY	Vienna is a closed city, Miss Schmidt, he can't get away.
+L585291	u8213	m558	CALLOWAY	If you help me, I am prepared to help you. ANNA Martins always said you were a fool...
+L585290	u8211	m558	ANNA	I don't know.
+L585289	u8213	m558	CALLOWAY	Miss Schmidt, we know he is somewhere across the canal in the Russian sector... You may as well help us. In a few minutes Colonel Brodsky will be questioning you about your papers. Tell me where Lime is.
+L585288	u8211	m558	ANNA	I'm sorry - I don't seem able to understand anything you say. He's alive now this minute - he's doing something.
+L585287	u8213	m558	CALLOWAY	That's what we want to find out.
+L585286	u8211	m558	ANNA	Where's Harry?
+L585285	u8213	m558	CALLOWAY	I said another man was buried in his place.
+L585284	u8211	m558	ANNA	What did you say? I'm sorry...
+L585283	u8213	m558	CALLOWAY	Joseph Harbin's body was found in the coffin.
+L585282	u8211	m558	ANNA	It's true then?
+L585281	u8213	m558	CALLOWAY	I want the truth, Miss Schmidt. We know he is alive.
+L585280	u8211	m558	ANNA	Two weeks ago.
+L585279	u8213	m558	CALLOWAY	Now then, Miss Schmidt, I'm not interested in your forged papers - that's purely a Russian case. When did you last see Lime?
+L584799	u8211	m558	ANNA	What can I tell you but that you have got everything upside down.
+L584798	u8213	m558	CALLOWAY	You can help us.
+L584794	u8211	m558	ANNA	It wasn't important.
+L584793	u8213	m558	CALLOWAY	In one of his letters he asked you to telephone - a good friend of his called Joseph. He gave you the number of the Casanova Club. That is where a lot of friends of Lime used to go.
+L584791	u8213	m558	CALLOWAY	It's stupid to lie to me, Miss Schmidt. I'm in a position to help you.
+L584790	u8211	m558	ANNA	No.
+L584789	u8213	m558	CALLOWAY	He works in a military hospital.
+L584788	u8211	m558	ANNA	No.
+L584787	u8213	m558	CALLOWAY	Joseph Harbin...
+L584786	u8211	m558	ANNA	I have never seen him.
+L584785	u8213	m558	CALLOWAY	Do you know this man?
+L584784	u8211	m558	ANNA	We loved each other, do you mean that?
+L584783	u8213	m558	CALLOWAY	You know as much as I do, Miss Schmidt - you were intimate with Lime, weren't you?
+L584780	u8211	m558	ANNA	And my passport?
+L584779	u8213	m558	CALLOWAY	Right. Sit down Miss Schmidt, we will send your letters and things back to you.
+L584671	u8211	m558	ANNA	There's nothing in them.
+L584670	u8213	m558	CALLOWAY	They'll be returned to you, Miss Schmidt, as soon as they've been examined.
+L584669	u8211	m558	ANNA	You won't learn anything from them. They are only love letters. There are not many of them.
+L584668	u8213	m558	CALLOWAY	That's the reason.
+L584667	u8211	m558	ANNA	They're Harry's.
+L584666	u8211	m558	ANNA	Must you take those letters? CALLOWAY Yes, I'm afraid so.
+L584645	u8211	m558	ANNA	Yes.
+L584644	u8213	m558	CALLOWAY	...parents.
+L585416	u8211	m558	ANNA	Good-bye.
+L585415	u8219	m558	PAINE	Well, I'll be saying good night. Good night, Miss.
+L585414	u8211	m558	ANNA	Thank you, you have been so kind. Anna moves down to stand CL of Paine.
+L585408	u8211	m558	ANNA	I don't...
+L585407	u8219	m558	PAINE	Here we are. You'll be all right here, Miss.
+L584689	u8219	m558	PAINE	Well, I've got it when you want it, miss.
+L584688	u8211	m558	ANNA	I don't want it.
+L584687	u8219	m558	PAINE	There you are, miss, your receipt for the letters.
+L584660	u8219	m558	PAINE	That's all right, miss, don't worry. We're used to it - like doctors.
+L584659	u8211	m558	ANNA	They are - private - letters.
+L584658	u8219	m558	PAINE	They'll be returned, miss.
+L584657	u8211	m558	ANNA	Must you take those?
+L584403	u8212	m558	BARON	I'll carry a copy of one of your books. Harry gave it to me.
+L584402	u8218	m558	MARTINS	How will I know you?
+L584401	u8212	m558	BARON	Just around the corner.
+L584400	u8218	m558	MARTINS	Where?
+L584399	u8212	m558	BARON	Austrians aren't allowed in your hotel. Couldn't we meet at the Mozart cafe?
+L584398	u8218	m558	MARTINS	I would very much like to meet you, Baron. Come around.
+L584397	u8212	m558	BARON	I was a friend of Harry Lime.
+L584396	u8218	m558	MARTINS	Yes.
+L585141	u8222	m558	RUSSIAN	Can I have that woman's passport?
+L585140	u8213	m558	CALLOWAY	...Austrian Police Headquarters.
+L584778	u8222	m558	RUSSIAN	Thank you.
+L584777	u8213	m558	CALLOWAY	Yes, of course.
+L584776	u8222	m558	RUSSIAN	Please keep this passport to yourself, until I make some inquiries, will you, Major?
+L584775	u8213	m558	CALLOWAY	No, not yet.
+L584774	u8222	m558	RUSSIAN	We are interested in this case. Have you arrested the girl?
+L584773	u8222	m558	RUSSIAN	This is forgery. It is very clever.
+L584772	u8213	m558	CALLOWAY	What is it?
+L585561	u8218	m558	MARTINS	I haven't got a sensible name, Calloway.
+L585560	u8213	m558	CALLOWAY	Be sensible, Martins.
+L585559	u8218	m558	MARTINS	One can't just leave - please.
+L585558	u8213	m558	CALLOWAY	Well, there's not much time.
+L585557	u8218	m558	MARTINS	Wait a minute - let me out.
+L585556	u8213	m558	CALLOWAY	I'll do what I can, if she'll let me.
+L585555	u8218	m558	MARTINS	Calloway, can't you do something about Anna?
+L585553	u8218	m558	MARTINS	Two thirty.
+L585552	u8213	m558	CALLOWAY	What time is it?
+L585493	u8218	m558	MARTINS	I'll be your dumb decoy duck.
+L585492	u8213	m558	CALLOWAY	Win what?
+L585491	u8218	m558	MARTINS	I said you win.
+L585490	u8213	m558	CALLOWAY	I never knew there were snake charmers in Texas...
+L585489	u8218	m558	MARTINS	All right, Calloway. You win.
+L585488	u8213	m558	CALLOWAY	"Paine lent me one of your books; ""Oklahoma Kid,"" I think it was. Read a bit of it... Think it's pretty good. What made you take up this sort of thing? Been doing it for long?"
+L585483	u8213	m558	CALLOWAY	Why don't you come in, too - you're a writer... Might interest you.
+L585482	u8218	m558	MARTINS	Of course.
+L585481	u8213	m558	CALLOWAY	Do you mind if I drop off somewhere on the way? I've got an appointment, won't take five minutes...
+L585479	u8218	m558	MARTINS	You all did.
+L585478	u8213	m558	CALLOWAY	Didn't I?
+L585474	u8218	m558	MARTINS	She's right. It's none of my business.
+L585473	u8213	m558	CALLOWAY	A girl of spirit.
+L585469	u8213	m558	CALLOWAY	Oh, there you are. Come in here, there isn't much time.
+L585468	u8218	m558	MARTINS	Calloway!
+L585389	u8218	m558	MARTINS	Calloway, you expect too much. I know he deserves to hang, you proved your stuff. But twenty years is a long time - don't ask me to tie the rope.
+L585388	u8213	m558	CALLOWAY	We'll never get him in the Russian zone.
+L585387	u8218	m558	MARTINS	It wouldn't work.
+L585229	u8213	m558	CALLOWAY	Yes, yes, yes, and then he vanished out there, I suppose with a puff of smoke and like a clap of...
+L585228	u8218	m558	MARTINS	I tell you I heard him running ahead of me.
+L585227	u8213	m558	CALLOWAY	How about the doorway?
+L585226	u8218	m558	MARTINS	I was on that side, the shadow was on that side, and no turnings on either side.
+L585225	u8213	m558	CALLOWAY	Which side of the road?
+L585224	u8218	m558	MARTINS	Fifty yards right down there.
+L585223	u8213	m558	CALLOWAY	Yes. Where were you when you saw him first?
+L585222	u8218	m558	MARTINS	Look...I tell you, you don't think I'm blind, do you?
+L585221	u8213	m558	CALLOWAY	No.
+L585220	u8218	m558	MARTINS	I suppose you don't believe me.
+L585219	u8213	m558	CALLOWAY	I see.
+L585218	u8218	m558	MARTINS	This is where he vanished.
+L585217	u8213	m558	CALLOWAY	Well?...
+L585216	u8218	m558	MARTINS	I followed his shadow until suddenly...
+L585138	u8218	m558	MARTINS	Thank you. Excuse me.
+L585137	u8213	m558	CALLOWAY	...in the morning.
+L585133	u8218	m558	MARTINS	I'm not asking you to.
+L585132	u8213	m558	CALLOWAY	...be responsible for you in the streets.
+L585128	u8218	m558	MARTINS	It's more like a mortuary than police headquarters.
+L585127	u8213	m558	CALLOWAY	...a week ago.
+L585126	u8213	m558	CALLOWAY	I can't. He disappeared...
+L585125	u8218	m558	MARTINS	Bring him in.
+L585124	u8213	m558	CALLOWAY	So would I.
+L585123	u8218	m558	MARTINS	I would like a word with this orderly Harbin.
+L585122	u8213	m558	CALLOWAY	Next, Paine.
+L585107	u8218	m558	MARTINS	Calloway, you haven't shown me one shred of evidence.
+L585106	u8213	m558	CALLOWAY	That is the racket Harry Lime organized.
+L585102	u8218	m558	MARTINS	Are you too busy chasing a few tubes of penicillin to investigate a murder?
+L585101	u8213	m558	CALLOWAY	Do you see what that means?
+L585099	u8213	m558	CALLOWAY	In Vienna...
+L585098	u8218	m558	MARTINS	Well?
+L585091	u8218	m558	MARTINS	I'm only a little fool - I'm an amateur at it - you're a professional. You've been shaking your cap and bells all over town.
+L585090	u8213	m558	CALLOWAY	Oh, stop behaving like a fool, Martins.
+L585089	u8218	m558	MARTINS	A parrot bit me.
+L584715	u8218	m558	MARTINS	A bruised lip.
+L584714	u8213	m558	CALLOWAY	What do you want to see a doctor for, huh?
+L584686	u8218	m558	MARTINS	Do you mind if I use that line in my next Western? You can't chuck me out, my papers are in order.
+L584685	u8213	m558	CALLOWAY	Death is at the bottom of everything, Martins. Leave death to the professionals.
+L584684	u8218	m558	MARTINS	As soon as I get to the bottom of this, I'll get the next plane.
+L584683	u8213	m558	CALLOWAY	Get the next plane.
+L584681	u8218	m558	MARTINS	You're not locking her up?
+L584680	u8213	m558	CALLOWAY	Miss Schmidt.
+L584665	u8213	m558	CALLOWAY	Calloway.
+L584664	u8218	m558	MARTINS	Tactful too, aren't we, Callaghan?
+L584662	u8213	m558	CALLOWAY	I'm not interested in whether a racketeer like Lime was killed by his friends or by accident. The only important thing is that he's dead.
+L584661	u8218	m558	MARTINS	And there was a third man there. I suppose that doesn't sound peculiar to you.
+L584639	u8218	m558	MARTINS	Oh, pinning things on girls now.
+L584638	u8213	m558	CALLOWAY	Getting around, Martins.
+L584637	u8218	m558	MARTINS	What the devil?
+L584334	u8213	m558	CALLOWAY	Going to find me the real criminal? It sounds like one of your stories.
+L584333	u8218	m558	MARTINS	...expense.
+L584331	u8213	m558	CALLOWAY	Calloway - I'm English, not Irish.
+L584330	u8218	m558	MARTINS	Listen, Callaghan.
+L584323	u8213	m558	CALLOWAY	Well, you could say that murder was part...
+L584322	u8218	m558	MARTINS	Why don't you catch a few murderers for a change?
+L584319	u8213	m558	CALLOWAY	It wasn't petrol.
+L584318	u8218	m558	MARTINS	...a cop. You're a real cop I suppose.
+L584314	u8218	m558	MARTINS	Pin it on a...
+L584313	u8213	m558	CALLOWAY	Ever seen one?
+L584312	u8218	m558	MARTINS	...policemen. I have to call them sheriffs.
+L584307	u8213	m558	CALLOWAY	He was...
+L584306	u8218	m558	MARTINS	What are you trying to say?
+L584305	u8213	m558	CALLOWAY	...to him.
+L584304	u8213	m558	CALLOWAY	Best thing that ever happened...
+L584303	u8218	m558	MARTINS	Him dying like that.
+L584302	u8213	m558	CALLOWAY	What?
+L584301	u8218	m558	MARTINS	Must have known I was broke. Even sent me an airplane ticket. It's a shame.
+L584300	u8213	m558	CALLOWAY	No.
+L584299	u8218	m558	MARTINS	Death at the Double X Ranch - Ra- a-nch.
+L584298	u8213	m558	CALLOWAY	I can't say that I have.
+L584297	u8218	m558	MARTINS	"Did you ever hear of ""The Lone Rider of Santa Fe?"""
+L584296	u8213	m558	CALLOWAY	No, sorry.
+L584295	u8218	m558	MARTINS	Holly Martins.
+L584294	u8213	m558	CALLOWAY	I'm afraid I've never heard of you. What's your name again?
+L584290	u8218	m558	MARTINS	Once in a while.
+L584289	u8213	m558	CALLOWAY	See much of him before that?
+L584286	u8218	m558	MARTINS	September '39.
+L584285	u8213	m558	CALLOWAY	When did you see him last?
+L584284	u8218	m558	MARTINS	Back in school. Never so lonesome in my life till he showed up.
+L584281	u8213	m558	CALLOWAY	Schmolka!
+L584280	u8218	m558	MARTINS	Could you buy me one. I haven't got any Austrian kroners. Thanks.
+L584279	u8213	m558	CALLOWAY	You've had a bit of a shock, haven't you? You could do with a drink.
+L584278	u8218	m558	MARTINS	No.
+L584277	u8213	m558	CALLOWAY	Been here long?
+L584276	u8218	m558	MARTINS	Yes.
+L584275	u8213	m558	CALLOWAY	You a friend of Lime's?
+L584274	u8218	m558	MARTINS	Martins.
+L584273	u8213	m558	CALLOWAY	My name is Calloway.
+L584255	u8213	m558	CALLOWAY	Fellow called Lime.
+L584254	u8218	m558	MARTINS	Can you tell me whose...
+L585499	u8213	m558	CALLOWAY	No, no. Leave them for a while.
+L585498	u8219	m558	PAINE	Shall I go over there, sir?
+L585115	u8219	m558	PAINE	I'd like to visit Texas one day, sir.
+L585114	u8213	m558	CALLOWAY	"...of Santa Fe."""
+L585110	u8213	m558	CALLOWAY	You know, Paine's one of your devoted readers. He's promised...
+L585109	u8219	m558	PAINE	Very good, sir.
+L584655	u8219	m558	PAINE	This way, miss.
+L584654	u8213	m558	CALLOWAY	Write her out a receipt, Paine. Give her a receipt for these letters too.
+L584342	u8219	m558	PAINE	I'm so glad to have met you, sir. I've read quite a few of your books.
+L584341	u8213	m558	CALLOWAY	It's a military hotel.
+L584339	u8213	m558	CALLOWAY	Take him to Sacher's.
+L584338	u8219	m558	PAINE	Please be careful, sir. Up we come. Written anything lately?
+L585019	u8218	m558	MARTINS	Well, look, is there a car here I can use?
+L585018	u8214	m558	CLERK	I'll look it up for you.
+L585017	u8218	m558	MARTINS	...his number.
+L585016	u8218	m558	MARTINS	No, I don't know...
+L585015	u8214	m558	CLERK	Do you know his number?
+L585014	u8218	m558	MARTINS	Please hurry up - just get him on the telephone.
+L585013	u8214	m558	CLERK	...excuse me.
+L585012	u8214	m558	CLERK	Oh, Mr. Martins...
+L585011	u8218	m558	MARTINS	Get me Major Callaghan on the phone.
+L585052	u8215	m558	CRABBIN	Oh, that is Mr. Martins' little joke, of course...
+L585051	u8218	m558	MARTINS	Zane Grey.
+L585043	u8215	m558	CRABBIN	Of course, of course, of course.
+L585042	u8218	m558	MARTINS	Well, yes. I suppose that is what I meant to say.
+L584808	u8215	m558	CRABBIN	Oh, I thought you would know, you're a writer. Of course you do. Good night, old man.
+L584807	u8218	m558	MARTINS	What's that?
+L584806	u8215	m558	CRABBIN	On the modern novel - you remember what we arranged and we want you to talk on the Crisis of Faith.
+L584805	u8218	m558	MARTINS	What about?
+L584804	u8215	m558	CRABBIN	Hello - Mr. Martins, we tried to get you at your hotel. We have arranged that lecture for tomorrow.
+L584490	u8218	m558	MARTINS	Good evening Mr. Crabbin.
+L584489	u8215	m558	CRABBIN	Oh, Mr. Martins, good evening.
+L584411	u8218	m558	MARTINS	It is, and I'm gunning just the same way for your Major Callaghan.
+L584410	u8215	m558	CRABBIN	Seems exciting.
+L584406	u8215	m558	CRABBIN	Certainly.
+L584405	u8218	m558	MARTINS	...this lecture business, you'll put me up here a while?
+L584390	u8218	m558	MARTINS	"Is that what you say to people after death? ""Goodness that's awkward..."""
+L584389	u8215	m558	CRABBIN	Goodness, that's awkward.
+L584388	u8218	m558	MARTINS	I was going to stay with him, but he died Thursday.
+L584387	u8215	m558	CRABBIN	I've heard of him, of course, but I didn't exactly know him.
+L584386	u8218	m558	MARTINS	Heard of Harry Lime?
+L584385	u8215	m558	CRABBIN	No, a major, were you really?
+L584384	u8218	m558	MARTINS	It was just a soldier. I was trying to punch his major in the eye.
+L584381	u8218	m558	MARTINS	I don't need a dentist. Somebody hit me, that's all.
+L584380	u8215	m558	CRABBIN	I know a very good dentist.
+L584379	u8218	m558	MARTINS	Come upstairs a moment.
+L584371	u8215	m558	CRABBIN	Listen, Mr. Martins, if you'd agree to be our guest, we'd be delighted to have you.
+L584370	u8218	m558	MARTINS	How long can one stay here on this stage money?
+L584367	u8215	m558	CRABBIN	Nonsense. Your novels are very popular here. Aren't they, Sergeant?
+L584366	u8218	m558	MARTINS	They wouldn't know me.
+L584365	u8215	m558	CRABBIN	I'll tell you what, Mr. Martins. On Wednesday night at our institute, we are having a little lecture on the contemporary novel...I thought perhaps you'd like to speak.
+L584364	u8218	m558	MARTINS	Welcome?
+L584361	u8215	m558	CRABBIN	"Yes, Cultural re-education Section Propaganda. Very important in a place like this. We do a little show each week. Last week we did ""Hamlet"" and the week before we had something..."
+L584360	u8218	m558	MARTINS	You do!
+L584376	u8215	m558	CRABBIN	Excuse me, have you got tooth...
+L584375	u8219	m558	PAINE	...leaving tomorrow, sir.
+L584369	u8215	m558	CRABBIN	Very popular. Are you staying long?
+L584368	u8219	m558	PAINE	Very popular, sir.
+L584363	u8215	m558	CRABBIN	Yes, Hindu dances, thank you, Sergeant. This is the first opportunity we've had of making an American author welcome.
+L584362	u8219	m558	PAINE	Striptease, sir.
+L584358	u8215	m558	CRABBIN	Have you, Sergeant? Author - Martins. Thank you, Sergeant.
+L584357	u8219	m558	PAINE	Oh, he's very goad, sir. I've read quite a few of his books.
+L584356	u8215	m558	CRABBIN	Never heard of him.
+L584355	u8219	m558	PAINE	The author. Thought you might be interested.
+L584354	u8215	m558	CRABBIN	Who?
+L584353	u8219	m558	PAINE	Mr. Holly Martins, sir.
+L584352	u8215	m558	CRABBIN	What is it, Sergeant?
+L584351	u8219	m558	PAINE	Mr. Crabbin.
+L585541	u8216	m558	HARRY	What do you want?
+L585540	u8218	m558	MARTINS	...this way.
+L585357	u8216	m558	HARRY	Do you know, I don't ever feel comfortable on these sort of things...Victims?
+L585356	u8218	m558	MARTINS	Have you ever seen any of your victims?
+L585353	u8216	m558	HARRY	Sure...
+L585352	u8218	m558	MARTINS	I remember when they raided the gambling joint - you know a safe way out...
+L585351	u8216	m558	HARRY	Part? You can have any part you want, so long as you don't interfere...I have never cut you out of anything yet.
+L585350	u8218	m558	MARTINS	What did you expect me to be - part of your...
+L585349	u8216	m558	HARRY	Don't try to be a policeman, old man.
+L585348	u8218	m558	MARTINS	You told them, didn't you?
+L585346	u8216	m558	HARRY	I wish I could get rid of this thing.
+L585345	u8218	m558	MARTINS	As long as they can use you?
+L585344	u8216	m558	HARRY	I'm only safe in the Russian Zone... I'm safe as long as they can use me...
+L585343	u8216	m558	HARRY	Outside of your stories...I've got to be careful.
+L585342	u8218	m558	MARTINS	You've got plenty of contacts.
+L585341	u8216	m558	HARRY	It's far better thing that I do... Holly, you and I aren't heroes, the world doesn't make any heroes...
+L585340	u8218	m558	MARTINS	Why not?
+L585339	u8216	m558	HARRY	Do you expect me to give myself up?
+L585338	u8218	m558	MARTINS	You can get somebody else...
+L585337	u8216	m558	HARRY	What do you want me to do?
+L585336	u8218	m558	MARTINS	You wouldn't do anything.
+L585335	u8216	m558	HARRY	Well, I've got quite a lot on my mind.
+L585334	u8218	m558	MARTINS	You don't care anything at all about Anna, do you?
+L585333	u8216	m558	HARRY	Did the police believe you?
+L585332	u8218	m558	MARTINS	And - Anna...
+L585331	u8216	m558	HARRY	Unwise, Holly...
+L585330	u8218	m558	MARTINS	I told the police.
+L585329	u8216	m558	HARRY	...exactly who did you tell about me? Hmm?
+L585328	u8216	m558	HARRY	Holly...
+L585327	u8218	m558	MARTINS	You can help her.
+L585326	u8216	m558	HARRY	What can I do, old man, I'm dead, aren't I?
+L585324	u8216	m558	HARRY	Tough...tough...Don't worry, old man, they won't hurt her.
+L585323	u8218	m558	MARTINS	She's been arrested.
+L585322	u8216	m558	HARRY	Hmm.
+L585318	u8216	m558	HARRY	It's good to see you, Holly.
+L585317	u8218	m558	MARTINS	Listen, Harry - I didn't believe that...
+L585312	u8216	m558	HARRY	Talk to me?...Of course...Come on...
+L585311	u8218	m558	MARTINS	I want to talk to you.
+L585310	u8216	m558	HARRY	Yes.
+L585309	u8218	m558	MARTINS	Listen...
+L585308	u8216	m558	HARRY	Well, well, they seem to've been giving you quite some busy time.
+L585307	u8218	m558	MARTINS	Hello, Harry.
+L585302	u8218	m558	MARTINS	All right - I'm mad. I've seen a ghost...
+L585301	u8217	m558	KURTZ	Are you mad?
+L584838	u8218	m558	MARTINS	How do you do.
+L584837	u8217	m558	KURTZ	Mr. Popescu - Mr. Martins.
+L584827	u8217	m558	KURTZ	Yes. The man who helped carry him.
+L584826	u8218	m558	MARTINS	The Roumanian?
+L584825	u8217	m558	KURTZ	Mr. Popescu is here tonight.
+L584822	u8217	m558	KURTZ	But you will.
+L584821	u8218	m558	MARTINS	Not yet.
+L584478	u8218	m558	MARTINS	What's the name of this girl?
+L584477	u8217	m558	KURTZ	...the best way one can, you know.
+L584476	u8217	m558	KURTZ	I live in the Russian sector, but you'll find me at the Casanova Club every night. One has to work...
+L584475	u8218	m558	MARTINS	...your address?
+L584474	u8218	m558	MARTINS	Will you give me...
+L584473	u8217	m558	KURTZ	What's the good of another post mortem? Suppose you dig up something - well - discreditable to Harry?
+L584472	u8218	m558	MARTINS	Not necessarily. She'd probably want to help.
+L584469	u8217	m558	KURTZ	Only his doctor, Dr. Winkel.
+L584468	u8218	m558	MARTINS	...you.
+L584444	u8217	m558	KURTZ	A Roumanian.
+L584443	u8218	m558	MARTINS	Well, there was only you, and this friend of his. Who is he?
+L584441	u8218	m558	MARTINS	But he said he died instantaneously.
+L584440	u8217	m558	KURTZ	...you know and all that.
+L584438	u8218	m558	MARTINS	What did he say?
+L584437	u8217	m558	KURTZ	...were of you.
+L584431	u8218	m558	MARTINS	Here?
+L584430	u8217	m558	KURTZ	We came out of his place like this, and were walking this way. A friend of his called to him from over there. Harry went across and from up there came the truck. It was just about here.
+L584420	u8217	m558	KURTZ	At the end of every chapter --
+L584419	u8218	m558	MARTINS	You really liked it?
+L584418	u8218	m558	MARTINS	Tension? KURTZ Suspense.
+L584417	u8217	m558	KURTZ	It's wonderful how you keep the tension.
+L584416	u8217	m558	KURTZ	Zwei zwartze.
+L584415	u8218	m558	MARTINS	Coffee.
+L584414	u8217	m558	KURTZ	Mr. Martins. Delighted to meet you. Come let's sit down here. Ober! Zwei. What would you like. Tea? Coffee?
+L584760	u8224	m558	WINKEL	Not necessarily.
+L584759	u8218	m558	MARTINS	In great pain?
+L584758	u8224	m558	WINKEL	...he was. Yes, for a short time, while they carried him across the road.
+L584757	u8224	m558	WINKEL	I understand...
+L584756	u8218	m558	MARTINS	Could he have been at all conscious?
+L584751	u8224	m558	WINKEL	I can tell you very little. He was run over by a car. He was dead when I arrived.
+L584750	u8218	m558	MARTINS	Hear the details.
+L584749	u8224	m558	WINKEL	Find out?
+L584746	u8224	m558	WINKEL	I have guests waiting.
+L584745	u8218	m558	MARTINS	Thank you.
+L584744	u8224	m558	WINKEL	Coming to the point, please.
+L584743	u8218	m558	MARTINS	Martins.
+L584735	u8224	m558	WINKEL	Yes.
+L584734	u8218	m558	MARTINS	Vinkel...You've got quite a collection of er-collection.
+L584733	u8224	m558	WINKEL	Vinkel.
+L584732	u8218	m558	MARTINS	Dr. Winkel?
+L584893	u8221	m558	PORTER	I am not a bad man.
+L584892	u8218	m558	MARTINS	Yes, it is.
+L584616	u8218	m558	MARTINS	Well make it your business.
+L584615	u8221	m558	PORTER	I have no evidence. I saw nothing. I said nothing. It's not my business.
+L584614	u8221	m558	PORTER	Das hat man davon wenn man freundlich ist mit den auslandern...
+L584613	u8218	m558	MARTINS	Now, hold on.
+L584612	u8221	m558	PORTER	Fer von mir aus gehen sie zur gansalt aber mich lassen sie aus mit der politzei.
+L584610	u8218	m558	MARTINS	Suppose I take...
+L584609	u8221	m558	PORTER	Der ami macht mich noch ganz deppert. I should have listened to my wife. She said you were up to no good. Gossip.
+L584608	u8218	m558	MARTINS	You don't know it was an accident. You only saw a dead man and three men carry him.
+L584607	u8221	m558	PORTER	Police? Why police? Das ist alles blodsum was sie da sangen. No, no. It is all nonsense; it was an accident.
+L584606	u8218	m558	MARTINS	You gotta tell your story to the police.
+L584594	u8221	m558	PORTER	No, no. He came late after they carried him to the Joseph Statue.
+L584593	u8218	m558	MARTINS	You don't mean that doctor?
+L584592	u8221	m558	PORTER	There was a third man - he didn't give evidence.
+L584591	u8218	m558	MARTINS	And?
+L584590	u8221	m558	PORTER	Yes.
+L584589	u8218	m558	MARTINS	The Roumanian?
+L584588	u8221	m558	PORTER	Yes.
+L584587	u8218	m558	MARTINS	Kurtz.
+L584585	u8218	m558	MARTINS	Who else?
+L584584	u8221	m558	PORTER	...give evidence.
+L584574	u8221	m558	PORTER	Ah, er war gleich tot - I mean, sie war gleich tot - brauchen kein angst zu. Ein moment...Wart ein bissel...Wartein bissel. Fraulein Schmidt!
+L584573	u8218	m558	MARTINS	I was told that he did not die at once.
+L584572	u8221	m558	PORTER	Er, alive? He couldn't have been alive, not with his head in the way it was.
+L584571	u8218	m558	MARTINS	Oh, er - oh...was he - was he still alive?
+L584570	u8221	m558	PORTER	Conscious? Cas soll ich auch noch wissen?
+L584569	u8218	m558	MARTINS	Could he have been conscious?
+L584568	u8218	m558	MARTINS	Why didn't they bring him in the house?
+L584567	u8221	m558	PORTER	Not saw, heard...heard. I heard the brakes. Wham! And I got to the window and saw them carry the body to the other side of the er...er Joseph...that's Joseph Emperor Joseph Statue.
+L584566	u8218	m558	MARTINS	You saw it?
+L584565	u8221	m558	PORTER	Happened...Yes happened right down there.
+L584563	u8218	m558	MARTINS	What's he saying?
+L584562	u8221	m558	PORTER	Sehen sie da gleich da unter. Da unten ist est passiert. Passiert - English.
+L584460	u8218	m558	MARTINS	What does he say?
+L584459	u8221	m558	PORTER	und ich kann nicht alle kennen.
+L584458	u8221	m558	PORTER	...Popescu...
+L584453	u8221	m558	PORTER	Yes, yes, I remember you.
+L584452	u8218	m558	MARTINS	You remember me? Upstairs...
+L584451	u8221	m558	PORTER	Mr. Lime - yes.
+L584450	u8218	m558	MARTINS	Did you know Mr. Lime well?
+L584449	u8221	m558	PORTER	Yes, sir.
+L584448	u8218	m558	MARTINS	Excuse me!
+L584395	u8218	m558	MARTINS	Must be some mistake.
+L584394	u8221	m558	PORTER	Baron Kurtz.
+L584249	u8221	m558	PORTER	Mr. Lime's.  Accident...
+L584248	u8218	m558	MARTINS	Coffin?
+L584246	u8218	m558	MARTINS	Who?
+L584245	u8221	m558	PORTER	Already gone.
+L584243	u8221	m558	PORTER	English?
+L584242	u8218	m558	MARTINS	Speak English?
+L585082	u8218	m558	MARTINS	Never.
+L585081	u8220	m558	POPESCU	...Mr. Martins?
+L585077	u8220	m558	POPESCU	Why no, Mr. Martins.
+L585076	u8218	m558	MARTINS	Should I make it all fact?
+L585074	u8218	m558	MARTINS	Yes.
+L585073	u8220	m558	POPESCU	...this time.
+L585071	u8218	m558	MARTINS	Not when I get interested.
+L585070	u8220	m558	POPESCU	Mr. Martins...
+L585064	u8220	m558	POPESCU	A novel, Mr. Martins?
+L585063	u8218	m558	MARTINS	Third Man.
+L584887	u8220	m558	POPESCU	Joseph Harbin? No...no.
+L584886	u8218	m558	MARTINS	Joseph Harbin.
+L584885	u8220	m558	POPESCU	No.
+L584879	u8220	m558	POPESCU	Not necessarily.
+L584878	u8218	m558	MARTINS	He probably knows a lot more than that. Somebody's lying.
+L584877	u8218	m558	MARTINS	That Harry was dead before you got him to that statue.
+L584876	u8220	m558	POPESCU	What else did he tell you?
+L584874	u8220	m558	POPESCU	Will we never teach these Austrians to be good citizens. It was his duty to give the evidence.
+L584873	u8218	m558	MARTINS	He didn't want to get involved.
+L584872	u8220	m558	POPESCU	Wasn't he at the police inquiry?
+L584864	u8220	m558	POPESCU	What else?
+L584863	u8218	m558	MARTINS	That's all you meant?
+L584860	u8220	m558	POPESCU	Of course there was. Some ice for Mr. Martins.
+L584859	u8218	m558	MARTINS	Something wrong.
+L584858	u8220	m558	POPESCU	Funny?
+L584857	u8218	m558	MARTINS	I thought there was something funny about the whole thing.
+L584851	u8220	m558	POPESCU	Two double whiskeys. Was wunschen sie?
+L584850	u8218	m558	MARTINS	Harry...
+L584845	u8220	m558	POPESCU	Not the sort of thing I should confess to a total stranger, but you have to break the rules sometimes. Humanity's duty.
+L584844	u8218	m558	MARTINS	Oh, you did.
+L584240	u8218	m558	MARTINS	I thought he'd be here to meet me.
+L584239	u8223	m558	U.S.M.P.	Okay.
+L584238	u8218	m558	MARTINS	Lime.  Harry Lime.
+L584237	u8223	m558	U.S.M.P.	His name?
+L584236	u8218	m558	MARTINS	With him.  Fifteen Stiffgasse.
+L584235	u8223	m558	U.S.M.P.	Where are you staying?
+L584234	u8218	m558	MARTINS	A friend of mine offered me a job here.
+L584233	u8223	m558	U.S.M.P.	What's the purpose of your visit here?
+L584232	u8218	m558	MARTINS	Oh.
+L584231	u8223	m558	U.S.M.P.	Passport, please.
