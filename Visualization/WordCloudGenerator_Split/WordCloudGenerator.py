@@ -58,6 +58,7 @@ def WordCloudGenerator():
 
 	#Options list for the dropdown
 	movies_opt = sorted(list(set(df.mName)))
+	plt.ion()
 	#char_opt = ['BIANCA','PETE','WADE']
 	# Create the main window 
 	root = Tk()
@@ -93,3 +94,5 @@ def WordCloudGenerator():
 	root.mainloop()
 
 WordCloudGenerator()
+plt.close('all')
+plt.ioff()
