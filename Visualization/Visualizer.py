@@ -8,9 +8,8 @@ import re
 
 ### DataFrame imports for WordCloud###
 df = pd.read_csv('WordCloudGenerator_Split/WordCloudPreprocessed.csv',encoding='ISO-8859-2',error_bad_lines=False,warn_bad_lines =False,header=0)
-df.columns=['lineId','chId','mId','chName','dialogue','mName','gender','cleaned_dialogue']
+df.columns=['lineId','chId','mId','chName','mName','cleaned_dialogue']
 df.head()
-df = df[df['dialogue'].notnull()]
 df = df[df['cleaned_dialogue'].notnull()]
 #########################################
 
