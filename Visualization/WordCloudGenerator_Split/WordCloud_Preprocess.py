@@ -10,9 +10,9 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #Go to folder which contains the TSV files
-conver_df = pd.read_csv('..\..\CleanUp\movie_conversations_cleanup.tsv',encoding='ISO-8859-2',warn_bad_lines =False,sep='\t',header=None)
-lines_df = pd.read_csv('..\..\CleanUp\movie_lines_cleanup.tsv',sep='\t',encoding='ISO-8859-2',error_bad_lines=False,warn_bad_lines =False,header=None)
-characters_df = pd.read_csv('..\..\CleanUp\movie_characters_metadata_cleanup.tsv',encoding='ISO-8859-2',sep='\t',warn_bad_lines =False,error_bad_lines=False,header=None)
+conver_df = pd.read_csv('..\..\CleanUp\movie_conversations_cleanup.tsv',encoding='ISO-8859-2',warn_bad_lines =False,sep='\t',header=0)
+lines_df = pd.read_csv('..\..\CleanUp\movie_lines_cleanup.tsv',sep='\t',encoding='ISO-8859-2',error_bad_lines=False,warn_bad_lines =False,header=0)
+characters_df = pd.read_csv('..\..\CleanUp\movie_characters_metadata_cleanup.tsv',encoding='ISO-8859-2',sep='\t',warn_bad_lines =False,error_bad_lines=False,header=0)
 
 # Characters_df contains metadata about characters and the movie he/she is in
 characters_df.columns=['chId','chName','mId','mName','gender']
@@ -64,6 +64,6 @@ def clean_dialogue( dialogue ):
 print ("Cleaning Dialogues")
 df['cleaned_dialogue'] = df['dialogue'].apply(clean_dialogue)
 
-df[['cleaned_dialogue','dialogue']].head()
+df=df.drop(['dialogue','gender'],axis=1)
 
 df.to_csv('WordCloudPreprocessed.csv',index=False)
