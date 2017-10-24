@@ -5,6 +5,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy
 import re
+import sys
+import subprocess
 
 ### DataFrame imports for WordCloud###
 df = pd.read_csv('WordCloudGenerator_Split/WordCloudPreprocessed.csv',encoding='ISO-8859-2',error_bad_lines=False,warn_bad_lines =False,header=0)
@@ -55,10 +57,12 @@ def Visualizer():
 	# create a child frame for each page
 	f1 = tk.Frame(nb)
 	f2 = tk.Frame(nb)
+	f3 = tk.Frame(nb)
 	
 	# create the pages
 	nb.add(f1, text='WordCloud Generator')
 	nb.add(f2, text='Gender_Statistics')
+	nb.add(f3, text='Dialogue_Generator')
 	
 	################################################################
 	
@@ -216,7 +220,37 @@ def Visualizer():
 	
 	button23 = tk.Button(f2, text='Generate top 10 movies with maximum dialogues for men', command=generate_top_10_movies_for_men)
 	button23.place(x=200,y=290)
-
+	
+	#########################################################################
+	### Embedding Dialogue Generator into Frame 3 of Notebook###
+	#########################################################################
+	def dialogue_generator():
+		result = subprocess.check_output([
+		sys.executable, 
+		'../dialog_generator/char_rnn_tensorflow_master/sample.py',
+		'--save_dir=../dialog_generator/char_rnn_tensorflow_master/save/' + genreselected.get() + '_' + ratingselected.get()
+		]).decode().replace('\\r\\n', '\n').replace('\\t', '\t').replace('b', '').replace('"', '').strip()
+		print(result)
+		
+	genre_opt = ['action','comedy','drama']
+	rating_opt = ['low','mid','high']
+	genreselected = tk.StringVar(f3)
+	ratingselected = tk.StringVar(f3)
+	# Set the default drop down option 
+	genreselected.set('action')
+	ratingselected.set ('low')
+	# Create the dropdown menu 
+	genredropdown = tk.OptionMenu(f3, genreselected, *genre_opt)
+	ratingdropdown = tk.OptionMenu(f3, ratingselected, *rating_opt)
+	# Place the dropdown menu
+	genredropdown.place(x=45, y=10)
+	ratingdropdown.place(x=550, y=10)
+	
+	#Create a button 
+	button31 = tk.Button(f3, text='Generate Dialogues', command=dialogue_generator)
+	button31.place(x=300,y=90)
+	
+	
 	root.mainloop()
 	
 Visualizer()
