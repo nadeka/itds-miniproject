@@ -1,5 +1,6 @@
 from wordcloud import WordCloud
 import tkinter as tk
+from tkinter import *
 import tkinter.ttk as ttk
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -224,14 +225,23 @@ def Visualizer():
 	#########################################################################
 	### Embedding Dialogue Generator into Frame 3 of Notebook###
 	#########################################################################
+	log = tk.Text(f3, state=DISABLED,width=700, height=250)
+	log.place(x=0,y=100)
 	def dialogue_generator():
 		result = subprocess.check_output([
 		sys.executable, 
 		'../dialog_generator/char_rnn_tensorflow_master/sample.py',
 		'--save_dir=../dialog_generator/char_rnn_tensorflow_master/save/' + genreselected.get() + '_' + ratingselected.get()
 		]).decode().replace('\\r\\n', '\n').replace('\\t', '\t').replace('b', '').replace('"', '').strip()
-		print(result)
+		log.config(state=NORMAL)
+		log.insert('1.0',result)
+		log.config(state=DISABLED)
 		
+	def clear_generator():
+		log.config(state=NORMAL)
+		log.delete('1.0','end')
+		log.config(state=DISABLED)
+	
 	genre_opt = ['action','comedy','drama']
 	rating_opt = ['low','mid','high']
 	genreselected = tk.StringVar(f3)
@@ -248,7 +258,12 @@ def Visualizer():
 	
 	#Create a button 
 	button31 = tk.Button(f3, text='Generate Dialogues', command=dialogue_generator)
-	button31.place(x=300,y=90)
+	button31.place(x=300,y=60)
+	
+	button32 = tk.Button(f3, text='Clear Text', command=clear_generator)
+	button32.place(x=500,y=60)
+	
+	
 	
 	
 	root.mainloop()
