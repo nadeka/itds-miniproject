@@ -21,6 +21,18 @@ original_movie_title_percentages = pd.read_csv('Gender_Stastics_Visualization/Or
 
 imputed_movie_title_percentages = pd.read_csv('Gender_Stastics_Visualization/Imputed_Dialogue_Percentages.csv',encoding='ISO-8859-2',error_bad_lines=False,warn_bad_lines =False,header=0)
 
+### Data Frame for Movies to get Top Rated Movies###
+movie_titles_df = pd.read_csv('../CleanUp/movie_titles_metadata_cleanup.tsv',sep='\t',encoding='ISO-8859-2',warn_bad_lines =False,error_bad_lines=False,header=0)
+movie_titles_df.columns = ['mId','movieTitle','movieYear','rating','geners']
+
+#Convert year to numeric
+movie_titles_df.movieYear= pd.to_numeric(movie_titles_df.movieYear)
+
+#Convert rating to numeric and round rating to one decimal point
+movie_titles_df.rating= pd.to_numeric(movie_titles_df.rating)
+movie_titles_df.rating= movie_titles_df.rating.round(decimals=1)
+
+
 # Split genres
 def split_genres (genres):
    return (re.sub("[^a-zA-Z-]", " ", genres).split())
@@ -59,11 +71,13 @@ def Visualizer():
 	f1 = tk.Frame(nb)
 	f2 = tk.Frame(nb)
 	f3 = tk.Frame(nb)
+	f4 = tk.Frame(nb)
 	
 	# create the pages
 	nb.add(f1, text='WordCloud Generator')
 	nb.add(f2, text='Gender_Statistics')
-	nb.add(f3, text='Dialogue_Generator')
+	nb.add(f3, text='Movie_Statistics')
+	nb.add(f4, text='Dialogue_Generator')
 	
 	################################################################
 	
@@ -223,9 +237,100 @@ def Visualizer():
 	button23.place(x=200,y=290)
 	
 	#########################################################################
-	### Embedding Dialogue Generator into Frame 3 of Notebook###
+	### Embedding Movie Statistics Visualization into Frame 3 of Notebook###
 	#########################################################################
-	log = tk.Text(f3, state=DISABLED,width=700, height=250)
+	rating_log = tk.Text(f3, state=DISABLED, width=700, height=250)
+	rating_log.place(x=0,y=120)
+	def generate_top_rated_movies():
+		## Clear the log first
+		rating_log.config(state=NORMAL)
+		rating_log.delete('1.0','end')
+		rating_log.config(state=DISABLED)
+		if ((genre_f3_selected.get())=='All'):
+			movie_titles_df_by_genre=movie_titles_df
+		else:
+			movie_titles_df_by_genre=movie_titles_df[(movie_titles_df.geners.apply(lambda x: genre_f3_selected.get() in x))]
+		if (pd.to_numeric(min_year_selected.get()) > pd.to_numeric(max_year_selected.get())):
+			rating_log.config(state=NORMAL)
+			rating_log.insert('1.0','Max year should be more than or equal to Min year')
+			rating_log.config(state=DISABLED)			
+		elif (pd.to_numeric(min_rating_selected.get()) > pd.to_numeric(max_rating_selected.get())):
+			rating_log.config(state=NORMAL)
+			rating_log.insert('1.0','Max rating should be more than or equal to Min rating')
+			rating_log.config(state=DISABLED)			
+		else:
+			top_rated=movie_titles_df_by_genre[((movie_titles_df_by_genre.movieYear>=pd.to_numeric(min_year_selected.get()))
+			&(movie_titles_df_by_genre.movieYear<=pd.to_numeric(max_year_selected.get()))
+			&(movie_titles_df_by_genre.rating>=pd.to_numeric(min_rating_selected.get()))
+			&(movie_titles_df_by_genre.rating<=pd.to_numeric(max_rating_selected.get())))].sort_values('rating',ascending=False)
+			if (top_rated.mId.count()<=pd.to_numeric(number_of_movies_selected.get())):
+				top_rated=top_rated
+			else:
+				top_rated=top_rated[0:pd.to_numeric(number_of_movies_selected.get())]
+			rating_log.config(state=NORMAL)
+			rating_log.insert('1.0',top_rated.to_string(index=False))
+			rating_log.config(state=DISABLED)
+		
+	ratings_opt = list(numpy.arange(2.5,9.5,0.5))
+	ratings_opt.insert(len(ratings_opt),max(movie_titles_df.rating))
+	year_opt = list(numpy.arange(1930,2011,5))
+	year_opt.insert(0,min(movie_titles_df.movieYear))
+	number_of_movies = list(numpy.arange(1,31,1))
+	# Create a variable for the default dropdown option 
+	genre_f3_selected = tk.StringVar(f3)
+	min_rating_selected = tk.StringVar(f3)
+	max_rating_selected = tk.StringVar(f3)
+	min_year_selected = tk.StringVar(f3)
+	max_year_selected = tk.StringVar(f3)
+	number_of_movies_selected = tk.StringVar(f3)
+	# Set the default drop down option	
+	genre_f3_selected.set ('All')
+	min_rating_selected.set(min(movie_titles_df.rating))
+	max_rating_selected.set(max(movie_titles_df.rating))
+	min_year_selected.set(min(movie_titles_df.movieYear))
+	max_year_selected.set(max(movie_titles_df.movieYear))
+	number_of_movies_selected.set('10')
+	# Create the dropdown menu
+	genre_label = Label(f3, text="Genre")
+	genre_f3_dropdown = tk.OptionMenu(f3, genre_f3_selected, *list_of_genres)
+	min_rating_label = Label(f3, text="Min Rating")
+	min_rating_dropdown = tk.OptionMenu(f3, min_rating_selected, *ratings_opt)
+	max_rating_label = Label(f3, text="Max Rating")
+	max_rating_dropdown = tk.OptionMenu(f3, max_rating_selected, *ratings_opt)
+	min_year_label = Label(f3, text="Min Year")
+	min_year_dropdown = tk.OptionMenu(f3, min_year_selected, *year_opt)
+	max_year_label = Label(f3, text="Max Year")
+	max_year_dropdown = tk.OptionMenu(f3, max_year_selected, *year_opt)
+	number_of_movies_label = Label(f3, text="Number of Movies")
+	number_of_movies_dropdown = tk.OptionMenu(f3, number_of_movies_selected, *number_of_movies)
+	# Place the dropdown menu
+	genre_f3_dropdown.place(x=30, y=30)
+	genre_label.place(x=30, y=10)
+	
+	min_rating_dropdown.place(x=155, y=30)
+	min_rating_label.place(x=155, y=10)
+	
+	max_rating_dropdown.place(x=255, y=30)
+	max_rating_label.place(x=255, y=10)
+	
+	min_year_dropdown.place(x=355, y=30)
+	min_year_label.place(x=355, y=10)
+	
+	max_year_dropdown.place(x=455, y=30)
+	max_year_label.place(x=455, y=10)
+
+	number_of_movies_dropdown.place(x=555, y=30)
+	number_of_movies_label.place(x=555, y=10)
+	
+
+	#Create a button 
+	button21 = tk.Button(f3, text='Generate top rated movies as per user parameters selected', command=generate_top_rated_movies)
+	button21.place(x=200,y=80)
+		
+	#########################################################################
+	### Embedding Dialogue Generator into Frame 4 of Notebook###
+	#########################################################################
+	log = tk.Text(f4, state=DISABLED, width=700, height=250)
 	log.place(x=0,y=100)
 	def dialogue_generator():
 		result = subprocess.check_output([
@@ -243,24 +348,24 @@ def Visualizer():
 		log.config(state=DISABLED)
 	
 	genre_opt = ['action','comedy','drama']
-	rating_opt = ['low','mid','high']
-	genreselected = tk.StringVar(f3)
-	ratingselected = tk.StringVar(f3)
+	rating_opt = ['low(0.0 to 5.9)','mid (6.0 to 7.4)','high(7.5 to 10.0)']
+	genreselected = tk.StringVar(f4)
+	ratingselected = tk.StringVar(f4)
 	# Set the default drop down option 
 	genreselected.set('action')
 	ratingselected.set ('low')
 	# Create the dropdown menu 
-	genredropdown = tk.OptionMenu(f3, genreselected, *genre_opt)
-	ratingdropdown = tk.OptionMenu(f3, ratingselected, *rating_opt)
+	genredropdown = tk.OptionMenu(f4, genreselected, *genre_opt)
+	ratingdropdown = tk.OptionMenu(f4, ratingselected, *rating_opt)
 	# Place the dropdown menu
 	genredropdown.place(x=45, y=10)
 	ratingdropdown.place(x=550, y=10)
 	
 	#Create a button 
-	button31 = tk.Button(f3, text='Generate Dialogues', command=dialogue_generator)
+	button31 = tk.Button(f4, text='Generate Dialogues', command=dialogue_generator)
 	button31.place(x=300,y=60)
 	
-	button32 = tk.Button(f3, text='Clear Text', command=clear_generator)
+	button32 = tk.Button(f4, text='Clear Text', command=clear_generator)
 	button32.place(x=500,y=60)
 	
 	
