@@ -348,7 +348,7 @@ def Visualizer():
 		log.config(state=DISABLED)
 	
 	genre_opt = ['action','comedy','drama']
-	rating_opt = ['low(0.0 to 5.9)','mid (6.0 to 7.4)','high(7.5 to 10.0)']
+	rating_opt = ['low','mid','high']
 	genreselected = tk.StringVar(f4)
 	ratingselected = tk.StringVar(f4)
 	# Set the default drop down option 
